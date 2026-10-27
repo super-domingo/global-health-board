@@ -5,55 +5,35 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>세계 디지털헬스케어 현황판 | (주)사이넥스 헬스케어혁신연구소</title>
 <style>
-/* Layout: 상단 바 / 지도 75% + 오늘의 헤드라인 25%. 지도는 Equal Earth 도법, 조회 시각 기준 낮·밤 */
+/* Layout: 상단 바 / 지도 75% + 오늘의 헤드라인 25%. 지도는 메르카토르 도법 */
 @font-face {
   font-family: "Pretendard Variable";
   src: url("fonts/PretendardVariable.woff2") format("woff2-variations"), url("fonts/PretendardVariable.woff2") format("woff2");
   font-weight: 45 920; font-style: normal; font-display: swap;
 }
+/* B안 슬레이트·틸, 라이트 고정 */
 :root {
-  --bg: #F7F3EC;
-  --panel: #FFFDF9;
-  --panel-2: #F3EDE3;
-  --line: #E6DED1;
-  --text: #1E2A3A;
-  --muted: #6A6E77;
-  --brand: #1F3A5F;
+  --bg: #F3F5F6;
+  --panel: #FFFFFF;
+  --panel-2: #F0F4F4;
+  --line: #D2DCDD;
+  --text: #122326;
+  --muted: #5B6B6E;
+  --brand: #12343B;
   --on-brand: #FFFFFF;
-  --accent: #D98E2B;
-  --ocean: #DCE3E3;
-  --land: #FBF7F0;
-  --land-line: #CBC2B2;
-  --grat: rgba(31, 58, 95, 0.07);
-  --night: #13213A;
-  --night-a: 0.085;
-  --high: #C8412B;
-  --medium: #E09A2C;
-  --low: #A39A8E;
-  --event: #5B6FA8;
-  --card: rgba(255, 253, 249, 0.94);
-  --shadow: 0 8px 24px rgba(31, 42, 58, 0.14), 0 1px 3px rgba(31, 42, 58, 0.08);
+  --accent: #2A9D8F;
+  --ocean: #D8E3E5;
+  --land: #FBFCFC;
+  --land-line: #BFCDCF;
+  --grat: rgba(18, 52, 59, 0.06);
+  --high: #C23B3B;
+  --medium: #D98A1C;
+  --low: #8A96A6;
+  --event: #5A6AA8;
+  --card: rgba(255, 255, 255, 0.95);
+  --shadow: 0 8px 24px rgba(18, 35, 38, 0.12), 0 1px 3px rgba(18, 35, 38, 0.08);
   --font: "Pretendard Variable", Pretendard, -apple-system, "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans KR", sans-serif;
-}
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --bg: #12161D; --panel: #191E27; --panel-2: #212731; --line: #2E3643;
-    --text: #ECE6DA; --muted: #9EA3AC; --brand: #AFC6E6; --on-brand: #12161D; --accent: #E6A84E;
-    --ocean: #18222E; --land: #262C35; --land-line: #3C4450; --grat: rgba(175, 198, 230, 0.06);
-    --night: #000000; --night-a: 0.16;
-    --high: #E5674F; --medium: #EBAA45; --low: #8F887E; --event: #8EA0D6;
-    --card: rgba(30, 36, 46, 0.95); --shadow: 0 8px 24px rgba(0, 0, 0, 0.45);
-    color-scheme: dark;
-  }
-}
-:root[data-theme="dark"] {
-  --bg: #12161D; --panel: #191E27; --panel-2: #212731; --line: #2E3643;
-  --text: #ECE6DA; --muted: #9EA3AC; --brand: #AFC6E6; --on-brand: #12161D; --accent: #E6A84E;
-  --ocean: #18222E; --land: #262C35; --land-line: #3C4450; --grat: rgba(175, 198, 230, 0.06);
-  --night: #000000; --night-a: 0.16;
-  --high: #E5674F; --medium: #EBAA45; --low: #8F887E; --event: #8EA0D6;
-  --card: rgba(30, 36, 46, 0.95); --shadow: 0 8px 24px rgba(0, 0, 0, 0.45);
-  color-scheme: dark;
+  color-scheme: light;
 }
 
 * { box-sizing: border-box; }
@@ -116,9 +96,6 @@ a { color: var(--brand); }
 .land.tracked.event { fill: color-mix(in srgb, var(--event) 22%, var(--land)); }
 .land.tracked:hover { filter: brightness(0.96); }
 .eu-outline { fill: none; stroke: var(--brand); stroke-width: 1.1; stroke-dasharray: 3 3; opacity: .55; pointer-events: none; }
-.night path { fill: var(--night); fill-opacity: var(--night-a); stroke: none; pointer-events: none; }
-.sun circle.core { fill: var(--accent); }
-.sun circle.halo { fill: var(--accent); fill-opacity: .18; }
 
 .overlay { position: absolute; inset: 0; pointer-events: none; }
 #leaders { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; overflow: visible; }
@@ -174,16 +151,6 @@ a { color: var(--brand); }
 .card .c-meta { display: flex; align-items: center; gap: 7px; font-size: 11.5px; color: var(--muted); margin-bottom: 3px; }
 .card .c-title { font-size: 14px; font-weight: 700; line-height: 1.42; letter-spacing: -0.2px; text-wrap: pretty; }
 
-.clock {
-  position: absolute; left: max(16px, env(safe-area-inset-left, 0px)); bottom: 14px; z-index: 5;
-  display: flex; align-items: center; gap: 10px; font-size: 11.5px; color: var(--muted);
-  background: color-mix(in srgb, var(--panel) 88%, transparent); border: 1px solid var(--line);
-  border-radius: 8px; padding: 6px 10px;
-}
-.clock b { color: var(--text); font-weight: 700; }
-.clock .sw-day, .clock .sw-night { display: inline-block; width: 12px; height: 8px; border-radius: 2px; border: 1px solid var(--line); vertical-align: -1px; margin-right: 4px; }
-.clock .sw-day { background: var(--land); }
-.clock .sw-night { background: color-mix(in srgb, var(--night) 32%, var(--land)); }
 .zoom-ctl {
   position: absolute; right: max(16px, env(safe-area-inset-right, 0px)); bottom: 14px; z-index: 5;
   display: flex; flex-direction: column; border: 1px solid var(--line); border-radius: 8px; overflow: hidden;
@@ -281,7 +248,6 @@ a { color: var(--brand); }
   .drawer { position: fixed; top: auto; left: 0; right: 0; width: 100%; max-height: 78vh; border-left: 0; border-top: 1px solid var(--line);
     border-radius: 14px 14px 0 0; transform: translateY(102%); padding-bottom: env(safe-area-inset-bottom, 0px); }
   .drawer.open { transform: none; }
-  .clock .hide-sm { display: none; }
 }
 @media (prefers-reduced-motion: reduce) {
   .badge.high .cnt, .ring { animation: none; }
@@ -323,7 +289,6 @@ a { color: var(--brand); }
     <div class="overlay" id="rings"></div>
     <div class="overlay" id="badges"></div>
     <div class="overlay" id="cards"></div>
-    <div class="clock" id="clock"><span><b class="num" id="clockText">-</b> <span class="hide-sm">KST 기준</span></span><span class="hide-sm"><i class="sw-day"></i>낮</span><span class="hide-sm"><i class="sw-night"></i>밤</span></div>
     <div class="zoom-ctl" role="group" aria-label="지도 확대·축소">
       <button id="zoomIn" aria-label="확대">+</button>
       <button id="zoomOut" aria-label="축소">−</button>
@@ -472,8 +437,6 @@ a { color: var(--brand); }
   var svg = d3.select('#map');
   var gZoom = svg.append('g');
   var gBase = gZoom.append('g');
-  var gNight = gZoom.append('g').attr('class', 'night');
-  var gSun = gZoom.append('g').attr('class', 'sun');
   var mapArea = document.getElementById('mapArea');
   var zoom = d3.zoom().scaleExtent([1, 7]).on('zoom', function (e) {
     t = e.transform; gZoom.attr('transform', t); placeOverlays();
@@ -517,7 +480,6 @@ a { color: var(--brand); }
     gBase.append('path').attr('class', 'eu-outline').attr('d', pathGen(world.euMerged));
     svg.call(zoom.transform, d3.zoomIdentity);
     paintCountries();
-    drawNight();
   }
 
   function paintCountries() {
@@ -528,40 +490,6 @@ a { color: var(--brand); }
       return 'land tracked ' + levelOf(groups[code]);
     });
     gBase.select('.eu-outline').style('display', groups.EU ? null : 'none');
-  }
-
-  // ---------- 낮·밤 (조회 시각의 실제 해 위치) ----------
-  function subsolar(date) {
-    var rad = Math.PI / 180;
-    var n = date.getTime() / 86400000 + 2440587.5 - 2451545.0;
-    var L = (280.460 + 0.9856474 * n) % 360;
-    var g = ((357.528 + 0.9856003 * n) % 360) * rad;
-    var lambda = (L + 1.915 * Math.sin(g) + 0.020 * Math.sin(2 * g)) * rad;
-    var eps = (23.439 - 0.0000004 * n) * rad;
-    var dec = Math.asin(Math.sin(eps) * Math.sin(lambda));
-    var ra = Math.atan2(Math.cos(eps) * Math.sin(lambda), Math.cos(lambda)) / rad;
-    var gmst = (280.46061837 + 360.98564736629 * n) % 360;
-    var lon = ((ra - gmst + 540) % 360) - 180;
-    return [lon, dec / rad];
-  }
-  function drawNight() {
-    if (!projection) return;
-    var now = new Date(), sun = subsolar(now);
-    var anti = [sun[0] > 0 ? sun[0] - 180 : sun[0] + 180, -sun[1]];
-    // 해가 진 곳(고도 0°)부터 시민·항해·천문 박명(−6/−12/−18°)까지 단계적으로 어둡게
-    var radii = [90, 84, 78, 72];
-    var sel = gNight.selectAll('path').data(radii);
-    sel.enter().append('path').merge(sel).attr('d', function (r) {
-      return pathGen(d3.geoCircle().center(anti).radius(r)());
-    });
-    var sp = projection(sun);
-    gSun.selectAll('*').remove();
-    if (sp) {
-      gSun.append('circle').attr('class', 'halo').attr('cx', sp[0]).attr('cy', sp[1]).attr('r', 11);
-      gSun.append('circle').attr('class', 'core').attr('cx', sp[0]).attr('cy', sp[1]).attr('r', 4.5);
-    }
-    var fmt = new Intl.DateTimeFormat('ko-KR', { timeZone: 'Asia/Seoul', month: 'numeric', day: 'numeric', weekday: 'short', hour: '2-digit', minute: '2-digit', hour12: false });
-    document.getElementById('clockText').textContent = fmt.format(now);
   }
 
   // ---------- 배지 ----------
@@ -876,7 +804,6 @@ a { color: var(--brand); }
       if (slotCount() !== oldSlots) startRotation(); else placeOverlays();
     }, 150);
   });
-  setInterval(drawNight, 60000);
 
   fetch('data/countries-110m.json').then(function (r) { return r.json(); }).then(function (topo) {
     world = topojson.feature(topo, topo.objects.countries);
