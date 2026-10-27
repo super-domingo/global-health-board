@@ -278,7 +278,7 @@ a { color: var(--brand); }
   </div>
   <div class="meta">
     <div class="org">(주)사이넥스 헬스케어혁신연구소</div>
-    <div class="upd">최종 업데이트 <b class="num" id="updatedAt">-</b> · 매일 07:00 (KST) 갱신</div>
+    <div class="upd">최종 업데이트 <b class="num" id="updatedAt">-</b> · 월·수·금 07:00 (KST) 발행</div>
   </div>
 </header>
 
@@ -742,7 +742,7 @@ a { color: var(--brand); }
     var m = state.meta || {};
     var bt = document.getElementById('briefText');
     if (m.briefing_ko) { bt.textContent = m.briefing_ko; bt.classList.remove('placeholder'); }
-    else { bt.textContent = state.loaded ? '오늘 브리핑은 아침 7시 갱신 때 작성됩니다.' : '브리핑을 불러오는 중입니다.'; bt.classList.add('placeholder'); }
+    else { bt.textContent = state.loaded ? '브리핑은 월·수·금 아침 7시 발행 때 작성됩니다.' : '브리핑을 불러오는 중입니다.'; bt.classList.add('placeholder'); }
     document.getElementById('briefDate').textContent = m.briefing_date ? longDate(m.briefing_date) : '';
     if (m.updatedAt) {
       var f = new Intl.DateTimeFormat('ko-KR', { timeZone: 'Asia/Seoul', year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit', hour12: false });
@@ -764,7 +764,7 @@ a { color: var(--brand); }
     if (projection) { paintCountries(); drawBadges(); }
     rebuildQueue();
     renderPanel();
-    if (state.loaded && !visible().length) setMsg('아직 수집된 소식이 없습니다', '매일 아침 7시(KST)에 자동으로 채워집니다.');
+    if (state.loaded && !visible().length) setMsg('아직 수집된 소식이 없습니다', '월·수·금 아침 7시(KST)에 자동으로 채워집니다.');
     else setMsg(null);
   }
 
@@ -816,7 +816,7 @@ a { color: var(--brand); }
   });
   renderPanel();
 
-  // ---------- 데이터 (data/news.json, 매일 07:00 KST 예약 작업이 갱신) ----------
+  // ---------- 데이터 (data/news.json, 월·수·금 07:00 KST 예약 작업이 갱신) ----------
   function loadNews() {
     return fetch('data/news.json?v=' + Date.now(), { cache: 'no-store' }).then(function (r) {
       if (!r.ok) throw new Error(r.status);
@@ -832,7 +832,7 @@ a { color: var(--brand); }
     });
   }
   loadNews();
-  // 켜 둔 화면도 하루 한 번 갱신된 내용을 반영하도록 30분마다 다시 읽는다
+  // 켜 둔 화면도 발행된 내용을 반영하도록 30분마다 다시 읽는다
   setInterval(function () { if (!document.hidden) loadNews(); }, 30 * 60 * 1000);
 })();
 </script>

@@ -6,7 +6,7 @@
 - 카테고리: 기업·서비스 / 정책·규제 / 투자·M&A / 전시·행사
 - 중요도: 즉시 확인 / 주의 / 참고
 - 지도의 낮·밤은 조회하는 시각의 실제 해 위치를 따른다.
-- 데이터는 `data/news.json` 하나이며, 매일 07:00 KST 예약 작업이 [UPDATE_GUIDE.md](UPDATE_GUIDE.md)대로 갱신한다.
+- 데이터는 `data/news.json` 하나이며, 일일 07:00 KST 예약 작업이 [UPDATE_GUIDE.md](UPDATE_GUIDE.md)대로 갱신한다.
 
 ## 구성
 - `index.html` — 화면 전체(D3, TopoJSON은 cdnjs에서 불러옴)
