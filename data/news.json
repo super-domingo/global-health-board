@@ -1,8 +1,22 @@
 {
- "updatedAt": "2026-10-27T21:43:20Z",
- "briefing_date": "2026-10-28",
- "briefing_ko": "이번 발행은 신규 소식이 많지 않았다. 브라질에서는 의사 66%가 AI를 쓰는 가운데 CFM 규정이 병원·의원의 AI 거버넌스 부담을 키우고 있고, 호주 빅토리아주는 5개년 디지털헬스 로드맵을 내놓았다. 스위스 Distalmotion은 최대 7천만 달러 대출을 확보했다. 다가오는 행사: 11/11~13 독일 DigiHealthDayS(ISfTeH 연례 콘퍼런스), 11/16~18 캐나다 Infoway 파트너십 콘퍼런스.",
+ "updatedAt": "2026-10-29T21:43:26Z",
+ "briefing_date": "2026-10-30",
+ "briefing_ko": "이번 주 후반 소식은 의료 AI·비대면진료 규제 논의가 중심이다. 캐나다 연방·주 개인정보 당국이 의료 AI의 책임 있는 활용을 촉구했고, 한국 복지부 장관은 비대면진료 플랫폼의 비만약 셀프처방 금지 방침을 밝혔다. 독일 KBV는 디지털혁신법 초안 수정을 요구했다.\n다가오는 행사: 스탠퍼드 AI+HEALTH 2026(12월 8일, 온라인).",
  "items": [
+  {
+   "country": "DE",
+   "category": "event",
+   "importance": "low",
+   "date": "2027-01-21",
+   "date_end": "2027-01-22",
+   "city_ko": "베를린",
+   "title_ko": "獨 제4회 학제간 디지털헬스 서밋, 베를린 개최",
+   "summary_ko": "연구캠퍼스 STIMULATE가 주관하는 제4회 학제간 디지털헬스 서밋(IDHS)이 1월 21~22일 베를린에서 열린다. AI, 로보틱스, 디지털 트윈, 개인 맞춤의학, VR·AR, 건강데이터 등을 다룬다.",
+   "source": "STIMULATE (Otto-von-Guericke Univ.)",
+   "url": "https://www.stimulate.ovgu.de/News_Presse/2026/KW37_DigitalHealthSummit.html",
+   "collected_at": "2026-10-30T06:43:26+09:00",
+   "id": "ev-DE-2027-01-21-1"
+  },
   {
    "country": "US",
    "category": "event",
@@ -44,6 +58,34 @@
    "url": "https://www.ces.tech/",
    "collected_at": "2026-10-27T14:50:00+09:00",
    "id": "ev-US-2027-01-06-1"
+  },
+  {
+   "country": "DE",
+   "category": "event",
+   "importance": "low",
+   "date": "2026-12-15",
+   "date_end": "2026-12-15",
+   "city_ko": "베를린",
+   "title_ko": "獨 TMF 제8회 국가 디지털헬스 심포지엄 개최",
+   "summary_ko": "TMF가 12월 15일 베를린 디자인오피스 훔볼트하펜에서 'AI와 디지털 주권, 미래 의학을 향하여'를 주제로 심포지엄을 연다. 독일 의료 연구 데이터와 AI 정책을 논의한다.",
+   "source": "TMF e.V.",
+   "url": "https://www.tmf-ev.de/en/events/national-digital-health-symposium-2026",
+   "collected_at": "2026-10-30T06:43:26+09:00",
+   "id": "ev-DE-2026-12-15-1"
+  },
+  {
+   "country": "US",
+   "category": "event",
+   "importance": "medium",
+   "date": "2026-12-08",
+   "date_end": "2026-12-09",
+   "city_ko": "온라인",
+   "title_ko": "스탠퍼드 AI+HEALTH 2026, 온라인 개최",
+   "summary_ko": "스탠퍼드 의료영상AI센터(AIMI)와 HAI, CME센터가 여는 제6회 의료 AI 가상 콘퍼런스가 12월 8~9일 온라인으로 열린다. 의료 AI 현황, 임상 적용, 현장 도입, 파운데이션 모델 등 4개 트랙으로 구성된다.",
+   "source": "Stanford AIMI",
+   "url": "https://aimi.stanford.edu/aihealth26",
+   "collected_at": "2026-10-30T06:43:26+09:00",
+   "id": "ev-US-2026-12-08-1"
   },
   {
    "country": "GB",
@@ -326,6 +368,42 @@
    "id": "ev-CA-2026-11-04-1"
   },
   {
+   "country": "CA",
+   "category": "policy",
+   "importance": "medium",
+   "date": "2026-10-29",
+   "title_ko": "加 연방·주 개인정보 당국, 의료 AI 책임 활용 촉구",
+   "summary_ko": "캐나다 연방·주·준주 개인정보 감독기관이 의료·보건연구 분야 AI의 책임 있는 활용을 촉구하는 공동 결의를 채택했다. AI 거버넌스·책임성 체계 의무화, 공공 협의, 연구윤리 지침 강화를 요구했다.",
+   "source": "캐나다 연방 개인정보보호위원회(OPC)",
+   "url": "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_261029/",
+   "collected_at": "2026-10-30T06:43:26+09:00",
+   "id": "CA-2026-10-29-1"
+  },
+  {
+   "country": "KR",
+   "category": "policy",
+   "importance": "medium",
+   "date": "2026-10-29",
+   "title_ko": "복지부·중기부, 제약바이오 벤처 200곳 5년 지원",
+   "summary_ko": "보건복지부와 중소벤처기업부가 'K-제약바이오 프론티어기업 육성 방안'을 발표하고 2030년까지 유망 벤처 200곳을 선발해 R&D·임상·투자·해외진출을 최대 5년간 지원하기로 했다. 매년 50곳을 뽑아 3년간 직접투자 600억 원, 사업화 보증 900억 원 등 총 1500억 원을 공급하며 AI 신약개발도 함께 추진한다.",
+   "source": "데일리팜",
+   "url": "https://www.dailypharm.com/user/news/343953",
+   "collected_at": "2026-10-30T06:43:26+09:00",
+   "id": "KR-2026-10-29-1"
+  },
+  {
+   "country": "AU",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-10-29",
+   "title_ko": "豪 스마트 침구 기술, 미국 특허 취득",
+   "summary_ko": "멜버른 메드테크 기업 슬리프타이트와 RMIT 연구진이 요양시설 입소자의 움직임을 감지해 낙상 위험을 파악하는 스마트 침구 기술로 미국 특허를 받았다. 매트리스 커버에 유연 센서를 넣어 자세를 추적하므로 착용형 기기가 필요 없다.",
+   "source": "Pulse+IT",
+   "url": "https://www.pulseit.news/australian-digital-health/australian-smart-bedding-tech-secures-us-patent/",
+   "collected_at": "2026-10-30T06:43:26+09:00",
+   "id": "AU-2026-10-29-1"
+  },
+  {
    "country": "AU",
    "category": "policy",
    "importance": "medium",
@@ -348,6 +426,30 @@
    "url": "https://www.pulseit.news/australian-digital-health/telstra-health-launches-analytics-suite-for-aged-care/",
    "collected_at": "2026-10-28T06:43:20+09:00",
    "id": "AU-2026-10-28-2"
+  },
+  {
+   "country": "DE",
+   "category": "policy",
+   "importance": "medium",
+   "date": "2026-10-28",
+   "title_ko": "獨 KBV, 디지털혁신법 초안 수정 요구",
+   "summary_ko": "독일 의사협회(KBV)가 연방보건부·경제부에 서한을 보내 디지털 혁신법(GeDIG) 정부안의 수정을 요구했다. 전자환자기록(ePA)을 통한 디지털 진료 진입을 건강보험사 앱으로만 한정하지 말고 116117 등 동등한 접근 경로를 유지해야 한다는 입장이다. EU 집행위도 통보 절차에서 비슷한 우려를 제기한 것으로 전해졌다.",
+   "source": "Deutsches Ärzteblatt",
+   "url": "https://www.aerzteblatt.de/news/gedig-nicht-rechtssicher-und-praktikabel-kbv-mahnt-anpassungen-an-af1ff0c4-9aaa-42a5-898b-b1a28ed8132d",
+   "collected_at": "2026-10-30T06:43:26+09:00",
+   "id": "DE-2026-10-28-1"
+  },
+  {
+   "country": "AU",
+   "category": "policy",
+   "importance": "low",
+   "date": "2026-10-28",
+   "title_ko": "豪 GP학회, 병원-의원 팩스 소통 종식 촉구",
+   "summary_ko": "호주왕립일반의학회(RACGP)가 상호운용 가능한 디지털 헬스 시스템 투자 확대와 병원·일반의 간 팩스 기반 소통 종식을 촉구했다. 보고서 수치로는 호주 일반의 절반이 지난 1년 사이 새로운 진료 방식을 도입한 것으로 나타났다.",
+   "source": "Pulse+IT",
+   "url": "https://www.pulseit.news/australian-digital-health/racgp-calls-for-an-end-to-fax-based-comms/",
+   "collected_at": "2026-10-30T06:43:26+09:00",
+   "id": "AU-2026-10-28-3"
   },
   {
    "country": "AU",
@@ -396,6 +498,66 @@
    "url": "https://www.aerzteblatt.de/themen/digitalisierung/ki-assistent-verkurzt-arztliche-dokumentationszeit-bei-intensiver-nutzung-89d07edd-47d7-406a-b8d8-c26829672618",
    "collected_at": "2026-10-28T06:43:20+09:00",
    "id": "DE-2026-10-27-1"
+  },
+  {
+   "country": "BR",
+   "category": "investment",
+   "importance": "low",
+   "date": "2026-10-27",
+   "title_ko": "伯 헬스테크 레베나, 시드 4500만 헤알 유치",
+   "summary_ko": "브라질 헬스테크 레베나(Revena)가 시드 라운드로 4500만 헤알을 유치했다. 진료기록·계약 조건을 분석해 보험사 청구 전 병원 청구 데이터를 점검하는 AI 플랫폼으로, 브라질 10대 병원그룹 중 4곳과 일하며 미국 진출도 계획한다.",
+   "source": "Brasil Inovador",
+   "url": "https://brasilinovador.com.br/inteligencia-artificial-no-faturamento-hospitalar-avanca-sobre-mercado-de-us-46-bilhoes-e-atrai-aportes-no-brasil/",
+   "collected_at": "2026-10-30T06:43:26+09:00",
+   "id": "BR-2026-10-27-2"
+  },
+  {
+   "country": "US",
+   "category": "investment",
+   "importance": "low",
+   "date": "2026-10-27",
+   "title_ko": "美 클래리티케어, 시리즈A 1630만 달러 유치",
+   "summary_ko": "샌프란시스코 기반 의료 업무 자동화 소프트웨어 기업 클래리티케어가 헤드라인 주도로 1630만 달러 시리즈A를 유치했다. 자금은 자동화 기술 고도화, 미국 의료망 고객 확보, EHR 연동 확대에 쓰인다.",
+   "source": "The SaaS News",
+   "url": "https://thesaasnews.com/news/claritycare-raises-16-3m-series-a",
+   "collected_at": "2026-10-30T06:43:26+09:00",
+   "id": "US-2026-10-27-1"
+  },
+  {
+   "country": "CH",
+   "category": "investment",
+   "importance": "low",
+   "date": "2026-10-27",
+   "title_ko": "瑞 Atlas Bio, 시드 포함 1250만 달러 유치",
+   "summary_ko": "바젤 기반 테크바이오 기업 Atlas Bio가 스텔스 모드를 벗고 총 1250만 달러를 조달했다. Creandum 주도 1000만 달러 시드와 비공개였던 250만 달러 프리시드로, 약 200만 건의 RNA 데이터로 학습한 AI 모델이 가상 환자 코호트로 약효·안전성을 시뮬레이션한다. 자금은 인력 확충과 플랫폼 검증에 쓰인다.",
+   "source": "Startupticker.ch",
+   "url": "https://www.startupticker.ch/en/news/atlas-bio-steps-out-of-stealth-with-12-5m-funding",
+   "collected_at": "2026-10-30T06:43:26+09:00",
+   "id": "CH-2026-10-27-2"
+  },
+  {
+   "country": "KR",
+   "category": "policy",
+   "importance": "medium",
+   "date": "2026-10-27",
+   "title_ko": "복지부 장관 \"비대면진료 플랫폼 비만약 셀프처방 금지\"",
+   "summary_ko": "정은경 보건복지부 장관이 27일 국회 국정감사에서 비대면진료 중개 플랫폼이 환자가 진료 전에 비만치료제 종류·용량·수령 방식을 미리 고르게 하는 행위를 금지하겠다고 밝혔다. 복지부는 비대면진료 제도화를 위한 시행규칙·고시·가이드라인에 관련 기준을 담을 방침이다.",
+   "source": "데일리팜",
+   "url": "https://dailypharm.com/user/news/343907",
+   "collected_at": "2026-10-30T06:43:26+09:00",
+   "id": "KR-2026-10-27-1"
+  },
+  {
+   "country": "KR",
+   "category": "investment",
+   "importance": "low",
+   "date": "2026-10-27",
+   "title_ko": "의약품 유통 플랫폼 바로팜, 코스닥 IPO 추진",
+   "summary_ko": "바로팜이 신주 178만 주를 공모해 292억~360억 원을 조달하며 11월 초 코스닥 상장을 목표로 한다. 기관 수요예측은 28일까지, 일반 청약은 11월 2~3일이며 조달 자금은 AI 기술 개발, 해외 진출, 생산시설 확충에 쓸 계획이다.",
+   "source": "데일리팜",
+   "url": "https://www.dailypharm.com/user/news/343871",
+   "collected_at": "2026-10-30T06:43:26+09:00",
+   "id": "KR-2026-10-27-2"
   },
   {
    "country": "SG",
@@ -1042,152 +1204,6 @@
    "url": "https://themedtechconference.com/2026-medtech-conference-planning-guide/",
    "collected_at": "2026-10-27T14:50:00+09:00",
    "id": "ev-US-2026-10-18-1"
-  },
-  {
-   "country": "UY",
-   "category": "policy",
-   "importance": "low",
-   "date": "2026-10-16",
-   "title_ko": "우루과이 보건부, 정신건강 통합 웹포털 개설",
-   "summary_ko": "우루과이 보건부 등 범부처 정신건강위원회가 국가 정신건강 서비스·프로그램·자원 정보를 한곳에 모은 웹포털(gub.uy/salud-mental)을 개설했다. 낙인 해소 캠페인도 함께 시작했으며, ASSE 대기자 명단은 15% 감소했다고 밝혔다.",
-   "source": "MSP Uruguay (gub.uy)",
-   "url": "https://www.gub.uy/ministerio-salud-publica/comunicacion/noticias/nueva-web-salud-mental-reune-prestaciones-recursos-del-estado-unico-espacio",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "UY-2026-10-16-1"
-  },
-  {
-   "country": "AR",
-   "category": "policy",
-   "importance": "low",
-   "date": "2026-10-16",
-   "title_ko": "PAHO, 아르헨서 남미 의료진 디지털전환 연수",
-   "summary_ko": "범미보건기구(PAHO)와 Hospital Italiano가 브라질·콜롬비아·우루과이 보건인력을 대상으로 디지털 전환 연수를 진행했다. AI, 전자의무기록, 환자 포털, 데이터 대시보드 등을 다뤘다.",
-   "source": "PAHO/WHO",
-   "url": "https://www.paho.org/es/noticias/16-10-2026-equipos-salud-brasil-colombia-uruguay-se-capacitaron-argentina-sobre",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "AR-2026-10-16-1"
-  },
-  {
-   "country": "EU",
-   "category": "policy",
-   "importance": "low",
-   "date": "2026-10-16",
-   "title_ko": "EU MDR·IVDR 개정 지연…최종안 2027년말 전망",
-   "summary_ko": "EU 의료기기규정(MDR/IVDR) 개정안에 대해 유럽의회에 800건 가까운 수정안이 제출됐고, 본회의 표결은 2027년 초, 3자 협상은 2027년 상반기, 최종안은 2027년 말~2028년 초로 전망된다는 분석이 나왔다. 개정안은 AI 의료기기를 AI법보다 MDR/IVDR 중심으로 규율하고 저위험 소프트웨어를 Class I로 하향하는 방안을 담고 있다.",
-   "source": "Sidley Austin (Good Life Sci)",
-   "url": "https://goodlifesci.sidley.com/2026/10/16/a-more-competitive-medtech-landscape-in-the-eu-what-the-mdr-ivdr-revision-could-mean-for-medtech-manufacturers-and-investors/",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "EU-2026-10-16-1"
-  },
-  {
-   "country": "PY",
-   "category": "policy",
-   "importance": "low",
-   "date": "2026-10-15",
-   "title_ko": "파라과이 IPS, 가상병원·AI 기반 디지털화 추진",
-   "summary_ko": "파라과이 사회보장청(IPS) 데를리스 레온 청장이 만성질환자 대상 '가상병원'을 통해 원격진료와 전자처방, 인근 기관 약 수령을 지원하고 있다고 밝혔다. 향후 5년간 원격의료·AI·업무 디지털화를 활용한 데이터 기반 의사결정을 추진하고, 예약 채널도 개선할 계획이다.",
-   "source": "La Nación (Paraguay)",
-   "url": "https://www.lanacion.com.py/pais/2026/10/15/titular-del-ips-anuncia-mejoras-en-el-call-center-y-garantiza-farmacos/",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "PY-2026-10-15-1"
-  },
-  {
-   "country": "US",
-   "category": "investment",
-   "importance": "medium",
-   "date": "2026-10-15",
-   "title_ko": "가족돌봄 플랫폼 Abby Care, 8,200만달러 조달",
-   "summary_ko": "가족을 유급 간병인으로 교육·인증하고 간호사 케어매니저와 연결하는 Abby Care가 Transformation Capital 주도로 8,200만 달러 시리즈C를 유치했다. CVS Health Ventures 등이 신규 참여했으며 신규 시장 진출과 AI·임상연구·보험사 제휴에 투자한다.",
-   "source": "Abby Care",
-   "url": "https://www.abbycare.org/blog/abby-care-series-c-raise",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "US-2026-10-15-1"
-  },
-  {
-   "country": "FR",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-10-15",
-   "title_ko": "佛 Withings, 외부앱 데이터 연동 유료화",
-   "summary_ko": "프랑스 커넥티드헬스 기업 Withings가 10월 13일 이후 신규 계정에 대해 Apple Health·Health Connect 등 외부 앱 자동 동기화를 연 99.5달러 구독(Withings+) 기능으로 전환했다. 기존 사용자는 영향이 없으며 자체 앱 내 데이터와 PDF 내보내기는 무료로 유지된다.",
-   "source": "Tech Insider",
-   "url": "https://tech-insider.org/withings-plus-subscription-sync-fee-2026/",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "FR-2026-10-15-1"
-  },
-  {
-   "country": "CH",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-10-15",
-   "title_ko": "瑞 MindMaze 재택재활 연구 성과…OxyPrem CE 획득",
-   "summary_ko": "스위스 MindMaze가 Vibra Healthcare와 진행한 재택 디지털 재활(MindMotion GO) 다기관 후향 연구에서 172명 환자의 운동 훈련량이 중앙값 기준 3배 늘고 기능 지표가 개선됐다고 밝혔으며, 연말 MindMotion Lite 출시를 앞두고 있다. 같은 날 OxyPrem의 신생아 조직산소 모니터 NOAH는 EU MDR CE 인증을 받았다.",
-   "source": "Startupticker.ch",
-   "url": "https://www.startupticker.ch/en/news/major-developments-for-three-swiss-medtech-startups",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "CH-2026-10-15-1"
-  },
-  {
-   "country": "CA",
-   "category": "investment",
-   "importance": "low",
-   "date": "2026-10-15",
-   "title_ko": "가족계획 복지 플랫폼 Sprout, 355만 캐나다달러 시드",
-   "summary_ko": "난임·임신·육아휴직 지원 복리후생 플랫폼 Sprout Family가 BDC Thrive Venture Fund 주도로 355만 캐나다달러 시드 투자를 유치했다. 임신·산후관리·복직 지원으로 서비스를 확대하고 보험·복지 파트너십을 늘릴 계획이다.",
-   "source": "Newswire.ca (CNW)",
-   "url": "https://www.newswire.ca/news-releases/sprout-family-closes-3-55m-cad-oversubscribed-seed-round-to-build-canada-s-infrastructure-for-family-building-benefits--832880352.html",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "CA-2026-10-15-1"
-  },
-  {
-   "country": "CN",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-10-15",
-   "title_ko": "앤트 헬스AI '아푸', 타임 '올해의 발명' 선정",
-   "summary_ko": "미국 타임지가 발표한 '2026 최고의 발명' 목록에 앤트그룹의 건강 AI 앱 '아푸(阿福)'가 중국 AI 앱으로는 유일하게 선정됐다. 9월 기준 아푸 앱 사용자는 1억5000만명, 일일 건강 상담 건수는 약 2000만건이다.",
-   "source": "36氪",
-   "url": "https://www.36kr.com/newsflashes/4027185786720903",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "CN-2026-10-15-1"
-  },
-  {
-   "country": "GB",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-10-15",
-   "title_ko": "英 GP 'AI 접수원' 도입 진료소, 환자 불만 확산",
-   "summary_ko": "옥스퍼드셔 원티지의 한 GP 진료소가 7월 도입한 AI 전화 트리아지 봇에 대해 환자들이 '진료를 가로막는 벽'이라며 불만을 제기했다. 진료소 측은 첫 달 피드백의 79%가 긍정적이었으며 디지털 이용이 어려운 환자에게 인력을 집중하기 위한 조치라고 설명했다.",
-   "source": "Resultsense (BBC/LDRS 보도 인용)",
-   "url": "https://www.resultsense.com/news/2026-10-15-wantage-gp-ai-receptionist-patient-frustration/",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "GB-2026-10-15-1"
-  },
-  {
-   "country": "FR",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-10-15",
-   "title_ko": "佛 Withings 체중계, 타임 '올해의 발명품' 선정",
-   "summary_ko": "Withings의 스마트 체중계 BodyScan 2가 타임지 '2026 최고의 발명품'에 선정됐다. 손잡이 전극으로 60여 개 지표를 측정하며, 가정용 체중계 최초로 고혈압 위험과 심장 박출 효율을 측정한다고 회사는 밝혔다.",
-   "source": "TIME",
-   "url": "https://time.com/collection/best-inventions/2026/withings-bodyscan-2/",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "FR-2026-10-15-2"
-  },
-  {
-   "country": "BR",
-   "category": "event",
-   "importance": "medium",
-   "date": "2026-10-14",
-   "date_end": "2026-10-15",
-   "city_ko": "상파울루",
-   "title_ko": "브라질 민간병원협회 Conahp 2026 개최",
-   "summary_ko": "브라질 민간병원협회(Anahp)가 설립 25주년을 맞아 상파울루 트랜스아메리카 엑스포센터에서 연례 콘퍼런스 Conahp를 열었다. 향후 25년의 보건의료 시스템 전환을 주제로 병원 경영, 디지털 전환, 지속가능성을 논의한 브라질 병원업계 대표 행사다.",
-   "source": "Anahp (Associação Nacional de Hospitais Privados)",
-   "url": "https://futurodasaude.com.br/conahp-2026-debate-caminhos-para-transformar-o-sistema-de-saude/",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "ev-BR-2026-10-14-1"
   }
  ]
 }
