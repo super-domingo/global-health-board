@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-10-29T21:43:26Z",
- "briefing_date": "2026-10-30",
- "briefing_ko": "이번 주 후반 소식은 의료 AI·비대면진료 규제 논의가 중심이다. 캐나다 연방·주 개인정보 당국이 의료 AI의 책임 있는 활용을 촉구했고, 한국 복지부 장관은 비대면진료 플랫폼의 비만약 셀프처방 금지 방침을 밝혔다. 독일 KBV는 디지털혁신법 초안 수정을 요구했다.\n다가오는 행사: 스탠퍼드 AI+HEALTH 2026(12월 8일, 온라인).",
+ "updatedAt": "2026-11-01T21:42:46Z",
+ "briefing_date": "2026-11-02",
+ "briefing_ko": "이번 주말 사이 새로 확인된 대형 소식은 많지 않았다. 한국 식약처의 디지털의료기기 허가·심사 설명회, 호주 오라클·알라야케어의 의료 AI·데이터 서비스, 독일 샤리테 병원 사이버공격 정보 유출 등 중간·소규모 동향이 중심이다.\n다가오는 큰 행사: HLTH 2026(11/15 라스베이거스), MEDICA·COMPAMED(11/16 뒤셀도르프), RSNA 2026(11/29 시카고).",
  "items": [
   {
    "country": "DE",
@@ -368,6 +368,56 @@
    "id": "ev-CA-2026-11-04-1"
   },
   {
+   "country": "DE",
+   "category": "event",
+   "importance": "medium",
+   "date": "2026-11-04",
+   "date_end": "2026-11-05",
+   "city_ko": "뮌헨",
+   "title_ko": "獨 디지털헬스 서밋 2026, 뮌헨서 이틀간 개최",
+   "summary_ko": "뮌헨 TUM 병원 TranslaTUM에서 'AI meets HI' 주제로 열리는 디지털헬스 서밋. 창업가·의료진·투자자가 참여해 의료 AI 혁신 사례를 논의한다.",
+   "source": "Digital Health Summit Munich",
+   "url": "https://www.digitalhealthsummit.de",
+   "collected_at": "2026-11-02T06:42:46+09:00",
+   "id": "ev-DE-2026-11-04-1"
+  },
+  {
+   "country": "AU",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-11-02",
+   "title_ko": "알라야케어, 노인요양 데이터 이전 플랫폼 출시",
+   "summary_ko": "알라야케어가 요양시설 사업자가 기존 소프트웨어에서 이전하도록 돕는 데이터 마이그레이션 플랫폼을 내놨다. 입소자 데이터를 추적 가능한 절차로 옮길 수 있다고 회사는 밝혔다. 새 보고 요건과 재정 압박에 대응한 출시다.",
+   "source": "Pulse+IT",
+   "url": "https://www.pulseit.news/australian-digital-health/alayacare-launches-data-migration-platform/",
+   "collected_at": "2026-11-02T06:42:46+09:00",
+   "id": "AU-2026-11-02-1"
+  },
+  {
+   "country": "DE",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-10-30",
+   "title_ko": "獨 샤리테, 사이버공격으로 연락처 14만 건 유출",
+   "summary_ko": "베를린 샤리테 병원이 웹서버 사이버공격으로 직원·학생·뉴스레터 구독자 등 약 14만 명의 연락처가 유출됐다고 밝혔다. 환자 진료에는 영향이 없고 민감 건강정보는 포함되지 않았으나, 예약 문의 자유서식란에 의료 정보가 있을 수 있어 개별 통지 중이다.",
+   "source": "Deutsches Ärzteblatt",
+   "url": "https://www.aerzteblatt.de/themen/digitalisierung/charite-knapp-140000-kontaktdaten-bei-cyberangriff-abgeflossen-2c5a0f50-38aa-43f2-8fd9-1163f6deef74",
+   "collected_at": "2026-11-02T06:42:46+09:00",
+   "id": "DE-2026-10-30-1"
+  },
+  {
+   "country": "KR",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-10-30",
+   "title_ko": "이대의료원, 세계병원총회서 디지털 의학교육 선보여",
+   "summary_ko": "이화여대의료원이 서울 코엑스 마곡에서 열린 제49회 국제병원연맹 세계병원총회에 부스를 차려 해부학 교육 등 디지털 의학교육 프로그램을 소개했다. 10개국 의료계 인사 39명이 서울병원을 방문해 국제 협력에 관심을 보였다.",
+   "source": "Korea Biomedical Review",
+   "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33670",
+   "collected_at": "2026-11-02T06:42:46+09:00",
+   "id": "KR-2026-10-30-1"
+  },
+  {
    "country": "CA",
    "category": "policy",
    "importance": "medium",
@@ -450,6 +500,90 @@
    "url": "https://www.pulseit.news/australian-digital-health/racgp-calls-for-an-end-to-fax-based-comms/",
    "collected_at": "2026-10-30T06:43:26+09:00",
    "id": "AU-2026-10-28-3"
+  },
+  {
+   "country": "US",
+   "category": "company",
+   "importance": "medium",
+   "date": "2026-10-28",
+   "title_ko": "美 STAT, 에픽 EHR 데이터 접근 차단 의혹 보도",
+   "summary_ko": "STAT 탐사보도에 따르면 미국 최대 EHR 업체 에픽이 경쟁 소프트웨어 개발사의 환자 데이터 접근을 선별적으로 막고 있다. 에픽 앱마켓 입점 기업 임원 12곳이 인터페이스 거부, 높은 접속료 등으로 사업이 위축됐다고 증언했다. 에픽은 법이 요구하는 것보다 많은 연결을 제공한다고 반박했다.",
+   "source": "STAT",
+   "url": "https://www.statnews.com/2026/10/28/epic-systems-ehr-dominance-health-tech-antitrust-scrutiny/",
+   "collected_at": "2026-11-02T06:42:46+09:00",
+   "id": "US-2026-10-28-1"
+  },
+  {
+   "country": "CA",
+   "category": "policy",
+   "importance": "medium",
+   "date": "2026-10-28",
+   "title_ko": "加 연방정부, 보건연구에 8억8천만 달러 투입",
+   "summary_ko": "마조리 미셸 보건부 장관이 보건 연구와 차세대 연구자 지원을 위해 8억8천만 캐나다달러를 발표했다. CIHR 프로젝트 보조금으로 439개 과제에 4억 달러 이상, 연구인력 훈련 지원에 4억8천만 달러 이상이 배정된다.",
+   "source": "Canadian Healthcare Technology",
+   "url": "https://www.canhealth.com/2026/10/28/ottawa-invests-880-million-in-health/",
+   "collected_at": "2026-11-02T06:42:46+09:00",
+   "id": "CA-2026-10-28-1"
+  },
+  {
+   "country": "CA",
+   "category": "policy",
+   "importance": "low",
+   "date": "2026-10-28",
+   "title_ko": "加 퀘벡, 신임 AI·디지털부 장관 임명",
+   "summary_ko": "퀘벡 신정부가 전 CHUM·Logibec 출신으로 퀘벡혁신위원회 최고AI책임자를 지낸 앤 응우옌을 AI·디지털부 장관에 임명했다. 신임 총리는 선거 공약으로 산테퀘벡 해체도 내세웠다.",
+   "source": "Canadian Healthcare Technology",
+   "url": "https://www.canhealth.com/2026/10/28/anne-nguyen-named-ai-minister-for-quebec/",
+   "collected_at": "2026-11-02T06:42:46+09:00",
+   "id": "CA-2026-10-28-2"
+  },
+  {
+   "country": "BR",
+   "category": "policy",
+   "importance": "medium",
+   "date": "2026-10-28",
+   "title_ko": "브라질 ANPD, 의료정보 유출 지자체에 시정조치",
+   "summary_ko": "브라질 개인정보보호청(ANPD)이 페이라지산타나 시가 관보에 1,241명의 질병 진단명을 노출한 사건에 경고와 공개 조치를 내렸다. 정보보호책임자 지정, 보안정책 도입, 직원 교육 등이 명령됐으며 공공기관이라 과징금은 없다.",
+   "source": "Saúde Digital News",
+   "url": "https://saudedigitalnews.com.br/28/10/2026/anpd-estabelece-medidas-corretivas-a-prefeitura-de-feira-de-santana-pelo-vazamento-de-dados-medicos-de-1-200-pessoas/",
+   "collected_at": "2026-11-02T06:42:46+09:00",
+   "id": "BR-2026-10-28-1"
+  },
+  {
+   "country": "BR",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-10-28",
+   "title_ko": "브라질 HarpiAI, 유방촬영 AI 판독 5분 내 완료",
+   "summary_ko": "HarpiAI의 AI가 Pixeon 영상 뷰어와 연동돼 유방촬영을 5분 안에 분석하고 이상 소견을 표시한다. 3개 클리닉 내부 연구에서 재소환이 평균 약 95% 줄었고, 약 200개 의료기관에서 월 13만 건을 처리한다.",
+   "source": "Saúde Digital News",
+   "url": "https://saudedigitalnews.com.br/28/10/2026/ia-analisa-mamografias-em-ate-5-minutos-e-reduz-reconvocacoes/",
+   "collected_at": "2026-11-02T06:42:46+09:00",
+   "id": "BR-2026-10-28-2"
+  },
+  {
+   "country": "KR",
+   "category": "policy",
+   "importance": "medium",
+   "date": "2026-10-28",
+   "title_ko": "식약처, 제2차 디지털의료기기 허가·심사 설명회",
+   "summary_ko": "식약처가 10월 28일 서울 SETEC에서 제2차 디지털의료기기 허가·심사 업무 설명회를 열었다. 올해 10월 시행된 신기술의료기기 허가심사 혁신방안과 13종의 제·개정 가이드라인을 산업계에 안내했다. AI 적용기기 심사와 7개 적응증별 임상시험계획서 심사 방안도 다뤘다.",
+   "source": "식품의약품안전처(KDI 경제정보센터 게재)",
+   "url": "https://eiec.kdi.re.kr/policy/materialView.do?num=288609&topic=P",
+   "collected_at": "2026-11-02T06:42:46+09:00",
+   "id": "KR-2026-10-28-1"
+  },
+  {
+   "country": "AU",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-10-28",
+   "title_ko": "오라클, 의료기관용 에이전틱 AI 기능 확대",
+   "summary_ko": "오라클이 Fusion 클라우드 애플리케이션에 의료기관용 에이전틱 AI 기능을 추가했다. 인력 계획, 임상 자격 관리, 공급망 등 운영 업무가 대상이다. 올랜도 보건·생명과학 서밋에서 발표됐다.",
+   "source": "Pulse+IT",
+   "url": "https://www.pulseit.news/australian-digital-health/oracle-expands-fusion-agentic-ai-capabilities-for-healthcare/",
+   "collected_at": "2026-11-02T06:42:46+09:00",
+   "id": "AU-2026-10-28-4"
   },
   {
    "country": "AU",
@@ -1130,66 +1264,6 @@
    "url": "https://www.aerzteblatt.de/themen/digitalisierung/gesundheits-apps-nicht-von-umsatzsteuer-befreit-f1e7ec49-a87d-45e1-9503-2ef0ed24d340",
    "collected_at": "2026-10-28T06:43:20+09:00",
    "id": "DE-2026-10-20-2"
-  },
-  {
-   "country": "KR",
-   "category": "policy",
-   "importance": "high",
-   "date": "2026-10-19",
-   "title_ko": "복지부, 비대면진료 시행규칙 입법예고…초진 시·도 내 허용",
-   "summary_ko": "보건복지부가 12월 24일 시행되는 개정 의료법에 맞춰 비대면진료 세부 기준을 담은 의료법 시행규칙 개정안을 입법예고했다. 초진은 환자 주소지와 같은 시·도 의원에서 가능하고 처방은 원칙 7일(이력 확인 시 1회 30일), 마약류·비만치료제 처방은 금지된다. 기관별 비대면 비율 30% 상한, 누적 가입자 10만명 이상 중개 플랫폼 인증 의무화도 포함됐으며 의견 제출은 11월 9일까지다.",
-   "source": "메디게이트뉴스",
-   "url": "https://www.medigatenews.com/news/1279199216",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "KR-2026-10-19-1"
-  },
-  {
-   "country": "KR",
-   "category": "policy",
-   "importance": "medium",
-   "date": "2026-10-19",
-   "title_ko": "의협, 비대면진료 시행규칙 반발…'보이콧' 검토",
-   "summary_ko": "대한의사협회가 복지부 비대면진료 시행규칙 개정안이 대면진료 원칙 등 정부·의료계 합의 4대 원칙을 뒤집었다며 전면 재검토를 요구했다. 초진 허용 지역의 시·군·구 축소, 30일 처방 조항 삭제, 야간·휴일 진료의 상한 산정 포함 등을 요구했다. 개정안이 그대로 확정되면 회원과 함께 비대면진료 참여 여부까지 검토하겠다고 밝혔다.",
-   "source": "데일리팜",
-   "url": "https://www.dailypharm.com/user/news/343581",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "KR-2026-10-19-2"
-  },
-  {
-   "country": "JP",
-   "category": "policy",
-   "importance": "medium",
-   "date": "2026-10-19",
-   "title_ko": "日, 11월부터 SaMD 인증 심사기준 강화",
-   "summary_ko": "2026년 11월 2일 이후 신규·변경 신청부터 프로그램 의료기기(SaMD) 인증 신청 시 주기능·부대기능 기재와 기존품 동등성 확인 기준이 강화된다. 인증 범위를 넘는 기능을 가진 제품이 적발된 사례가 배경으로, 신규 지표·자동 병변 검출·판매 후 학습 AI 등은 대신 후생노동대신 승인이 필요할 수 있다. 후생노동성은 7월 31일 신기준을 공표했다.",
-   "source": "サポート行政書士法人",
-   "url": "https://www.shigyo.co.jp/post_topics/%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%a0%e5%8c%bb%e7%99%82%e6%a9%9f%e5%99%a8%ef%bc%88samd%ef%bc%89%e3%81%a7%e7%9f%a5%e3%81%a3%e3%81%a6%e3%81%8a%e3%81%8d%e3%81%9f%e3%81%84%e3%80%81%e8%aa%8d/",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "JP-2026-10-19-1"
-  },
-  {
-   "country": "AU",
-   "category": "policy",
-   "importance": "medium",
-   "date": "2026-10-19",
-   "title_ko": "豪 TGA, AI 스크라이브 12종 중 8종 의료기기 가능성",
-   "summary_ko": "호주 TGA가 디지털 스크라이브 12개 제품을 점검한 결과 8개가 의료기기 정의에 해당할 가능성이 있다고 밝혔다. 어느 공급사도 자사 제품을 의료기기로 신고하지 않았으며, TGA는 공급사 대상 지침을 강화한다.",
-   "source": "Pulse+IT",
-   "url": "https://www.pulseit.news/australian-digital-health/tga-finds-8-of-12-ai-scribes-likely-medical-devices/",
-   "collected_at": "2026-10-27T18:20:10+09:00",
-   "id": "AU-2026-10-19-1"
-  },
-  {
-   "country": "GB",
-   "category": "policy",
-   "importance": "medium",
-   "date": "2026-10-18",
-   "title_ko": "英 정부, 응급의료 1.4억파운드 투입…디지털 시스템 포함",
-   "summary_ko": "영국 정부가 겨울철 대비 14개 응급의료 사업에 약 1억4천만 파운드를 배정했다. 이 중 런던 응급실 디지털 체크인·트리아지 시스템에 3년간 1,840만 파운드, 케임브리지 애든브룩스 병원 실시간 병상·퇴원 관리 디지털 코디네이션센터에 4년간 770만 파운드가 포함됐다.",
-   "source": "GOV.UK (보건사회복지부)",
-   "url": "https://www.gov.uk/government/news/140-million-boost-to-urgent-care-to-ease-winter-pressures-on-nhs",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "GB-2026-10-18-1"
   },
   {
    "country": "US",
