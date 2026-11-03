@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-01T21:42:46Z",
- "briefing_date": "2026-11-02",
- "briefing_ko": "이번 주말 사이 새로 확인된 대형 소식은 많지 않았다. 한국 식약처의 디지털의료기기 허가·심사 설명회, 호주 오라클·알라야케어의 의료 AI·데이터 서비스, 독일 샤리테 병원 사이버공격 정보 유출 등 중간·소규모 동향이 중심이다.\n다가오는 큰 행사: HLTH 2026(11/15 라스베이거스), MEDICA·COMPAMED(11/16 뒤셀도르프), RSNA 2026(11/29 시카고).",
+ "updatedAt": "2026-11-03T21:42:58Z",
+ "briefing_date": "2026-11-04",
+ "briefing_ko": "11월 초 새 소식은 투자·AI 도입 중심이다. 미국 헬스테크는 10월 한 달 General Medicine 1.2억 달러 등 대형 투자가 이어졌고, 스위스 MTIP가 유럽 헬스테크 상시형 펀드를 출범했다. 호주에서는 의료 AI의 진료 현장 통합과 해외 기업의 거점 확장이 눈에 띈다.\n다가오는 큰 행사: CES 2027(1월, 라스베이거스) 내 디지털헬스 서밋.",
  "items": [
   {
    "country": "DE",
@@ -382,6 +382,42 @@
    "id": "ev-DE-2026-11-04-1"
   },
   {
+   "country": "DE",
+   "category": "policy",
+   "importance": "low",
+   "date": "2026-11-03",
+   "title_ko": "獨 AOK 노르트오스트, 의료 AI 전환 필요성 강조",
+   "summary_ko": "AOK 노르트오스트 대표 테이처트는 자문위원회 10주년 행사에서 행정·진단·치료 지원을 위해 AI 중심의 디지털 전환이 필요하다고 밝혔다. 위원회의 'Kompass KI'는 예방·맞춤의료 중심 시스템을 제시하며, 자금·데이터 인프라·인력 교육·법적 틀이 필요하다고 짚었다.",
+   "source": "Deutsches Ärzteblatt",
+   "url": "https://www.aerzteblatt.de/themen/digitalisierung/aok-chefin-teichert-halt-digitale-transformation-und-ki-nutzung-fur-notwendig-f90f247d-92a9-4890-b053-ee456c493cf0",
+   "collected_at": "2026-11-04T06:42:58+09:00",
+   "id": "DE-2026-11-03-1"
+  },
+  {
+   "country": "KR",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-11-03",
+   "title_ko": "보령·스카이랩스, 우주 환경 웨어러블 혈압계 검증 추진",
+   "summary_ko": "보령이 스카이랩스와 반지형 혈압 모니터 등 웨어러블을 모사 우주환경과 실제 우주시설에서 시험하기로 MOU를 맺었다. 우주인 건강의 연속 활력징후 모니터링과 지상 심혈관 연구 활용이 목표다.",
+   "source": "Korea Biomedical Review",
+   "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33714",
+   "collected_at": "2026-11-04T06:42:58+09:00",
+   "id": "KR-2026-11-03-1"
+  },
+  {
+   "country": "KR",
+   "category": "policy",
+   "importance": "low",
+   "date": "2026-11-03",
+   "title_ko": "씨지바이오 휴대형 상처치료기기 가정용 허가",
+   "summary_ko": "씨지바이오의 일회용 음압상처치료기기 CuraSYS ME가 9월 22일 국내 허가를 받아 병원과 가정에서 쓸 수 있게 됐다. 10일 후 자동 종료되며 수술 절개창·만성창상·화상 등에 적용된다.",
+   "source": "Korea Biomedical Review",
+   "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33709",
+   "collected_at": "2026-11-04T06:42:58+09:00",
+   "id": "KR-2026-11-03-2"
+  },
+  {
    "country": "AU",
    "category": "company",
    "importance": "low",
@@ -392,6 +428,54 @@
    "url": "https://www.pulseit.news/australian-digital-health/alayacare-launches-data-migration-platform/",
    "collected_at": "2026-11-02T06:42:46+09:00",
    "id": "AU-2026-11-02-1"
+  },
+  {
+   "country": "US",
+   "category": "investment",
+   "importance": "medium",
+   "date": "2026-11-02",
+   "title_ko": "美 헬스테크, 10월 General Medicine 1.2억달러 등 투자 잇따라",
+   "summary_ko": "MedCity News가 10월 주요 헬스테크 투자를 정리했다. a16z 주도로 General Medicine이 시리즈B 1억2천만 달러, 앰비언트 AI 기업 Suki가 시리즈E 9천만 달러, AI 재택돌봄 Abby Care가 시리즈C 8천2백만 달러를 유치했다.",
+   "source": "MedCity News",
+   "url": "https://medcitynews.com/2026/11/4-notable-health-tech-funding-announcements-in-october-2/",
+   "collected_at": "2026-11-04T06:42:58+09:00",
+   "id": "US-2026-11-02-1"
+  },
+  {
+   "country": "CH",
+   "category": "investment",
+   "importance": "medium",
+   "date": "2026-11-02",
+   "title_ko": "스위스 MTIP, 유럽 헬스테크 상시형 펀드 출범",
+   "summary_ko": "스위스 MTIP가 룩셈부르크 ELTIF 구조의 반개방형 에버그린 펀드 'EverHealth'를 출시했다. 유럽 헬스케어 기술 기업에 직접투자, 기존 포트폴리오 후속투자, 세컨더리 투자를 병행한다. 펀드 규모는 공개되지 않았다.",
+   "source": "Startupticker.ch",
+   "url": "https://www.startupticker.ch/en/news/mtip-launches-evergreen-fund-for-european-healthcare-technology",
+   "collected_at": "2026-11-04T06:42:58+09:00",
+   "id": "CH-2026-11-02-1"
+  },
+  {
+   "country": "AU",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-11-02",
+   "title_ko": "豪 Bp Premier에 의료 AI 'MedLuma' 통합",
+   "summary_ko": "Best Practice Software와 Medcast가 호주 GP용 진료관리 플랫폼 Bp Premier에 MedLuma를 통합했다. 의사는 자연어로 질문해 RACGP 지침 등 검증된 현지 의학 자료 기반 답을 얻는다.",
+   "source": "Pulse+IT",
+   "url": "https://www.pulseit.news/australian-digital-health/medluma-ai-platform-integrated-with-bp-premier/",
+   "collected_at": "2026-11-04T06:42:58+09:00",
+   "id": "AU-2026-11-02-2"
+  },
+  {
+   "country": "AU",
+   "category": "investment",
+   "importance": "medium",
+   "date": "2026-11-02",
+   "title_ko": "네덜란드 Nicolab, 멜버른에 AI 뇌졸중 거점 확장",
+   "summary_ko": "네덜란드 메드테크 Nicolab이 호주·뉴질랜드 본부 및 R&D 센터를 멜버른에 열었다. 빅토리아주 1억5천만 호주달러 투자펀드 지원으로 일자리 20개가 생길 전망이다.",
+   "source": "Pulse+IT",
+   "url": "https://www.pulseit.news/australian-digital-health/nicolab-expands-melbourne-stroke-tech-hq/",
+   "collected_at": "2026-11-04T06:42:58+09:00",
+   "id": "AU-2026-11-02-3"
   },
   {
    "country": "DE",
@@ -1020,66 +1104,6 @@
    "id": "BR-2026-10-22-3"
   },
   {
-   "country": "JP",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-10-21",
-   "title_ko": "군마대병원, TXP Medical 생성형 AI 의료문서 시스템 도입",
-   "summary_ko": "군마대학 의학부 부속병원(722병상)이 TXP Medical의 생성형 AI 의료문서 작성 지원 시스템 'NSDA'를 도입했다. 전자차트 내 검사결과·경과기록을 참조해 퇴원요약·진료정보제공서 초안을 생성하며 온프레미스 운영도 지원한다.",
-   "source": "PR TIMES(TXP Medical)",
-   "url": "https://prtimes.jp/main/html/rd/p/000000191.000031630.html",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "JP-2026-10-21-1"
-  },
-  {
-   "country": "BR",
-   "category": "policy",
-   "importance": "medium",
-   "date": "2026-10-21",
-   "title_ko": "브라질 보건부, 800병상 AI 병원 건립 협약",
-   "summary_ko": "브라질 보건부가 상파울루대 병원단지 내 AI로 운영되는 800병상 응급·중환자 병원 건립 협약을 체결했다. 브릭스 신개발은행(NDB)의 3억2천만 달러 차관이 투입되며 2029년 2분기 가동 목표다. 커넥티드 ICU 네트워크도 6개 병원 60병상에서 14개 병원 280병상으로 확대한다.",
-   "source": "Brasil 247",
-   "url": "https://www.brasil247.com/economia/brasil-assina-acordo-para-construir-hospital-com-800-leitos-e-inteligencia-artificial-em-sao-paulo",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "BR-2026-10-21-1"
-  },
-  {
-   "country": "SG",
-   "category": "investment",
-   "importance": "low",
-   "date": "2026-10-21",
-   "title_ko": "싱가포르 지니헬스, 300만달러 시드 투자 유치",
-   "summary_ko": "전 프로퍼티구루 CEO가 공동창업한 싱가포르 헬스테크 기업 지니헬스가 나다투르 패밀리오피스 주도로 300만달러 시드 투자를 유치했다. 테마섹 지원 Liminal 등이 참여했으며, 개인 건강기록 통합 앱과 에이전틱 AI 기반 클리닉 플랫폼 'SmartCare' 고도화에 투입한다.",
-   "source": "TNGlobal",
-   "url": "https://technode.global/2026/10/21/singapores-genie-health-raises-3m-seed-led-by-nadathur-family-office/",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "SG-2026-10-21-1"
-  },
-  {
-   "country": "KR",
-   "category": "policy",
-   "importance": "medium",
-   "date": "2026-10-21",
-   "title_ko": "한국·WHO, 첫 '보건의료 AI 서울선언' 발표",
-   "summary_ko": "보건복지부와 세계보건기구(WHO)가 2026 월드바이오서밋 개막식에서 보건의료 AI에 관한 첫 공동선언인 '서울선언'을 발표했다. 선언은 AI 기술·투자, 책임성·위험관리, 국제협력·보건안보, 이행 등 4대 우선순위를 담았고 위험 비례 규제와 의료데이터 접근성 개선을 강조했다. 양측은 AI 모델 개발·안전성 검증과 중저소득국 도입 지원도 추진할 계획이다.",
-   "source": "Korea Biomedical Review",
-   "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33564",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "KR-2026-10-21-1"
-  },
-  {
-   "country": "IL",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-10-21",
-   "title_ko": "以 셰바병원, 세계 스마트병원 순위 6위로 상승",
-   "summary_ko": "이스라엘 셰바 메디컬센터가 뉴스위크·스태티스타 '2027 세계 최고 스마트병원' 순위에서 9위에서 6위로 올랐으며 AI 혁신·로봇 부문에서도 인정받았다. 셰바는 OpenAI와 임상 AI 플랫폼을, 엔비디아·마운트시나이와 AI·유전체 연구를 진행 중이다.",
-   "source": "Ynetnews",
-   "url": "https://www.ynetnews.com/health_science/article/bkpk3uunml",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "IL-2026-10-21-1"
-  },
-  {
    "country": "KR",
    "category": "event",
    "importance": "high",
@@ -1108,42 +1132,6 @@
    "id": "ev-CN-2026-10-21-1"
   },
   {
-   "country": "CA",
-   "category": "company",
-   "importance": "medium",
-   "date": "2026-10-21",
-   "title_ko": "토론토 SickKids, MS와 5년 정밀의료 클라우드 제휴",
-   "summary_ko": "캐나다 아동병원 SickKids가 Microsoft Canada와 5년 파트너십을 맺고 Azure를 주력 클라우드로 삼아 EHR 등 핵심 임상시스템을 고도화한다. Azure 크레딧과 AI 교육을 지원받아 정밀아동건강 전략에 AI·분석을 적용할 계획이다.",
-   "source": "Canadian Healthcare Technology",
-   "url": "https://www.canhealth.com/2026/10/21/microsoft-partners-with-sickkids-on-precision-health/",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "CA-2026-10-21-1"
-  },
-  {
-   "country": "CA",
-   "category": "investment",
-   "importance": "medium",
-   "date": "2026-10-21",
-   "title_ko": "加, 지역 AI 이니셔티브에 5억 달러 추가 투입",
-   "summary_ko": "캐나다 정부가 5년간 5억 캐나다달러를 추가해 지역 AI 이니셔티브 연방 지원 총액을 7억 달러로 늘린다. 6월 발표된 국가 AI 전략의 일환으로 보건·생명과학 분야를 중점 지원한다.",
-   "source": "Canadian Healthcare Technology",
-   "url": "https://www.canhealth.com/2026/10/21/government-of-canada-announces-500-more-for-ai/",
-   "collected_at": "2026-10-27T18:20:10+09:00",
-   "id": "CA-2026-10-21-2"
-  },
-  {
-   "country": "GB",
-   "category": "policy",
-   "importance": "medium",
-   "date": "2026-10-20",
-   "title_ko": "英 MHRA, 美 FDA 연락관 파견…AI 의료기기 공조",
-   "summary_ko": "MHRA가 미국 AdvaMed 2026에서 AI 의료기기 전주기 규제, 규제 샌드박스(AI Airlock) 등 접근법을 소개했다. 또 워싱턴DC에 FDA 전담 연락관을 두기 위해 채용에 나섰으며, 이는 6월 양 기관이 발표한 상호 연락관 프로그램의 후속 조치다.",
-   "source": "Resultsense",
-   "url": "https://www.resultsense.com/news/2026-10-20-mhra-advamed-fda-liaison-ai-devices/",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "GB-2026-10-20-1"
-  },
-  {
    "country": "KR",
    "category": "event",
    "importance": "medium",
@@ -1156,128 +1144,6 @@
    "url": "https://worldhospitalcongress.org/",
    "collected_at": "2026-10-27T14:50:00+09:00",
    "id": "ev-KR-2026-10-20-1"
-  },
-  {
-   "country": "AR",
-   "category": "company",
-   "importance": "medium",
-   "date": "2026-10-20",
-   "title_ko": "아르헨 Hospital Italiano, 생성형 AI 'TANA' 공개",
-   "summary_ko": "부에노스아이레스 Hospital Italiano가 자체 의료정보 학술대회에서 의료진용 생성형 AI 코파일럿 'TANA'를 선보였다. 자연어로 환자 경과·진단·병력을 조회해 의무기록 검토와 데이터 통합을 빠르게 하도록 설계됐다.",
-   "source": "La Nación",
-   "url": "https://www.lanacion.com.ar/tecnologia/como-ver-gratis-a-los-mas-de-4000-especialistas-que-se-reunen-en-el-congreso-de-informatica-e-nid20102026/",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "AR-2026-10-20-1"
-  },
-  {
-   "country": "CH",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-10-20",
-   "title_ko": "瑞 Aktiia 연속혈압계, 타임 '최고 발명품' 선정",
-   "summary_ko": "스위스 기업들의 헬스 기기가 타임지 '2026 최고의 발명품'에 선정됐다. 손목밴드로 혈압을 연속 측정하고 커프로 보정하는 가정용 혈압계 'Hilo Core(Aktiia)'와, 카메라 없이 레이더·AI로 노인시설 낙상 위험을 감지하는 Helpany 'Paul'이 포함됐다.",
-   "source": "Startupticker.ch",
-   "url": "https://www.startupticker.ch/en/news/swiss-innovation-highlighted-in-time-s-best-inventions",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "CH-2026-10-20-1"
-  },
-  {
-   "country": "US",
-   "category": "policy",
-   "importance": "high",
-   "date": "2026-10-20",
-   "title_ko": "美 FDA, 처방약 연계 소프트웨어(PDURS) 지침 확정",
-   "summary_ko": "FDA가 2023년 초안이었던 '처방약 사용 관련 소프트웨어(PDURS)' 규제 지침을 최종 확정했다. 제약사가 배포하는 앱·AI 소프트웨어의 출력물을 처방약 라벨링의 일종으로 간주하며, 소프트웨어 업데이트도 라벨링 변경관리 절차를 따를 수 있다. 업계는 디지털치료제·동반 앱 시장의 규제 불확실성 해소로 환영하는 분위기다.",
-   "source": "RAPS",
-   "url": "https://www.raps.org/resource/fda-finalizes-guidance-on-prescription-drug-apps.html",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "US-2026-10-20-1"
-  },
-  {
-   "country": "BR",
-   "category": "investment",
-   "importance": "medium",
-   "date": "2026-10-20",
-   "title_ko": "브라질 헬스테크 Alice, IFC 주도 4천만달러 유치",
-   "summary_ko": "AI 기반 건강보험 운영사 Alice가 세계은행 산하 IFC 주도로 4,000만 달러 시리즈D를 유치했다. 회원 10만 명 이상, 연환산 매출 12억 헤알 규모이며 11월 회원용 AI 비서 'Alice AI'를 전면 출시할 예정이다. 기존 투자자 소프트뱅크는 지분 일부를 매각하고 이사회에서 물러났다.",
-   "source": "Beinsure",
-   "url": "https://beinsure.com/news/brazils-alice-raises-40mn-to-expand-ai-powered-health-insurance/",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "BR-2026-10-20-1"
-  },
-  {
-   "country": "US",
-   "category": "investment",
-   "importance": "medium",
-   "date": "2026-10-20",
-   "title_ko": "메디케어 AI 기업 Baba, 4천만달러 시리즈A",
-   "summary_ko": "메디케어 가입자 경험 개선을 내세운 응용 AI 기업 Baba가 FirstMark Capital 주도로 4,000만 달러 시리즈A를 유치했다. CVS Health Ventures와 General Catalyst가 참여했다.",
-   "source": "GlobeNewswire",
-   "url": "https://www.globenewswire.com/news-release/2026/10/20/3384598/0/en/applied-ai-company-baba-raises-40-million-series-a-to-improve-the-medicare-experience.html",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "US-2026-10-20-2"
-  },
-  {
-   "country": "JP",
-   "category": "company",
-   "importance": "medium",
-   "date": "2026-10-20",
-   "title_ko": "富士通Japan, 정부 인증 대응 클라우드 전자차트 2027년 출시",
-   "summary_ko": "후지쓰재팬이 후생노동성의 진료소·중소병원용 전자차트 표준사양 인증제도 요강 공표에 맞춰 클라우드 네이티브형 전자차트 기능 강화에 착수했다. 2027년 4월 중소병원용 제공을 시작하고 전자처방전·전자차트 정보공유 서비스와 연동하며, 대형병원용은 2028년도 제공을 목표로 한다.",
-   "source": "薬事日報",
-   "url": "https://www.yakuji.co.jp/entry140692.html",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "JP-2026-10-20-1"
-  },
-  {
-   "country": "DE",
-   "category": "policy",
-   "importance": "low",
-   "date": "2026-10-20",
-   "title_ko": "獨 학회연합, 의료 AI 품질관리·디지털 가이드라인 촉구",
-   "summary_ko": "독일 의학학회연합(AWMF)이 AI가 생성한 의료 정보에 품질 보증이 필요하며 이를 위해 디지털 진료지침이 필수라고 밝혔다. 가이드라인 등록부를 구조화된 지식베이스로 바꾸는 Dissolve-E 프로젝트를 소개했다. 스탠퍼드 연구진이 Nature Health에서 제기한 투명성·독립 감독·책임 규정 필요성도 언급했다.",
-   "source": "Deutsches Ärzteblatt",
-   "url": "https://www.aerzteblatt.de/news/fachgesellschaften-fur-qualitatssicherung-bei-ki-anwendungen-mit-medizinischen-inhalten-7b00d2a2-7f2c-48cd-9894-464ae14dde83",
-   "collected_at": "2026-10-27T18:20:10+09:00",
-   "id": "DE-2026-10-20-1"
-  },
-  {
-   "country": "KR",
-   "category": "policy",
-   "importance": "medium",
-   "date": "2026-10-20",
-   "title_ko": "비대면진료 제도화 두 달 앞두고 처방일수 격론",
-   "summary_ko": "보건복지부가 12월 24일 비대면진료 제도화를 앞두고 법령 개정안을 입법예고했다. 초진 처방일수는 원칙 7일, 예외 최대 30일이며 초진은 주소지와 같은 시도 의원으로 제한된다. 의협·약사회·원격의료산업협의회가 각기 다른 이유로 반발하고 있다.",
-   "source": "경향신문",
-   "url": "https://www.khan.co.kr/article/202610202132015/",
-   "collected_at": "2026-10-27T18:20:10+09:00",
-   "id": "KR-2026-10-20-1"
-  },
-  {
-   "country": "DE",
-   "category": "policy",
-   "importance": "low",
-   "date": "2026-10-20",
-   "title_ko": "獨 재정법원, 건강앱 부가세 면제 불인정",
-   "summary_ko": "작센 재정법원은 만성질환자 자가관리 앱이 의사가 아닌 알고리즘이 관리하므로 부가세 면제 대상 의료행위가 아니라고 판결했다. 연방재정법원에 항소가 계류 중이라 확정은 아니다.",
-   "source": "Ärzteblatt",
-   "url": "https://www.aerzteblatt.de/themen/digitalisierung/gesundheits-apps-nicht-von-umsatzsteuer-befreit-f1e7ec49-a87d-45e1-9503-2ef0ed24d340",
-   "collected_at": "2026-10-28T06:43:20+09:00",
-   "id": "DE-2026-10-20-2"
-  },
-  {
-   "country": "US",
-   "category": "event",
-   "importance": "medium",
-   "date": "2026-10-18",
-   "date_end": "2026-10-21",
-   "city_ko": "보스턴",
-   "title_ko": "AdvaMed 메드테크 콘퍼런스 보스턴서 열려",
-   "summary_ko": "미국의료기기협회(AdvaMed)가 주최하는 미국 최대 의료기기 산업 콘퍼런스가 보스턴 메니노 컨벤션센터에서 열렸다. 의료기기 규제, FDA 정책, AI 기반 의료기기, 투자 동향을 다루며 글로벌 메드테크 기업 경영진이 대거 참석했다.",
-   "source": "AdvaMed",
-   "url": "https://themedtechconference.com/2026-medtech-conference-planning-guide/",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "ev-US-2026-10-18-1"
   }
  ]
 }
