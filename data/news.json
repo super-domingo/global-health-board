@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-03T21:42:58Z",
- "briefing_date": "2026-11-04",
- "briefing_ko": "11월 초 새 소식은 투자·AI 도입 중심이다. 미국 헬스테크는 10월 한 달 General Medicine 1.2억 달러 등 대형 투자가 이어졌고, 스위스 MTIP가 유럽 헬스테크 상시형 펀드를 출범했다. 호주에서는 의료 AI의 진료 현장 통합과 해외 기업의 거점 확장이 눈에 띈다.\n다가오는 큰 행사: CES 2027(1월, 라스베이거스) 내 디지털헬스 서밋.",
+ "updatedAt": "2026-11-05T21:42:12Z",
+ "briefing_date": "2026-11-06",
+ "briefing_ko": "이번 발행에서는 한국의 비대면진료 제한안 반대 청원이 5만 명을 넘어섰고 루닛이 477억 원 규모 전환사채로 차입을 재조달했다. 호주에서는 베스트프랙티스가 하이디 AI 에이전트 연동을 막았고 NSW 보건 서버 침해 수사가 시작됐다. 다가오는 행사: AIMed26(11/11~13, 올랜도), CHIME 추계 포럼(11/11~14, 덴버).",
  "items": [
   {
    "country": "DE",
@@ -312,6 +312,34 @@
    "id": "ev-DE-2026-11-11-1"
   },
   {
+   "country": "US",
+   "category": "event",
+   "importance": "medium",
+   "date": "2026-11-11",
+   "date_end": "2026-11-13",
+   "city_ko": "올랜도",
+   "title_ko": "AIMed26 의료 AI 콘퍼런스, 올랜도서 개최",
+   "summary_ko": "의료 AI를 다루는 AIMed26이 11월 11~13일 플로리다 올랜도 르네상스 올랜도 앳 씨월드에서 열린다. 임상 현장의 AI 도입 사례를 공유한다.",
+   "source": "AIMed",
+   "url": "https://www.aimed26.com",
+   "collected_at": "2026-11-06T06:42:12+09:00",
+   "id": "ev-US-2026-11-11-1"
+  },
+  {
+   "country": "US",
+   "category": "event",
+   "importance": "medium",
+   "date": "2026-11-11",
+   "date_end": "2026-11-14",
+   "city_ko": "덴버",
+   "title_ko": "CHIME 추계 포럼 2026, 덴버서 개최",
+   "summary_ko": "미국 의료정보 리더 단체 CHIME의 제35회 추계 포럼이 11월 11~14일 덴버 인근 가일로드 로키스 리조트에서 열린다. 보건 IT 임원 중심의 회원 행사다.",
+   "source": "Verato",
+   "url": "https://verato.com/events/chime-fall-forum/",
+   "collected_at": "2026-11-06T06:42:12+09:00",
+   "id": "ev-US-2026-11-11-2"
+  },
+  {
    "country": "GB",
    "category": "event",
    "importance": "medium",
@@ -354,6 +382,30 @@
    "id": "ev-CN-2026-11-05-1"
   },
   {
+   "country": "KR",
+   "category": "policy",
+   "importance": "medium",
+   "date": "2026-11-05",
+   "title_ko": "韓 비대면진료 제한안 반대 청원 5만 명 돌파",
+   "summary_ko": "복지부의 의료법 시행규칙 개정안(초진 처방 7일 제한, 초진은 거주 시·도 의원으로 제한)에 반대하는 국회 청원이 5만 명을 넘어 보건복지위로 회부된다. 비대면진료 제도는 12월 24일 시행되며, 업계협의회는 처방일수를 의사 판단에 맡겨야 한다고 주장했다.",
+   "source": "Korea Biomedical Review",
+   "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33752",
+   "collected_at": "2026-11-06T06:42:12+09:00",
+   "id": "KR-2026-11-05-1"
+  },
+  {
+   "country": "AU",
+   "category": "policy",
+   "importance": "low",
+   "date": "2026-11-05",
+   "title_ko": "濠 NSW 보건 서버 사이버 침해, 경찰 수사 착수",
+   "summary_ko": "NSW 경찰이 NSW Health의 격리된 서버에 대한 사이버 침해 사건 수사에 착수했다. 당국은 중대 사이버보안 사고로 규정했으나 환자 정보는 유출되지 않았다고 밝혔다.",
+   "source": "Pulse+IT",
+   "url": "https://www.pulseit.news/australian-digital-health/nsw-police-investigate-major-cyber-breach-at-nsw-health/",
+   "collected_at": "2026-11-06T06:42:12+09:00",
+   "id": "AU-2026-11-05-1"
+  },
+  {
    "country": "CA",
    "category": "event",
    "importance": "low",
@@ -380,6 +432,42 @@
    "url": "https://www.digitalhealthsummit.de",
    "collected_at": "2026-11-02T06:42:46+09:00",
    "id": "ev-DE-2026-11-04-1"
+  },
+  {
+   "country": "CH",
+   "category": "investment",
+   "importance": "low",
+   "date": "2026-11-04",
+   "title_ko": "스위스 avaisor, 외과 지식 플랫폼 프리시드 48.8만 CHF 유치",
+   "summary_ko": "다보스 기반 의료교육 플랫폼 avaisor AG가 전 세계 외과의 15명 이상으로부터 프리시드 48만 8천 스위스프랑을 유치했다. 수술 판단의 임상적 근거를 '지식 아바타'로 구조화해 공유하는 플랫폼이며, 제품 개발과 해외 확장 준비에 자금을 쓴다.",
+   "source": "Startupticker.ch",
+   "url": "https://startupticker.ch/en/news/pre-seed-funding-for-avaisor-to-scale-surgical-expertise",
+   "collected_at": "2026-11-06T06:42:12+09:00",
+   "id": "CH-2026-11-04-1"
+  },
+  {
+   "country": "KR",
+   "category": "investment",
+   "importance": "medium",
+   "date": "2026-11-04",
+   "title_ko": "韓 루닛, 477억 원 전환사채로 볼파라 차입 재조달",
+   "summary_ko": "의료AI 기업 루닛이 2024년 볼파라헬스 인수 부채를 갈음하기 위해 477억 원 규모 전환사채를 발행한다. 새 사채는 쿠폰 0%, 만기수익률 4%로 기존(1%, 8%)보다 낮다.",
+   "source": "Korea Biomedical Review",
+   "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33736",
+   "collected_at": "2026-11-06T06:42:12+09:00",
+   "id": "KR-2026-11-04-1"
+  },
+  {
+   "country": "AU",
+   "category": "company",
+   "importance": "medium",
+   "date": "2026-11-04",
+   "title_ko": "濠 베스트프랙티스, 하이디 AI 에이전트 연동 금지",
+   "summary_ko": "호주 EMR 업체 Best Practice가 환자 기록 무감독 변경과 데이터 접근, TGA 디지털 스크라이브 검토 등을 이유로 Heidi Health의 AI 에이전트 Heidi II를 Bp Premier와 함께 쓰지 못하게 했다. Heidi 측은 임상의 감독 하에 작동한다며 반발하고 반경쟁 우려를 제기했다.",
+   "source": "Pulse+IT",
+   "url": "https://www.pulseit.news/australian-digital-health/best-practice-defends-its-concerns-over-heidi-ii/",
+   "collected_at": "2026-11-06T06:42:12+09:00",
+   "id": "AU-2026-11-04-1"
   },
   {
    "country": "DE",
@@ -934,190 +1022,6 @@
    "id": "CN-2026-10-25-1"
   },
   {
-   "country": "UY",
-   "category": "policy",
-   "importance": "medium",
-   "date": "2026-10-23",
-   "title_ko": "우루과이, 국가 EHR에 FHIR 도입 로드맵 발표",
-   "summary_ko": "우루과이 전자정부청(AGESIC) 디지털헬스팀이 국가 전자의무기록(HCEN)을 FHIR 표준 기반으로 고도화하는 로드맵을 의료기관에 제시했다. 알레르기·약물·진단 등 개별 데이터를 바로 조회할 수 있게 하는 것이 목표이며, 첫 단계로 'FHIR 우루과이 구현 가이드' 개념검증을 진행한다.",
-   "source": "AGESIC (gub.uy)",
-   "url": "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/noticias/agesic-presento-hoja-ruta-para-avanzar-hacia-historia-clinica-agil-conectada",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "UY-2026-10-23-1"
-  },
-  {
-   "country": "BR",
-   "category": "investment",
-   "importance": "low",
-   "date": "2026-10-23",
-   "title_ko": "병원 AI 에이전트 Matria, 650만달러 시드 유치",
-   "summary_ko": "병원 관리·청구·진료 시스템을 연결하는 데이터 레이어 위에서 AI 에이전트를 운영하는 브라질 Matria가 Astella 주도로 650만 달러 시드 투자를 받았다. Afya 등이 참여했으며 브라질·멕시코 확장에 투입한다.",
-   "source": "Techloy",
-   "url": "https://www.techloy.com/week-43-latin-america-startup-funding-tractian/",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "BR-2026-10-23-1"
-  },
-  {
-   "country": "DE",
-   "category": "investment",
-   "importance": "low",
-   "date": "2026-10-23",
-   "title_ko": "獨 Calliora, 병원 청구 AI로 530만유로 유치",
-   "summary_ko": "뮌헨 헬스테크 Calliora가 Bertelsmann Healthcare Investments와 스위스 Redalpine 주도로 530만 유로 프리시드 투자를 유치했다. 진료기록과 병원 청구 오류를 보험사 청구 전에 탐지하는 AI 플랫폼으로, 독일 5개 주 병원에서 사용 중이다.",
-   "source": "BioM",
-   "url": "https://www.bio-m.org/mediathek/nachrichten/nachricht/muenchner-healthtech-startup-calliora-sammelt-53-millionen-euro-fuer-ki-gestuetzte-krankenhausabrechnung-ein",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "DE-2026-10-23-1"
-  },
-  {
-   "country": "CA",
-   "category": "company",
-   "importance": "medium",
-   "date": "2026-10-23",
-   "title_ko": "뉴브런즈윅州, 원격케어 앱에 대화형 AI 도입",
-   "summary_ko": "뉴브런즈윅주 Horizon Health 환자들이 SeamlessMD 원격케어 앱에서 심장·수술·출산 관련 질문에 답하는 대화형 AI 'Seamless Answers'를 쓸 수 있게 됐다. 의료진이 승인한 교육자료만 근거로 답하며, Vitalité까지 도입해 대서양 연안 주 최초로 전 보건권역에 적용됐다.",
-   "source": "Global News (The Canadian Press)",
-   "url": "https://globalnews.ca/news/12118943/ai-tool-health-new-brunswick-seamlessmd/",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "CA-2026-10-23-1"
-  },
-  {
-   "country": "US",
-   "category": "policy",
-   "importance": "low",
-   "date": "2026-10-23",
-   "title_ko": "美 의사협회, FDA 생성형 AI 의료기기 규제안에 의견",
-   "summary_ko": "AMA가 FDA의 생성형 AI 의료기기 논의문서에 역량 기반 시판 전 심사를 지지하되 의사 감독이 위험을 줄인다고 간주해선 안 된다는 의견을 10월 16일 제출했다. 제조사 책임을 강조했다.",
-   "source": "AMA",
-   "url": "https://www.ama-assn.org/health-care-advocacy/advocacy-update/oct-23-2026-national-advocacy-update",
-   "collected_at": "2026-10-27T18:20:10+09:00",
-   "id": "US-2026-10-23-1"
-  },
-  {
-   "country": "CH",
-   "category": "investment",
-   "importance": "medium",
-   "date": "2026-10-23",
-   "title_ko": "스위스 Distalmotion, 최대 7천만 달러 대출 확보",
-   "summary_ko": "외래 로봇수술 기업 Distalmotion이 Perceptive Advisors로부터 최대 7천만 달러 규모 선순위 담보 대출을 확보했다. 미국 외래수술센터 확대와 DEXTER 로봇 시스템 개발에 쓸 예정이다.",
-   "source": "startupticker.ch",
-   "url": "https://www.startupticker.ch/en/news/up-to-70m-term-loan-facility-to-boost-distalmotion-us-asc-expansion",
-   "collected_at": "2026-10-28T06:43:20+09:00",
-   "id": "CH-2026-10-23-1"
-  },
-  {
-   "country": "US",
-   "category": "event",
-   "importance": "medium",
-   "date": "2026-10-22",
-   "date_end": "2026-10-23",
-   "city_ko": "샌디에이고",
-   "title_ko": "HIMSS AI 인 헬스케어 포럼, 샌디에이고 개최",
-   "summary_ko": "HIMSS가 주최하는 헬스케어 AI 전문 포럼이 샌디에이고에서 열렸다. 책임 있는 AI 도입과 거버넌스를 주제로 병원 경영진과 IT 리더가 생성형 AI 적용 사례와 운영 과제를 논의했으며, 전날(21일)에는 초청제 AI 리더십 서밋이 진행됐다.",
-   "source": "HIMSS",
-   "url": "https://www.himss.org/news-center/himss-ai-in-healthcare-forum-to-explore-responsible-ai-adoption-and-governance/",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "ev-US-2026-10-22-1"
-  },
-  {
-   "country": "AU",
-   "category": "policy",
-   "importance": "low",
-   "date": "2026-10-22",
-   "title_ko": "호주 디지털헬스청, 수석 임상자문관 후임 물색",
-   "summary_ko": "호주 디지털헬스청(ADHA)의 아만딥 한스라 수석 임상자문관(의학)이 2년여 만에 사임 의사를 밝혀 기관이 후임 채용에 나섰다. 한스라는 인수인계를 위해 12월 11일까지 재직한다.",
-   "source": "Pulse+IT",
-   "url": "https://www.pulseit.news/australian-digital-health/adha-seeks-replacement-as-hansra-steps-down/",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "AU-2026-10-22-1"
-  },
-  {
-   "country": "CN",
-   "category": "company",
-   "importance": "medium",
-   "date": "2026-10-22",
-   "title_ko": "평안헬스, 3분기 누적 순익 35%↑…AI 의사 1300만명",
-   "summary_ko": "핑안헬스(平安健康)의 9월까지 누적 순이익이 전년 대비 35% 증가한 2억4821만위안을 기록했으나 매출은 5.8% 감소한 35억1000만위안이었다. 기업 건강관리 사업과 AI 적용이 성장을 이끌었으며 'AI 의사' 서비스 이용자는 약 1300만명에 달했다.",
-   "source": "The Standard",
-   "url": "https://www.thestandard.com.hk/finance/article/346249/Ping-An-Healthcare-9-month-net-profit-jumps-35pc-to-248m-yuan",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "CN-2026-10-22-1"
-  },
-  {
-   "country": "US",
-   "category": "investment",
-   "importance": "medium",
-   "date": "2026-10-22",
-   "title_ko": "Redesign Health, ARC와 합병·AVIA 인수 추진",
-   "summary_ko": "美 Redesign Health가 이스라엘 셰바메디컬센터의 혁신조직 ARC Global과 합병하고, 디지털 솔루션 평가 플랫폼 AVIA 인수에도 합의했다. 통합 법인은 100여 개 병원 시스템과 협력해 임상 현장 아이디어를 기술 제품·기업으로 전환하는 사업을 추진한다.",
-   "source": "PR Newswire",
-   "url": "https://www.prnewswire.com/news-releases/redesign-health-and-arc-global-merge-to-help-health-systems-shape-the-future-of-healthcare-from-within-302915968.html",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "US-2026-10-22-1"
-  },
-  {
-   "country": "BR",
-   "category": "investment",
-   "importance": "low",
-   "date": "2026-10-22",
-   "title_ko": "의료교육 플랫폼 Sanar, Vinci Compass가 인수",
-   "summary_ko": "브라질 의료교육 디지털 플랫폼 Sanar의 경영권을 사모펀드 Vinci Compass가 인수했다. 기존 VC 투자자들이 지분을 전량 매각한 구주 거래이며 Sanar의 2026년 예상 매출은 2억5천만 헤알이다.",
-   "source": "Tech & Health (Rafael Kellermann)",
-   "url": "https://rafaelkellermann.substack.com/p/em-poucos-dias-os-diferentes-ciclos",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "BR-2026-10-22-1"
-  },
-  {
-   "country": "BR",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-10-22",
-   "title_ko": "伯 사빈, 수면무호흡·피부암 디지털 검사 직접 판매",
-   "summary_ko": "브라질 검사기관 사빈이 의사 처방 없이 구매하는 수면무호흡 가정검사와 AI 기반 피부암 선별검사를 자사 이커머스에서 브라질리아부터 판매한다. 이상 소견 시 피부과 원격진료가 포함된다.",
-   "source": "Saúde Business",
-   "url": "https://www.saudebusiness.com/laboratorios/sabin-amplia-oferta-de-testes-digitais-direta-ao-consumidor/",
-   "collected_at": "2026-10-27T18:20:10+09:00",
-   "id": "BR-2026-10-22-2"
-  },
-  {
-   "country": "DE",
-   "category": "policy",
-   "importance": "medium",
-   "date": "2026-10-22",
-   "title_ko": "獨 하우스의협, 보험사 ePA 열람 허용안 반발",
-   "summary_ko": "독일 가정의사협회장이 연정이 추진하는 건강보험사의 전자환자기록(ePA) 열람 허용에 반대했다. 보험사의 의료 개입과 환자 프로파일링, 직접 접촉 가능성이 커져 디지털 의료에 대한 신뢰가 훼손된다고 경고했다. 내각안은 환자 동의를 요건으로 하나 그 실효성에 의문을 제기했다.",
-   "source": "Deutsches Ärzteblatt",
-   "url": "https://www.aerzteblatt.de/news/arzte-warnen-vor-einsicht-der-kassen-in-elektronische-patientenakte-f20b5267-093e-48aa-bcb9-8f33ebd42c0f",
-   "collected_at": "2026-10-27T18:20:10+09:00",
-   "id": "DE-2026-10-22-1"
-  },
-  {
-   "country": "BR",
-   "category": "policy",
-   "importance": "medium",
-   "date": "2026-10-22",
-   "title_ko": "브라질 의사 66% AI 활용, CFM 규정 거버넌스 압박",
-   "summary_ko": "MV Insights의 브라질 의사 112명 조사에서 66.1%가 진료에 AI를 쓰는 것으로 나타났다. 8월 시행된 CFM 결의 2.454/2026은 최종 판단을 의사에게 두고, 병원·의원에 위험평가·감사·모니터링 체계를 요구한다.",
-   "source": "Saúde Digital News",
-   "url": "https://saudedigitalnews.com.br/22/10/2026/com-66-dos-medicos-ja-usando-ia-nova-regra-do-cfm-aumenta-pressao-por-governanca-em-hospitais-e-clinicas/",
-   "collected_at": "2026-10-28T06:43:20+09:00",
-   "id": "BR-2026-10-22-3"
-  },
-  {
-   "country": "KR",
-   "category": "event",
-   "importance": "high",
-   "date": "2026-10-21",
-   "date_end": "2026-10-22",
-   "city_ko": "서울",
-   "title_ko": "세계 바이오 서밋, 'AI 헬스케어 서울선언' 발표",
-   "summary_ko": "보건복지부와 WHO가 공동 주최한 2026 세계 바이오 서밋이 'AI가 불러올 바이오헬스 혁신의 확산'을 주제로 코엑스마곡에서 열렸다. 정은경 장관과 테드로스 WHO 사무총장이 의료 AI의 안전하고 책임 있는 활용과 공평한 혜택 공유를 담은 'AI 헬스케어 서울선언문'을 처음으로 공동 발표했다.",
-   "source": "보건복지부·WHO (주관: 한국보건산업진흥원)",
-   "url": "https://www.fnnews.com/news/202610211823141222",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "ev-KR-2026-10-21-1"
-  },
-  {
    "country": "CN",
    "category": "event",
    "importance": "medium",
@@ -1130,20 +1034,6 @@
    "url": "https://www.german-pavilion.com/en/cmef-autumn-2026",
    "collected_at": "2026-10-27T14:50:00+09:00",
    "id": "ev-CN-2026-10-21-1"
-  },
-  {
-   "country": "KR",
-   "category": "event",
-   "importance": "medium",
-   "date": "2026-10-20",
-   "date_end": "2026-10-22",
-   "city_ko": "서울",
-   "title_ko": "제49차 세계병원대회 서울 코엑스마곡 개최",
-   "summary_ko": "국제병원연맹(IHF)과 대한병원협회가 주최한 제49차 세계병원대회가 코엑스마곡에서 열렸다. 약 90개국 보건의료 전문가가 참석해 병원 경영, 디지털 전환, 의료 AI 등을 논의했으며, 2007년 이후 두 번째 서울 개최다. 19일에는 사전 워크숍과 병원 견학이 진행됐다.",
-   "source": "International Hospital Federation·대한병원협회",
-   "url": "https://worldhospitalcongress.org/",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "ev-KR-2026-10-20-1"
   }
  ]
 }
