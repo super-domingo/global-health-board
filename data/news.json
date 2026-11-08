@@ -1,8 +1,22 @@
 {
- "updatedAt": "2026-11-05T21:42:12Z",
- "briefing_date": "2026-11-06",
- "briefing_ko": "이번 발행에서는 한국의 비대면진료 제한안 반대 청원이 5만 명을 넘어섰고 루닛이 477억 원 규모 전환사채로 차입을 재조달했다. 호주에서는 베스트프랙티스가 하이디 AI 에이전트 연동을 막았고 NSW 보건 서버 침해 수사가 시작됐다. 다가오는 행사: AIMed26(11/11~13, 올랜도), CHIME 추계 포럼(11/11~14, 덴버).",
+ "updatedAt": "2026-11-08T21:43:19Z",
+ "briefing_date": "2026-11-09",
+ "briefing_ko": "이번 발행에서는 루닛이 의료 특화 파운데이션 모델 '러닝유닛 2.0'을 공개하고 477억원 규모 전환사채 발행을 결정해 국내 의료 AI 투자·제품 경쟁이 이어졌다. 호주 AI 스크라이브 하이디의 전 세계 인력 18% 감축과 텔라닥의 3분기 실적 호조·가이던스 상향이 대비를 이루었고, 브라질은 국가 보건정보 정책과 헬스테크 시리즈A 확장이 눈에 띈다. 다가오는 행사: 11/23 호주 AIDH AI.Care 2026(멜버른).",
  "items": [
+  {
+   "country": "CH",
+   "category": "event",
+   "importance": "low",
+   "date": "2027-02-03",
+   "date_end": "2027-02-04",
+   "city_ko": "취리히",
+   "title_ko": "스위스 디지털 바이오마커 콘퍼런스, ETH 취리히 개최",
+   "summary_ko": "네이처 콘퍼런스가 ETH 취리히·샤리테·장크트갈렌대와 함께 디지털 바이오마커 학술회의를 연다. 웨어러블 기반 지표의 임상 활용을 다룬다.",
+   "source": "Nature Conferences",
+   "url": "https://natureconferences.streamgo.live/digital-biomarkers/register",
+   "collected_at": "2026-11-09T06:43:19+09:00",
+   "id": "ev-CH-2027-02-03-1"
+  },
   {
    "country": "DE",
    "category": "event",
@@ -88,6 +102,20 @@
    "id": "ev-US-2026-12-08-1"
   },
   {
+   "country": "DE",
+   "category": "event",
+   "importance": "low",
+   "date": "2026-12-08",
+   "date_end": "2026-12-08",
+   "city_ko": "프랑크푸르트",
+   "title_ko": "獨 엘스비어 임상의사결정지원 심포지엄, 프랑크푸르트",
+   "summary_ko": "엘스비어가 프랑크푸르트 대학병원과 함께 제12회 임상의사결정지원 심포지엄을 연다. 주제는 '의료 AI, 혁신과 책임 사이'다.",
+   "source": "Elsevier",
+   "url": "https://www.elsevier.com/de-de/promotions/clinical-decision-support-symposium-frankfurt-2026",
+   "collected_at": "2026-11-09T06:43:19+09:00",
+   "id": "ev-DE-2026-12-08-1"
+  },
+  {
    "country": "GB",
    "category": "event",
    "importance": "medium",
@@ -170,6 +198,34 @@
    "url": "https://digitalhealthcareworldcongress.com/",
    "collected_at": "2026-10-27T18:20:10+09:00",
    "id": "ev-GB-2026-11-23-1"
+  },
+  {
+   "country": "AU",
+   "category": "event",
+   "importance": "medium",
+   "date": "2026-11-23",
+   "date_end": "2026-11-24",
+   "city_ko": "멜버른",
+   "title_ko": "호주 AIDH AI.Care 2026, 멜버른서 개최",
+   "summary_ko": "호주디지털헬스원(AIDH)이 크라운 멜버른에서 의료 AI 현장 적용 콘퍼런스를 연다. 임상의·정책입안자·연구자가 모여 도입 전략과 안전·윤리적 통합 방안을 논의한다.",
+   "source": "Pulse+IT",
+   "url": "https://www.pulseit.news/event/ai-care-conference-2026-aidh/",
+   "collected_at": "2026-11-09T06:43:19+09:00",
+   "id": "ev-AU-2026-11-23-1"
+  },
+  {
+   "country": "KR",
+   "category": "event",
+   "importance": "low",
+   "date": "2026-11-21",
+   "date_end": "2026-11-21",
+   "city_ko": "서울",
+   "title_ko": "삼성서울병원, 'AI 전환' 주제 암센터 심포지엄 개최",
+   "summary_ko": "삼성서울병원이 11월 21일 서울에서 제7회 암센터 심포지엄을 열어 진단·치료·생존 단계의 암 진료 AI 활용을 논의한다. MSK, 귀스타브 루시, 샤리테 등 해외 전문가가 참여한다.",
+   "source": "Korea Biomedical Review",
+   "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33759",
+   "collected_at": "2026-11-09T06:43:19+09:00",
+   "id": "ev-KR-2026-11-21-1"
   },
   {
    "country": "JP",
@@ -284,6 +340,20 @@
    "id": "ev-JP-2026-11-12-1"
   },
   {
+   "country": "JP",
+   "category": "event",
+   "importance": "low",
+   "date": "2026-11-12",
+   "date_end": "2026-11-15",
+   "city_ko": "삿포로",
+   "title_ko": "日 제46회 의료정보학연합대회 삿포로 개최, 기업 AI 연계 전시",
+   "summary_ko": "11월 12~15일 삿포로에서 제46회 의료정보학연합대회가 열린다. 캐논IT솔루션즈 메디컬은 NTT도코모 비즈니스 AI 정보기반 연계 전자카르테와 Albatrus의 Apollo AI 연계 EHR을 전시한다.",
+   "source": "PR TIMES(캐논IM)",
+   "url": "https://prtimes.jp/main/html/rd/p/000001481.000013943.html",
+   "collected_at": "2026-11-09T06:43:19+09:00",
+   "id": "ev-JP-2026-11-12-2"
+  },
+  {
    "country": "KR",
    "category": "event",
    "importance": "medium",
@@ -368,6 +438,54 @@
    "id": "ev-US-2026-11-07-1"
   },
   {
+   "country": "BR",
+   "category": "investment",
+   "importance": "medium",
+   "date": "2026-11-06",
+   "title_ko": "브라질 병원청구 AI 헬스테크 히비우, 시리즈A 확장",
+   "summary_ko": "병원 청구서를 보험사 제출 전에 AI로 감사하는 브라질 스타트업 Rivio가 Valor Capital 주도로 시리즈A 확장 투자를 유치했다. 보도마다 금액이 R$80M(Healthtech Rounds)과 R$180M(Brasil Inovador, 기업가치 R$10억 이상)으로 엇갈린다. 아인슈타인·시리오리바네스 등 13개 병원그룹이 고객이다.",
+   "source": "Healthtech Rounds",
+   "url": "https://healthtechrounds.substack.com/p/healthtech-rounds-04-rivio-raises",
+   "collected_at": "2026-11-09T06:43:19+09:00",
+   "id": "BR-2026-11-06-1"
+  },
+  {
+   "country": "KR",
+   "category": "company",
+   "importance": "medium",
+   "date": "2026-11-06",
+   "title_ko": "루닛, 의료특화 파운데이션 모델 '러닝유닛 2.0' 공개",
+   "summary_ko": "루닛이 병원 내 구동 가능한 경량 의료 파운데이션 모델 러닝유닛 2.0(총 300억·활성 50억 파라미터)을 허깅페이스에 오픈소스로 공개했다. 과기정통부 과제로 개발했으며 9개 병원 테스트에서 암 다학제 진료 추천의 86.2%가 임상적으로 타당하다고 평가됐다.",
+   "source": "메디게이트뉴스",
+   "url": "https://www.medigatenews.com/news/2040726640",
+   "collected_at": "2026-11-09T06:43:19+09:00",
+   "id": "KR-2026-11-06-1"
+  },
+  {
+   "country": "KR",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-11-06",
+   "title_ko": "씨어스, 3분기 영업손실 19억원…서버 수급 차질",
+   "summary_ko": "AI 병동 모니터링 플랫폼 씽크(thynC)의 서버 공급 지연으로 3분기 매출 98억원, 영업손실 19억원을 기록했다. 웨어러블 부정맥 진단 모비케어는 성장했으며 회사는 4분기 회복을 목표로 한다.",
+   "source": "메디게이트뉴스",
+   "url": "https://www.medigatenews.com/news/1626763592",
+   "collected_at": "2026-11-09T06:43:19+09:00",
+   "id": "KR-2026-11-06-2"
+  },
+  {
+   "country": "AU",
+   "category": "company",
+   "importance": "medium",
+   "date": "2026-11-06",
+   "title_ko": "豪 AI 스크라이브 하이디, 전 세계 인력 18% 감축",
+   "summary_ko": "호주 출신 의료 AI 기업 하이디가 구조조정을 통해 전 세계 직원 18%를 줄이고 제품 개발과 신규 시장에 재투자한다. CEO 토머스 켈리가 직원들에게 사과했다.",
+   "source": "Pulse+IT",
+   "url": "https://www.pulseit.news/australian-digital-health/heidi-cuts-18-per-cent-of-global-workforce-in-restructure/",
+   "collected_at": "2026-11-09T06:43:19+09:00",
+   "id": "AU-2026-11-06-1"
+  },
+  {
    "country": "CN",
    "category": "event",
    "importance": "medium",
@@ -404,6 +522,18 @@
    "url": "https://www.pulseit.news/australian-digital-health/nsw-police-investigate-major-cyber-breach-at-nsw-health/",
    "collected_at": "2026-11-06T06:42:12+09:00",
    "id": "AU-2026-11-05-1"
+  },
+  {
+   "country": "AU",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-11-05",
+   "title_ko": "豪 패스웨이즈, AI 음성 수술 전 평가 플랫폼 검증",
+   "summary_ko": "스타트업 패스웨이즈가 환자가 음성 대화로 수술 전 평가를 마치게 하는 AI 플랫폼을 개발해 시드니 로열노스쇼어병원에서 임상 검증 중이다. 노던시드니 지역보건구 10만 호주달러 지원을 받았다.",
+   "source": "Pulse+IT",
+   "url": "https://www.pulseit.news/australian-digital-health/pathways-cuts-admin-with-ai-powered-pre-surgery-assessments/",
+   "collected_at": "2026-11-09T06:43:19+09:00",
+   "id": "AU-2026-11-05-2"
   },
   {
    "country": "CA",
@@ -470,6 +600,42 @@
    "id": "AU-2026-11-04-1"
   },
   {
+   "country": "BR",
+   "category": "policy",
+   "importance": "medium",
+   "date": "2026-11-04",
+   "title_ko": "브라질, 국가 보건정보·디지털보건 정책 도입",
+   "summary_ko": "브라질 보건부가 진료기록 통합, CPF의 보건정보 주 식별자 지정, 원격보건 확대, 개인정보 보호 강화를 담은 국가 보건정보·디지털보건 정책(PNISD)을 마련했다. Meu SUS Digital 앱과 63개 원격보건센터가 이 정책에 포함되며, 실행계획은 정책 공포 후 180일 내 합의해야 한다.",
+   "source": "Brasil 61",
+   "url": "https://brasil61.com/n/sus-tera-historico-clinico-integrado-e-ampliacao-de-servicos-digitais-bras2617421.amp",
+   "collected_at": "2026-11-09T06:43:19+09:00",
+   "id": "BR-2026-11-04-1"
+  },
+  {
+   "country": "BO",
+   "category": "policy",
+   "importance": "low",
+   "date": "2026-11-04",
+   "title_ko": "볼리비아·브라질, 국제 원격보건망 구축 협력",
+   "summary_ko": "볼리비아 보건체육부와 브라질 보건부 디지털보건국이 PAHO/WHO 지원으로 국경도시 코비하와 브라실레이아에서 원격보건 기술 방문·교류를 시작했다. 양국 모델을 비교해 인프라·연결성·플랫폼 모범사례를 찾고 국제 원격보건망 구축 지침을 마련했다.",
+   "source": "볼리비아 보건체육부",
+   "url": "https://www.minsalud.gob.bo/9643-bolivia-y-brasil-avanzan-hacia-una-red-internacional-de-telesalud-y-salud-digital",
+   "collected_at": "2026-11-09T06:43:19+09:00",
+   "id": "BO-2026-11-04-1"
+  },
+  {
+   "country": "KR",
+   "category": "investment",
+   "importance": "low",
+   "date": "2026-11-04",
+   "title_ko": "루닛, 477억원 규모 전환사채 발행 결정",
+   "summary_ko": "루닛이 2024년 볼파라 인수 자금으로 발행한 기존 고금리 사채를 갈음하기 위해 477억원 규모 전환사채를 발행하기로 했다. 표면이자 0%, 만기보장수익률 4%이며 기존 원금의 약 81%를 상환·매입했다.",
+   "source": "메디게이트뉴스",
+   "url": "https://www.medigatenews.com/news/2772307008",
+   "collected_at": "2026-11-09T06:43:19+09:00",
+   "id": "KR-2026-11-04-2"
+  },
+  {
    "country": "DE",
    "category": "policy",
    "importance": "low",
@@ -504,6 +670,30 @@
    "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33709",
    "collected_at": "2026-11-04T06:42:58+09:00",
    "id": "KR-2026-11-03-2"
+  },
+  {
+   "country": "CN",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-11-03",
+   "title_ko": "中 상하이서 'AI 의료 임상응용' 교류대회 개최",
+   "summary_ko": "11월 1일 푸단대 장장캠퍼스에서 정부·산업·학계·의료·투자 관계자가 모여 AI 수술로봇, 장기의학, 기층의료 등을 논의했다. 상하이·우한·광저우 국가의료센터가 AI 성과를 공유했다.",
+   "source": "신화망",
+   "url": "https://www.news.cn/digital/20261103/f7d038b2253848db901809d88167a972/c.html",
+   "collected_at": "2026-11-09T06:43:19+09:00",
+   "id": "CN-2026-11-03-1"
+  },
+  {
+   "country": "CN",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-11-03",
+   "title_ko": "中 하이정제약, 하이난에 인터넷병원 개설",
+   "summary_ko": "하이정제약이 하이난 청마이에 인터넷병원을 열었다. 다수 인터넷병원이 저활성 상태인 가운데 R&D-소비자 선순환의 일환이라고 설명하나 의사 참여, 기층 데이터 공백, AI 분류(트리아지) 신뢰 등이 과제로 남는다.",
+   "source": "21세기경제보도",
+   "url": "https://21jingji.com/article/20261103/herald/ea22324a0cec64fe1f78b5dcf0fe7959.html",
+   "collected_at": "2026-11-09T06:43:19+09:00",
+   "id": "CN-2026-11-03-2"
   },
   {
    "country": "AU",
@@ -758,6 +948,18 @@
    "id": "AU-2026-10-28-4"
   },
   {
+   "country": "US",
+   "category": "company",
+   "importance": "medium",
+   "date": "2026-10-28",
+   "title_ko": "美 텔라닥, 3분기 호실적에 연간 가이던스 상향",
+   "summary_ko": "텔라닥헬스가 3분기 매출 6억510만 달러(-3%), 조정 EBITDA 7940만 달러(+14%)를 발표하고 연간 매출 전망을 23.95억~24.41억 달러로 올렸다. 베터헬프 매출은 13% 감소했으나 보험 적용 서비스 중심 전환이 이어지고 있다.",
+   "source": "Teladoc Health(Finviz)",
+   "url": "https://finviz.com/news/410518/teladoc-health-reports-third-quarter-2026-results",
+   "collected_at": "2026-11-09T06:43:19+09:00",
+   "id": "US-2026-10-28-2"
+  },
+  {
    "country": "AU",
    "category": "company",
    "importance": "low",
@@ -864,176 +1066,6 @@
    "url": "https://www.dailypharm.com/user/news/343871",
    "collected_at": "2026-10-30T06:43:26+09:00",
    "id": "KR-2026-10-27-2"
-  },
-  {
-   "country": "SG",
-   "category": "policy",
-   "importance": "low",
-   "date": "2026-10-26",
-   "title_ko": "싱가포르, 혈액검사 AI 모델 개발 'BloodCounts!' 착수",
-   "summary_ko": "싱가포르 국가연구재단(NRF) AI-for-Science 이니셔티브 지원으로 혈구검사(CBC) 데이터 기반 AI 모델을 개발하는 'BloodCounts!' 프로젝트가 출범한다. 케임브리지 CARES가 주관하고 NUHS·SingHealth가 병원 파트너로 참여해 조기 진단·예후 예측 활용을 목표로 한다.",
-   "source": "Media OutReach Newswire(Manila Times)",
-   "url": "https://manilatimes.net/2026/10/26/tmt-newswire/media-outreach-newswire/bloodcounts-will-develop-frontier-ai-models-for-routine-blood-tests-to-improve-healthcare/2453601",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "SG-2026-10-26-1"
-  },
-  {
-   "country": "BO",
-   "category": "policy",
-   "importance": "low",
-   "date": "2026-10-26",
-   "title_ko": "볼리비아 청년팀, 안데스 보건 해커톤 우승",
-   "summary_ko": "볼리비아 청년 4명이 안데스보건기구(ORAS-CONHU) 해커톤에서 청소년 임신·HIV 예방 웹 교육 플랫폼 'VIH Joven'으로 우승했다. 보건체육부가 기술 지원을 했으며, 플랫폼은 UNFPA·PAHO·WHO 캠페인과 공식 저장소에 편입될 예정이다.",
-   "source": "Ministerio de Salud y Deportes de Bolivia",
-   "url": "https://minsalud.gob.bo/9616-cuatro-jovenes-bolivianos-ganan-hackaton-andino-presentando-plataforma-vih-joven",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "BO-2026-10-26-1"
-  },
-  {
-   "country": "DE",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-10-26",
-   "title_ko": "獨 gematik 전자처방 앱, 푸시 알림 도입",
-   "summary_ko": "gematik의 전자처방(E-Rezept) 앱에 새 처방, 상태 변경, 의료진 접근 등을 알리는 푸시 알림 기능이 추가돼 첫 10일간 약 5만 건이 발송됐다. 공·사 보험사도 자체 앱에 이 기능을 적용할 수 있으며, 동일한 기술이 ePA 활동 알림에도 쓰인다.",
-   "source": "Pharmazeutische Zeitung",
-   "url": "https://www.pharmazeutische-zeitung.de/e-rezept-app-erhaelt-push-funktion-171438/",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "DE-2026-10-26-1"
-  },
-  {
-   "country": "KR",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-10-26",
-   "title_ko": "대웅제약 '씽크', 아주대병원 342병상 가동…1100병상 확대 검토",
-   "summary_ko": "대웅제약이 스마트 병상 모니터링 시스템 '씽크(thynC)'를 아주대병원 7개 병동 342병상에 공급했으며 병원은 전체 1100병상 확대를 검토 중이다. 웨어러블 센서로 생체신호를 실시간 측정하고 AI로 낙상·부정맥을 감지하며 EMR에 자동 기록한다. 10월 기준 전국 218개 의료기관, 누적 2만54병상에 도입됐다.",
-   "source": "데일리팜",
-   "url": "https://dailypharm.com/user/news/343797",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "KR-2026-10-26-1"
-  },
-  {
-   "country": "US",
-   "category": "policy",
-   "importance": "high",
-   "date": "2026-10-26",
-   "title_ko": "美 ONC, HTI-5 최종규칙…EHR 인증기준 14개 폐지",
-   "summary_ko": "미 보건부 산하 ONC가 HTI-5 최종규칙을 발표해 Epic·Oracle 등 병원용 전자의무기록(EHR) 소프트웨어 인증기준 60개 중 14개를 폐지하고 7개를 대폭 개정했다. 규제 간소화와 신기술 지원이 목적이지만, 민감 건강정보 보호와 AI 기반 제품 안전성이 약화된다는 의견 제출에도 강행됐다는 지적이 나온다.",
-   "source": "STAT",
-   "url": "https://www.statnews.com/2026/10/26/health-data-interoperability-hti5-relaxes-privacy-security-requirements/",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "US-2026-10-26-1"
-  },
-  {
-   "country": "AU",
-   "category": "policy",
-   "importance": "medium",
-   "date": "2026-10-26",
-   "title_ko": "호주 TGA, 디지털 정신건강 규제 면제 재검토",
-   "summary_ko": "호주 의약품청(TGA)이 디지털 정신건강 도구 규제 방식 변경을 검토하고 있다. 검토 결과 AI 활용 제품 등 고위험 제품 일부가 의료기기 규제에서 면제될 수 있어 기존 면제 기준이 더 이상 적합하지 않을 수 있다고 판단했다.",
-   "source": "Pulse+IT",
-   "url": "https://www.pulseit.news/australian-digital-health/tga-flags-risks-in-digital-mental-health-exemption/",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "AU-2026-10-26-1"
-  },
-  {
-   "country": "CH",
-   "category": "investment",
-   "importance": "low",
-   "date": "2026-10-26",
-   "title_ko": "瑞 CHD, 원격 산모·태아 모니터링에 15만프랑 지원",
-   "summary_ko": "스위스 Biopôle 기반 스타트업 CHD(Connected Health Development)가 Venture Kick으로부터 15만 스위스프랑을 지원받았다. 태아·산모 심전도, 자궁수축, 태동을 측정하는 세탁 가능한 스마트 섬유 벨트 'MONI2'로 고위험 임신의 병원 밖 모니터링을 목표로 한다.",
-   "source": "Startupticker.ch",
-   "url": "https://www.startupticker.ch/en/news/chf-150-000-to-bring-chd-pregnancy-monitoring-into-patients-homes",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "CH-2026-10-26-1"
-  },
-  {
-   "country": "AU",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-10-26",
-   "title_ko": "메디뱅크·오사라, 가상 암 코칭 프로그램 출시",
-   "summary_ko": "호주 민간보험사 메디뱅크가 디지털헬스 기업 오사라헬스와 손잡고 암 치료 중인 가입자를 위한 가상 코칭 프로그램을 출시했다. 맞춤형 지원, 증상 추적, 디지털 교육 자료를 제공하며 입원 보장 가입자에게 무료다.",
-   "source": "Pulse+IT",
-   "url": "https://www.pulseit.news/australian-digital-health/medibank-osara-launch-virtual-cancer-coaching-program/",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "AU-2026-10-26-2"
-  },
-  {
-   "country": "CN",
-   "category": "company",
-   "importance": "medium",
-   "date": "2026-10-26",
-   "title_ko": "中 커다쉰페이, 싱훠 의료대모델 V3.7 공개",
-   "summary_ko": "커다쉰페이가 10월 22일 싱훠 의료대모델 V3.7과 AI 환자관리 플랫폼 3.0을 발표했다. 플랫폼은 160여 개 전문질환 관리 경로를 갖추고 전국 300여 개 병원에 도입됐다. 전문가 합의안 제정 프로젝트도 함께 시작했다.",
-   "source": "신랑재경(新浪财经)",
-   "url": "https://finance.sina.com.cn/tech/2026-10-26/doc-iniwpwir9278829.shtml",
-   "collected_at": "2026-10-27T18:20:10+09:00",
-   "id": "CN-2026-10-26-1"
-  },
-  {
-   "country": "BR",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-10-26",
-   "title_ko": "美 오라클, 병원 경영 분석·실행 AI 에이전트 시연",
-   "summary_ko": "오라클이 라스베이거스 Oracle AI World 2026에서 환자 기록·일정·ERP 데이터를 결합해 심장내과 진료량 감소 원인을 조사하는 AI 에이전트를 선보였다. 사전에 정한 정책 안에서 작동하며 결과는 사람 관리자에게 보고한다. 실제 병원 성과 수치는 공개되지 않았다.",
-   "source": "Saúde Digital News",
-   "url": "https://saudedigitalnews.com.br/26/10/2026/oracle-apresenta-ia-capaz-de-investigar-problemas-e-executar-acoes-na-gestao-hospitalar/",
-   "collected_at": "2026-10-28T06:43:20+09:00",
-   "id": "BR-2026-10-26-1"
-  },
-  {
-   "country": "AU",
-   "category": "policy",
-   "importance": "low",
-   "date": "2026-10-26",
-   "title_ko": "濠 마이이머전시닥터, 가상응급진료 영구 재정 촉구",
-   "summary_ko": "My Emergency Doctor가 전문의 주도 가상 응급서비스에 영구 재정을 지원하라고 정부에 요구했다. 응급의학회 보고서가 고령화로 응급실 부담이 커진다고 경고한 데 따른 것이다.",
-   "source": "Pulse+IT",
-   "url": "https://www.pulseit.news/australian-digital-health/my-emergency-doctor-urges-permanent-virtual-ed-funding/",
-   "collected_at": "2026-10-28T06:43:20+09:00",
-   "id": "AU-2026-10-26-3"
-  },
-  {
-   "country": "IL",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-10-25",
-   "title_ko": "以 Aidoc·Nanox 등 타임 '최고 발명품' 선정",
-   "summary_ko": "타임지 '2026 최고의 발명품'에 이스라엘 연관 헬스 기술이 다수 포함됐다. 의료영상 기반 임상 AI 파운데이션 모델 Aidoc CARE, 3D 영상 X선 시스템 Nanox.Arc X, 호흡 샘플·탐지견·AI를 결합한 암 조기진단 SpotitEarly Lucid(미승인) 등이다.",
-   "source": "JNS (Cleveland Jewish News 게재)",
-   "url": "https://www.clevelandjewishnews.com/jns/made-in-israel-startup-nation-s-footprint-on-time-s-best-inventions-of-2026/article_51aad12c-7898-5f1b-a7a2-bf93164caf86.html",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "IL-2026-10-25-1"
-  },
-  {
-   "country": "CN",
-   "category": "company",
-   "importance": "medium",
-   "date": "2026-10-25",
-   "title_ko": "中 빅테크, 의사용 AI 경쟁 격화…앤트·알리·징둥 각축",
-   "summary_ko": "알리건강(氢离子), 앤트그룹(아푸 의사판), 징둥건강(MedWork)이 올해 잇따라 의사용 AI 제품을 출시하며 약 500만명 중국 의사 시장을 두고 경쟁하고 있다. 10월 21일 기준 안드로이드 설치 수는 아푸 의사판 1994만, 氢离子 489만, 징둥 의사 238만회였다. 처방약 광고 금지로 美 OpenEvidence식 수익모델 적용이 어렵다는 분석이 나온다.",
-   "source": "投资界",
-   "url": "https://news.pedaily.cn/202610/570795.shtml",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "CN-2026-10-25-1"
-  },
-  {
-   "country": "CN",
-   "category": "event",
-   "importance": "medium",
-   "date": "2026-10-21",
-   "date_end": "2026-10-24",
-   "city_ko": "베이징",
-   "title_ko": "제94회 CMEF 추계 박람회 베이징서 열려",
-   "summary_ko": "중국 최대 의료기기 전시회 CMEF의 추계 행사가 베이징에서 열렸다. 약 20만㎡ 규모로 의료영상, 체외진단, 스마트 병원, 의료 AI 제품이 전시되며 중국 의료기기 산업과 디지털 의료 동향을 보여주는 행사다.",
-   "source": "Reed Sinopharm (CMEF)",
-   "url": "https://www.german-pavilion.com/en/cmef-autumn-2026",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "ev-CN-2026-10-21-1"
   }
  ]
 }
