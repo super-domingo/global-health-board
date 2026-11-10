@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-08T21:43:19Z",
- "briefing_date": "2026-11-09",
- "briefing_ko": "이번 발행에서는 루닛이 의료 특화 파운데이션 모델 '러닝유닛 2.0'을 공개하고 477억원 규모 전환사채 발행을 결정해 국내 의료 AI 투자·제품 경쟁이 이어졌다. 호주 AI 스크라이브 하이디의 전 세계 인력 18% 감축과 텔라닥의 3분기 실적 호조·가이던스 상향이 대비를 이루었고, 브라질은 국가 보건정보 정책과 헬스테크 시리즈A 확장이 눈에 띈다. 다가오는 행사: 11/23 호주 AIDH AI.Care 2026(멜버른).",
+ "updatedAt": "2026-11-10T21:42:27Z",
+ "briefing_date": "2026-11-11",
+ "briefing_ko": "이번 발행에서는 호주 정부의 첨단 AI 안전규제기관 신설 발표, 루닛의 사우디 국가방위부 의료 AI 영상 공급 계약, DocMorris의 스위스 원격의료 Medi24 인수가 눈에 띈다. 브라질에서는 보건부의 디지털보건정책 공포와 AI 선별·원격진단 도입이 이어졌다. 다가오는 큰 행사는 새로 확인된 것이 없다.",
  "items": [
   {
    "country": "CH",
@@ -410,6 +410,54 @@
    "id": "ev-US-2026-11-11-2"
   },
   {
+   "country": "AU",
+   "category": "policy",
+   "importance": "medium",
+   "date": "2026-11-11",
+   "title_ko": "豪 정부, 첨단 AI 겨냥 안전규제기관 신설 발표",
+   "summary_ko": "호주 정부가 AI 안전·보안 규칙을 의무화하고 위반 시 고액 과징금을 부과할 수 있는 새 규제기관을 두겠다고 발표했다. 정부는 AI가 의료를 혁신할 기회라고 밝혔다.",
+   "source": "Pulse+IT",
+   "url": "https://www.pulseit.news/australian-digital-health/govt-announces-safety-regulator-to-target-frontier-ai/",
+   "collected_at": "2026-11-11T06:42:27+09:00",
+   "id": "AU-2026-11-11-1"
+  },
+  {
+   "country": "AU",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-11-11",
+   "title_ko": "호주 Freia, 환자 주도 임상정보 공유 기능 도입",
+   "summary_ko": "골드코스트 기반 헬스테크 스타트업 Freia가 환자가 임상정보를 의료진에게 직접 공유하고 언제든 접근을 철회할 수 있는 기능을 추가했다. 현재 12개 호주 클리닉이 플랫폼을 사용 중이다.",
+   "source": "Pulse+IT",
+   "url": "https://www.pulseit.news/australian-digital-health/freia-introduces-patient-controlled-clinical-info-sharing/",
+   "collected_at": "2026-11-11T06:42:27+09:00",
+   "id": "AU-2026-11-11-2"
+  },
+  {
+   "country": "BR",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-11-10",
+   "title_ko": "伯 타겟·텔레카르디오, 원격진단 판매 제휴",
+   "summary_ko": "브라질 헬스IT 컨설팅사 타겟이 원격진단 업체 텔레카르디오의 심장·신경·폐·수면·안과 서비스 판매 채널을 맡는다. 텔레카르디오는 누적 1,500만 건 판독, 2,000여 기관을 고객으로 두고 있다.",
+   "source": "Saúde Digital News",
+   "url": "https://saudedigitalnews.com.br/10/11/2026/target-e-telecardio-firmam-parceria-para-ampliar-acesso-a-solucoes-de-telediagnostico-no-mercado-de-saude/",
+   "collected_at": "2026-11-11T06:42:27+09:00",
+   "id": "BR-2026-11-10-1"
+  },
+  {
+   "country": "KR",
+   "category": "company",
+   "importance": "medium",
+   "date": "2026-11-10",
+   "title_ko": "루닛, 사우디 국가방위부 의료 AI 영상 공급 계약",
+   "summary_ko": "루닛이 사우디아라비아 국가방위부 보건국에 흉부 X선 분석·유방촬영 보조 AI 소프트웨어를 공급한다. stc solutions가 시스템 통합을 맡아 기존 PACS와 연동하며, 계약 규모와 일정은 공개되지 않았다.",
+   "source": "Korea Biomedical Review",
+   "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33795",
+   "collected_at": "2026-11-11T06:42:27+09:00",
+   "id": "KR-2026-11-10-1"
+  },
+  {
    "country": "GB",
    "category": "event",
    "importance": "medium",
@@ -422,6 +470,18 @@
    "url": "https://www.abhi.org.uk/events/abhi-events/the-abhi-uk-healthtech-conference-2026/",
    "collected_at": "2026-10-27T14:50:00+09:00",
    "id": "ev-GB-2026-11-09-1"
+  },
+  {
+   "country": "BR",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-11-09",
+   "title_ko": "伯 모이뉴스 병원, 폐암 의심환자 AI 선별 도입",
+   "summary_ko": "브라질 모이뉴스 지 벤투 병원이 약 100만 건 임상문서를 분석하는 데이터 인텔리전스 소프트웨어로 폐암 의심 소견을 빠르게 찾는다. 폐암을 시작으로 유방암·심장 등으로 확대할 수 있으며 의사가 임상 판단을 맡는다.",
+   "source": "Saúde Digital News",
+   "url": "https://saudedigitalnews.com.br/09/11/2026/hospital-moinhos-de-vento-adota-tecnologia-de-inteligencia-de-dados-para-identificar-mais-rapido-pacientes-com-suspeitas-de-cancer-de-pulmao/",
+   "collected_at": "2026-11-11T06:42:27+09:00",
+   "id": "BR-2026-11-09-1"
   },
   {
    "country": "US",
@@ -486,6 +546,18 @@
    "id": "AU-2026-11-06-1"
   },
   {
+   "country": "BR",
+   "category": "policy",
+   "importance": "medium",
+   "date": "2026-11-06",
+   "title_ko": "伯 보건부, 디지털보건정책 공청회 없이 공포",
+   "summary_ko": "브라질 보건부가 10월 말 국가 보건정보·디지털보건정책(PNISD)을 장관령 GM/MS 12.301/2026으로 공청회 없이 공포했다. 시민단체는 SUS 데이터의 상업 연구·AI 학습 활용 가능성과 동의·투명성 장치 부족을 비판했으며, 180일 이행계획 기간 중 공개 협의를 요구하고 있다.",
+   "source": "Saúde Digital News",
+   "url": "https://saudedigitalnews.com.br/06/11/2026/sem-audiencia-publica-ministerio-da-saude-publica-politica-nacional-de-informacao-e-saude-digital-abrindo-brecha-para-a-exploracao-de-dados-do-sus/",
+   "collected_at": "2026-11-11T06:42:27+09:00",
+   "id": "BR-2026-11-06-2"
+  },
+  {
    "country": "CN",
    "category": "event",
    "importance": "medium",
@@ -534,6 +606,18 @@
    "url": "https://www.pulseit.news/australian-digital-health/pathways-cuts-admin-with-ai-powered-pre-surgery-assessments/",
    "collected_at": "2026-11-09T06:43:19+09:00",
    "id": "AU-2026-11-05-2"
+  },
+  {
+   "country": "DE",
+   "category": "policy",
+   "importance": "low",
+   "date": "2026-11-05",
+   "title_ko": "獨 연방사회법원, 진료소 TI 정액보상 판결",
+   "summary_ko": "카셀 연방사회법원은 진료소의 텔레마틱스 인프라(TI) 설치 비용을 실비가 아닌 법정 정액으로 보상하는 것이 맞는다고 판결했다. 정액이 전액 보전은 아니지만 대부분의 예상 비용을 충당하도록 산정돼야 한다고 밝혔다.",
+   "source": "Deutsches Ärzteblatt",
+   "url": "https://www.aerzteblatt.de/themen/digitalisierung/urteil-arztpraxen-erhalten-pauschale-fur-ausstattung-mit-telematikinfrastruktur-63d517b0-4774-4a62-b7c3-c49a052981fd",
+   "collected_at": "2026-11-11T06:42:27+09:00",
+   "id": "DE-2026-11-05-1"
   },
   {
    "country": "CA",
@@ -634,6 +718,42 @@
    "url": "https://www.medigatenews.com/news/2772307008",
    "collected_at": "2026-11-09T06:43:19+09:00",
    "id": "KR-2026-11-04-2"
+  },
+  {
+   "country": "CA",
+   "category": "policy",
+   "importance": "low",
+   "date": "2026-11-04",
+   "title_ko": "加 매니토바 응급실 의사, 원격진료 모델 중단 요구",
+   "summary_ko": "위니펙 응급실 의사 60여 명이 타 주 의사가 원격으로 응급환자를 평가하는 가상진료 모델 협상을 멈춰 달라고 요청했다. 협의 부족과 환자 안전을 우려했고, 주 보건장관은 아직 결정된 바 없다고 밝혔다.",
+   "source": "CanHealth",
+   "url": "https://www.canhealth.com/2026/11/04/er-docs-urge-govt-to-reconsider-virtual-care/",
+   "collected_at": "2026-11-11T06:42:27+09:00",
+   "id": "CA-2026-11-04-1"
+  },
+  {
+   "country": "CA",
+   "category": "policy",
+   "importance": "low",
+   "date": "2026-11-04",
+   "title_ko": "加 UHN, 연구성과 기업화 국가 청사진 발표",
+   "summary_ko": "토론토 UHN이 연구를 캐나다 기업·일자리로 연결하는 국가 청사진을 공개했다. 정부의 초기 구매자 역할, 특허 보유형 인내자본, AI 주권과 신뢰 등을 제안한다.",
+   "source": "CanHealth",
+   "url": "https://www.canhealth.com/2026/11/04/uhn-releases-plan-for-turning-rd-into-businesses/",
+   "collected_at": "2026-11-11T06:42:27+09:00",
+   "id": "CA-2026-11-04-2"
+  },
+  {
+   "country": "CH",
+   "category": "investment",
+   "importance": "medium",
+   "date": "2026-11-04",
+   "title_ko": "獨 DocMorris, 스위스 원격의료 Medi24 인수",
+   "summary_ko": "DocMorris가 자회사 TeleClinic을 통해 알리안츠 파트너스로부터 스위스 원격의료업체 Medi24를 인수한다고 밝혔다. 인수가는 스위스프랑 두 자릿수 백만대로 12월 종결 예정이며, Medi24는 460만 명 가입자에 우선 원격진료 접근권을 제공한다. TeleClinic 플랫폼의 유럽 확장 첫걸음이다.",
+   "source": "Dealroom",
+   "url": "https://dealroom.co/news/169757-docmorris-buys-swiss-telemedicine-firm-medi24-returning-to-switzerland/",
+   "collected_at": "2026-11-11T06:42:27+09:00",
+   "id": "CH-2026-11-04-2"
   },
   {
    "country": "DE",
@@ -814,258 +934,6 @@
    "url": "https://www.pulseit.news/australian-digital-health/australian-smart-bedding-tech-secures-us-patent/",
    "collected_at": "2026-10-30T06:43:26+09:00",
    "id": "AU-2026-10-29-1"
-  },
-  {
-   "country": "AU",
-   "category": "policy",
-   "importance": "medium",
-   "date": "2026-10-28",
-   "title_ko": "濠 빅토리아주, 5개년 디지털헬스 로드맵 발표",
-   "summary_ko": "빅토리아주 정부가 2026~31 디지털헬스 비전·로드맵을 공개했다. 연결된 임상기록, 가상진료, 소비자의 건강정보 접근, 인공지능을 공공보건 우선과제로 삼았다.",
-   "source": "Pulse+IT",
-   "url": "https://www.pulseit.news/australian-digital-health/victoria-sets-out-five-year-digital-health-roadmap/",
-   "collected_at": "2026-10-28T06:43:20+09:00",
-   "id": "AU-2026-10-28-1"
-  },
-  {
-   "country": "AU",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-10-28",
-   "title_ko": "濠 텔스트라헬스, 노인요양 분석 스위트 출시",
-   "summary_ko": "텔스트라헬스가 임상·투약·운영 데이터를 한 곳에서 보여주는 노인요양 분석 플랫폼 Care Insights를 내놨다. 20개 넘는 분석 기능으로 입소자 케어 추적과 위험 감지, 규제 대응을 지원한다.",
-   "source": "Pulse+IT",
-   "url": "https://www.pulseit.news/australian-digital-health/telstra-health-launches-analytics-suite-for-aged-care/",
-   "collected_at": "2026-10-28T06:43:20+09:00",
-   "id": "AU-2026-10-28-2"
-  },
-  {
-   "country": "DE",
-   "category": "policy",
-   "importance": "medium",
-   "date": "2026-10-28",
-   "title_ko": "獨 KBV, 디지털혁신법 초안 수정 요구",
-   "summary_ko": "독일 의사협회(KBV)가 연방보건부·경제부에 서한을 보내 디지털 혁신법(GeDIG) 정부안의 수정을 요구했다. 전자환자기록(ePA)을 통한 디지털 진료 진입을 건강보험사 앱으로만 한정하지 말고 116117 등 동등한 접근 경로를 유지해야 한다는 입장이다. EU 집행위도 통보 절차에서 비슷한 우려를 제기한 것으로 전해졌다.",
-   "source": "Deutsches Ärzteblatt",
-   "url": "https://www.aerzteblatt.de/news/gedig-nicht-rechtssicher-und-praktikabel-kbv-mahnt-anpassungen-an-af1ff0c4-9aaa-42a5-898b-b1a28ed8132d",
-   "collected_at": "2026-10-30T06:43:26+09:00",
-   "id": "DE-2026-10-28-1"
-  },
-  {
-   "country": "AU",
-   "category": "policy",
-   "importance": "low",
-   "date": "2026-10-28",
-   "title_ko": "豪 GP학회, 병원-의원 팩스 소통 종식 촉구",
-   "summary_ko": "호주왕립일반의학회(RACGP)가 상호운용 가능한 디지털 헬스 시스템 투자 확대와 병원·일반의 간 팩스 기반 소통 종식을 촉구했다. 보고서 수치로는 호주 일반의 절반이 지난 1년 사이 새로운 진료 방식을 도입한 것으로 나타났다.",
-   "source": "Pulse+IT",
-   "url": "https://www.pulseit.news/australian-digital-health/racgp-calls-for-an-end-to-fax-based-comms/",
-   "collected_at": "2026-10-30T06:43:26+09:00",
-   "id": "AU-2026-10-28-3"
-  },
-  {
-   "country": "US",
-   "category": "company",
-   "importance": "medium",
-   "date": "2026-10-28",
-   "title_ko": "美 STAT, 에픽 EHR 데이터 접근 차단 의혹 보도",
-   "summary_ko": "STAT 탐사보도에 따르면 미국 최대 EHR 업체 에픽이 경쟁 소프트웨어 개발사의 환자 데이터 접근을 선별적으로 막고 있다. 에픽 앱마켓 입점 기업 임원 12곳이 인터페이스 거부, 높은 접속료 등으로 사업이 위축됐다고 증언했다. 에픽은 법이 요구하는 것보다 많은 연결을 제공한다고 반박했다.",
-   "source": "STAT",
-   "url": "https://www.statnews.com/2026/10/28/epic-systems-ehr-dominance-health-tech-antitrust-scrutiny/",
-   "collected_at": "2026-11-02T06:42:46+09:00",
-   "id": "US-2026-10-28-1"
-  },
-  {
-   "country": "CA",
-   "category": "policy",
-   "importance": "medium",
-   "date": "2026-10-28",
-   "title_ko": "加 연방정부, 보건연구에 8억8천만 달러 투입",
-   "summary_ko": "마조리 미셸 보건부 장관이 보건 연구와 차세대 연구자 지원을 위해 8억8천만 캐나다달러를 발표했다. CIHR 프로젝트 보조금으로 439개 과제에 4억 달러 이상, 연구인력 훈련 지원에 4억8천만 달러 이상이 배정된다.",
-   "source": "Canadian Healthcare Technology",
-   "url": "https://www.canhealth.com/2026/10/28/ottawa-invests-880-million-in-health/",
-   "collected_at": "2026-11-02T06:42:46+09:00",
-   "id": "CA-2026-10-28-1"
-  },
-  {
-   "country": "CA",
-   "category": "policy",
-   "importance": "low",
-   "date": "2026-10-28",
-   "title_ko": "加 퀘벡, 신임 AI·디지털부 장관 임명",
-   "summary_ko": "퀘벡 신정부가 전 CHUM·Logibec 출신으로 퀘벡혁신위원회 최고AI책임자를 지낸 앤 응우옌을 AI·디지털부 장관에 임명했다. 신임 총리는 선거 공약으로 산테퀘벡 해체도 내세웠다.",
-   "source": "Canadian Healthcare Technology",
-   "url": "https://www.canhealth.com/2026/10/28/anne-nguyen-named-ai-minister-for-quebec/",
-   "collected_at": "2026-11-02T06:42:46+09:00",
-   "id": "CA-2026-10-28-2"
-  },
-  {
-   "country": "BR",
-   "category": "policy",
-   "importance": "medium",
-   "date": "2026-10-28",
-   "title_ko": "브라질 ANPD, 의료정보 유출 지자체에 시정조치",
-   "summary_ko": "브라질 개인정보보호청(ANPD)이 페이라지산타나 시가 관보에 1,241명의 질병 진단명을 노출한 사건에 경고와 공개 조치를 내렸다. 정보보호책임자 지정, 보안정책 도입, 직원 교육 등이 명령됐으며 공공기관이라 과징금은 없다.",
-   "source": "Saúde Digital News",
-   "url": "https://saudedigitalnews.com.br/28/10/2026/anpd-estabelece-medidas-corretivas-a-prefeitura-de-feira-de-santana-pelo-vazamento-de-dados-medicos-de-1-200-pessoas/",
-   "collected_at": "2026-11-02T06:42:46+09:00",
-   "id": "BR-2026-10-28-1"
-  },
-  {
-   "country": "BR",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-10-28",
-   "title_ko": "브라질 HarpiAI, 유방촬영 AI 판독 5분 내 완료",
-   "summary_ko": "HarpiAI의 AI가 Pixeon 영상 뷰어와 연동돼 유방촬영을 5분 안에 분석하고 이상 소견을 표시한다. 3개 클리닉 내부 연구에서 재소환이 평균 약 95% 줄었고, 약 200개 의료기관에서 월 13만 건을 처리한다.",
-   "source": "Saúde Digital News",
-   "url": "https://saudedigitalnews.com.br/28/10/2026/ia-analisa-mamografias-em-ate-5-minutos-e-reduz-reconvocacoes/",
-   "collected_at": "2026-11-02T06:42:46+09:00",
-   "id": "BR-2026-10-28-2"
-  },
-  {
-   "country": "KR",
-   "category": "policy",
-   "importance": "medium",
-   "date": "2026-10-28",
-   "title_ko": "식약처, 제2차 디지털의료기기 허가·심사 설명회",
-   "summary_ko": "식약처가 10월 28일 서울 SETEC에서 제2차 디지털의료기기 허가·심사 업무 설명회를 열었다. 올해 10월 시행된 신기술의료기기 허가심사 혁신방안과 13종의 제·개정 가이드라인을 산업계에 안내했다. AI 적용기기 심사와 7개 적응증별 임상시험계획서 심사 방안도 다뤘다.",
-   "source": "식품의약품안전처(KDI 경제정보센터 게재)",
-   "url": "https://eiec.kdi.re.kr/policy/materialView.do?num=288609&topic=P",
-   "collected_at": "2026-11-02T06:42:46+09:00",
-   "id": "KR-2026-10-28-1"
-  },
-  {
-   "country": "AU",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-10-28",
-   "title_ko": "오라클, 의료기관용 에이전틱 AI 기능 확대",
-   "summary_ko": "오라클이 Fusion 클라우드 애플리케이션에 의료기관용 에이전틱 AI 기능을 추가했다. 인력 계획, 임상 자격 관리, 공급망 등 운영 업무가 대상이다. 올랜도 보건·생명과학 서밋에서 발표됐다.",
-   "source": "Pulse+IT",
-   "url": "https://www.pulseit.news/australian-digital-health/oracle-expands-fusion-agentic-ai-capabilities-for-healthcare/",
-   "collected_at": "2026-11-02T06:42:46+09:00",
-   "id": "AU-2026-10-28-4"
-  },
-  {
-   "country": "US",
-   "category": "company",
-   "importance": "medium",
-   "date": "2026-10-28",
-   "title_ko": "美 텔라닥, 3분기 호실적에 연간 가이던스 상향",
-   "summary_ko": "텔라닥헬스가 3분기 매출 6억510만 달러(-3%), 조정 EBITDA 7940만 달러(+14%)를 발표하고 연간 매출 전망을 23.95억~24.41억 달러로 올렸다. 베터헬프 매출은 13% 감소했으나 보험 적용 서비스 중심 전환이 이어지고 있다.",
-   "source": "Teladoc Health(Finviz)",
-   "url": "https://finviz.com/news/410518/teladoc-health-reports-third-quarter-2026-results",
-   "collected_at": "2026-11-09T06:43:19+09:00",
-   "id": "US-2026-10-28-2"
-  },
-  {
-   "country": "AU",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-10-27",
-   "title_ko": "데달루스, ORBIS 전자의무기록 호주·뉴질랜드 확대",
-   "summary_ko": "글로벌 헬스테크 기업 데달루스가 유럽 구축 경험을 바탕으로 ORBIS 전자의무기록(EMR) 플랫폼을 호주 병원 시장에 확대 공급하려 한다. 기존 시스템과 병행 가능한 임상 기능을 내세우고 있다.",
-   "source": "Pulse+IT",
-   "url": "https://www.pulseit.news/australian-digital-health/dedalus-looks-to-expand-orbis-emr-across-anz/",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "AU-2026-10-27-1"
-  },
-  {
-   "country": "BR",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-10-27",
-   "title_ko": "다사, 보건부·IBGE 국민건강조사 검체 분석 참여",
-   "summary_ko": "다사의 B2B 브랜드 알바로 아포이오가 2026 국민건강조사(PNS) 실험실 운영에 참여해 약 1만5천 건의 혈액·소변 검사를 수행한다. 조사는 7월 시작해 10월 31일 종료 예정이다.",
-   "source": "Saúde Digital News",
-   "url": "https://saudedigitalnews.com.br/27/10/2026/dasa-se-une-com-ministerio-da-saude-e-ibge-para-pesquisa-nacional-de-saude/",
-   "collected_at": "2026-10-28T06:43:20+09:00",
-   "id": "BR-2026-10-27-1"
-  },
-  {
-   "country": "CH",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-10-27",
-   "title_ko": "瑞 Hirslanden, 보완의학 스타트업 JIVITA 지분 참여",
-   "summary_ko": "스위스 병원그룹 Hirslanden이 입원치료에 보완의학을 접목하는 취리히 스타트업 JIVITA의 주주가 됐다. JIVITA는 이미 취리히 내 2개 Hirslanden 병원에서 환자를 진료하며 다른 병원으로 확대할 계획이다.",
-   "source": "startupticker.ch",
-   "url": "https://www.startupticker.ch/en/news/hirslanden-beteiligt-sich-an-jivita",
-   "collected_at": "2026-10-28T06:43:20+09:00",
-   "id": "CH-2026-10-27-1"
-  },
-  {
-   "country": "DE",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-10-27",
-   "title_ko": "獨 AI 진료기록 도구, 집중 사용 시 문서화 시간 단축",
-   "summary_ko": "AI 기반 문서화 보조 도구가 의사의 행정 부담과 번아웃 위험을 줄일 수 있으며 절감 시간은 사용 강도에 좌우된다는 Annals of Internal Medicine 후향 연구가 소개됐다. 보스턴 BIDMC 연구진이 수행했다.",
-   "source": "Ärzteblatt",
-   "url": "https://www.aerzteblatt.de/themen/digitalisierung/ki-assistent-verkurzt-arztliche-dokumentationszeit-bei-intensiver-nutzung-89d07edd-47d7-406a-b8d8-c26829672618",
-   "collected_at": "2026-10-28T06:43:20+09:00",
-   "id": "DE-2026-10-27-1"
-  },
-  {
-   "country": "BR",
-   "category": "investment",
-   "importance": "low",
-   "date": "2026-10-27",
-   "title_ko": "伯 헬스테크 레베나, 시드 4500만 헤알 유치",
-   "summary_ko": "브라질 헬스테크 레베나(Revena)가 시드 라운드로 4500만 헤알을 유치했다. 진료기록·계약 조건을 분석해 보험사 청구 전 병원 청구 데이터를 점검하는 AI 플랫폼으로, 브라질 10대 병원그룹 중 4곳과 일하며 미국 진출도 계획한다.",
-   "source": "Brasil Inovador",
-   "url": "https://brasilinovador.com.br/inteligencia-artificial-no-faturamento-hospitalar-avanca-sobre-mercado-de-us-46-bilhoes-e-atrai-aportes-no-brasil/",
-   "collected_at": "2026-10-30T06:43:26+09:00",
-   "id": "BR-2026-10-27-2"
-  },
-  {
-   "country": "US",
-   "category": "investment",
-   "importance": "low",
-   "date": "2026-10-27",
-   "title_ko": "美 클래리티케어, 시리즈A 1630만 달러 유치",
-   "summary_ko": "샌프란시스코 기반 의료 업무 자동화 소프트웨어 기업 클래리티케어가 헤드라인 주도로 1630만 달러 시리즈A를 유치했다. 자금은 자동화 기술 고도화, 미국 의료망 고객 확보, EHR 연동 확대에 쓰인다.",
-   "source": "The SaaS News",
-   "url": "https://thesaasnews.com/news/claritycare-raises-16-3m-series-a",
-   "collected_at": "2026-10-30T06:43:26+09:00",
-   "id": "US-2026-10-27-1"
-  },
-  {
-   "country": "CH",
-   "category": "investment",
-   "importance": "low",
-   "date": "2026-10-27",
-   "title_ko": "瑞 Atlas Bio, 시드 포함 1250만 달러 유치",
-   "summary_ko": "바젤 기반 테크바이오 기업 Atlas Bio가 스텔스 모드를 벗고 총 1250만 달러를 조달했다. Creandum 주도 1000만 달러 시드와 비공개였던 250만 달러 프리시드로, 약 200만 건의 RNA 데이터로 학습한 AI 모델이 가상 환자 코호트로 약효·안전성을 시뮬레이션한다. 자금은 인력 확충과 플랫폼 검증에 쓰인다.",
-   "source": "Startupticker.ch",
-   "url": "https://www.startupticker.ch/en/news/atlas-bio-steps-out-of-stealth-with-12-5m-funding",
-   "collected_at": "2026-10-30T06:43:26+09:00",
-   "id": "CH-2026-10-27-2"
-  },
-  {
-   "country": "KR",
-   "category": "policy",
-   "importance": "medium",
-   "date": "2026-10-27",
-   "title_ko": "복지부 장관 \"비대면진료 플랫폼 비만약 셀프처방 금지\"",
-   "summary_ko": "정은경 보건복지부 장관이 27일 국회 국정감사에서 비대면진료 중개 플랫폼이 환자가 진료 전에 비만치료제 종류·용량·수령 방식을 미리 고르게 하는 행위를 금지하겠다고 밝혔다. 복지부는 비대면진료 제도화를 위한 시행규칙·고시·가이드라인에 관련 기준을 담을 방침이다.",
-   "source": "데일리팜",
-   "url": "https://dailypharm.com/user/news/343907",
-   "collected_at": "2026-10-30T06:43:26+09:00",
-   "id": "KR-2026-10-27-1"
-  },
-  {
-   "country": "KR",
-   "category": "investment",
-   "importance": "low",
-   "date": "2026-10-27",
-   "title_ko": "의약품 유통 플랫폼 바로팜, 코스닥 IPO 추진",
-   "summary_ko": "바로팜이 신주 178만 주를 공모해 292억~360억 원을 조달하며 11월 초 코스닥 상장을 목표로 한다. 기관 수요예측은 28일까지, 일반 청약은 11월 2~3일이며 조달 자금은 AI 기술 개발, 해외 진출, 생산시설 확충에 쓸 계획이다.",
-   "source": "데일리팜",
-   "url": "https://www.dailypharm.com/user/news/343871",
-   "collected_at": "2026-10-30T06:43:26+09:00",
-   "id": "KR-2026-10-27-2"
   }
  ]
 }
