@@ -1,8 +1,22 @@
 {
- "updatedAt": "2026-11-10T21:42:27Z",
- "briefing_date": "2026-11-11",
- "briefing_ko": "이번 발행에서는 호주 정부의 첨단 AI 안전규제기관 신설 발표, 루닛의 사우디 국가방위부 의료 AI 영상 공급 계약, DocMorris의 스위스 원격의료 Medi24 인수가 눈에 띈다. 브라질에서는 보건부의 디지털보건정책 공포와 AI 선별·원격진단 도입이 이어졌다. 다가오는 큰 행사는 새로 확인된 것이 없다.",
+ "updatedAt": "2026-11-12T21:42:36Z",
+ "briefing_date": "2026-11-13",
+ "briefing_ko": "이스라엘 TailorMed가 2.5억 달러 규모로 인수되고 스위스 Earkick·Laguna Health 등 중소형 헬스테크 M&A가 이어지며 AI 기반 헬스케어 인수 흐름이 계속되고 있다. 한국에서는 삼성·오픈AI의 커넥티드 헬스 확대와 루닛의 실적 개선이 눈에 띈다. 다가오는 행사: 디지털 헬스·케어 스코틀랜드 2027(2027-02-10, 에든버러).",
  "items": [
+  {
+   "country": "GB",
+   "category": "event",
+   "importance": "medium",
+   "date": "2027-02-10",
+   "date_end": "2027-02-10",
+   "city_ko": "에든버러",
+   "title_ko": "英 디지털 헬스·케어 스코틀랜드 2027 개최",
+   "summary_ko": "스코틀랜드 디지털 헬스·케어 콘퍼런스가 2027년 2월 10일 에든버러 국제컨벤션센터에서 열린다. 파편화된 시스템과 시범사업을 통합 서비스로 확장하는 방안, 보건·사회돌봄·주거 분야 기술 도입을 다룬다.",
+   "source": "Holyrood Events",
+   "url": "https://events.holyrood.com/event/digital-health-and-care-scotland-2027/",
+   "collected_at": "2026-11-13T06:42:36+09:00",
+   "id": "ev-GB-2027-02-10-1"
+  },
   {
    "country": "CH",
    "category": "event",
@@ -354,6 +368,54 @@
    "id": "ev-JP-2026-11-12-2"
   },
   {
+   "country": "CH",
+   "category": "investment",
+   "importance": "low",
+   "date": "2026-11-12",
+   "title_ko": "美 엘로미아, 스위스 AI 정신건강앱 Earkick 인수",
+   "summary_ko": "미국 엘로미아 헬스가 스위스 AI 정서지원 앱 Earkick을 인수했다. Earkick의 AI 모델과 메모리 엔진 Mia21 조기 접근권을 확보해 기업·의료기관용 API를 강화한다. 인수 금액은 비공개다.",
+   "source": "Startupticker.ch",
+   "url": "https://startupticker.ch/en/news/earkick-s-ai-emotional-support-chatbot-finds-new-owner",
+   "collected_at": "2026-11-13T06:42:36+09:00",
+   "id": "CH-2026-11-12-1"
+  },
+  {
+   "country": "IL",
+   "category": "investment",
+   "importance": "low",
+   "date": "2026-11-12",
+   "title_ko": "以 Elligint, AI 케어관리 Laguna Health 인수",
+   "summary_ko": "Elligint가 AI 개발 조직 강화를 위해 이스라엘 Laguna를 인수한다. 인력 약 20명을 이스라엘에 유지하며 두 배로 늘릴 계획이다.",
+   "source": "RuntimeWire (CTech 인용)",
+   "url": "https://runtimewire.com/article/elligint-health-acquires-laguna-health-ai-care-management",
+   "collected_at": "2026-11-13T06:42:36+09:00",
+   "id": "IL-2026-11-12-1"
+  },
+  {
+   "country": "KR",
+   "category": "company",
+   "importance": "medium",
+   "date": "2026-11-12",
+   "title_ko": "삼성·오픈AI, 미국 커넥티드 헬스 확대…한국은 데이터 장벽",
+   "summary_ko": "삼성전자와 오픈AI가 웨어러블·AI 건강 데이터를 병원 시스템과 연계하는 미국 사업을 넓힌다. 삼성은 의료 마이데이터에 신청했으며 연내 승인을 기대한다.",
+   "source": "Korea Biomed",
+   "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33825",
+   "collected_at": "2026-11-13T06:42:36+09:00",
+   "id": "KR-2026-11-12-1"
+  },
+  {
+   "country": "KR",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-11-12",
+   "title_ko": "루닛, 3분기 EBITDA 적자 77% 축소…14분기 최저",
+   "summary_ko": "루닛의 3분기 EBITDA 적자는 35억 원으로 77% 줄었다. 매출은 13% 늘어 222억 원으로 최대였고 누적 매출은 680억 원이다.",
+   "source": "Korea Biomed",
+   "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33830",
+   "collected_at": "2026-11-13T06:42:36+09:00",
+   "id": "KR-2026-11-12-2"
+  },
+  {
    "country": "KR",
    "category": "event",
    "importance": "medium",
@@ -432,6 +494,54 @@
    "url": "https://www.pulseit.news/australian-digital-health/freia-introduces-patient-controlled-clinical-info-sharing/",
    "collected_at": "2026-11-11T06:42:27+09:00",
    "id": "AU-2026-11-11-2"
+  },
+  {
+   "country": "CA",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-11-11",
+   "title_ko": "加 AI4Eyes, 안과 AI 플랫폼 FDA 등록·미국 진출",
+   "summary_ko": "몬트리올 기반 AI4Eyes가 안과 진료 플랫폼의 FDA 시설 등록과 기기 목록 등재를 마쳤다. 1등급 510(k) 면제 의료기기로 분류돼 미국 상용화 길이 열렸으며, 캐나다·유럽·아시아 인허가도 추진한다.",
+   "source": "PR Newswire",
+   "url": "https://prnewswire.com/news-releases/ai4eyes-completes-fda-registration-and-listing-for-its-eye-care-platform-opening-the-path-to-us-commercialization-302935330.html",
+   "collected_at": "2026-11-13T06:42:36+09:00",
+   "id": "CA-2026-11-11-1"
+  },
+  {
+   "country": "AU",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-11-11",
+   "title_ko": "헬스엔진, GP용 AI 리콜·예약 플랫폼 출시",
+   "summary_ko": "호주 헬스엔진이 AI 환자 소통 플랫폼 'Engage'를 출시했다. 양방향 문자, 리콜·알림 자동화, GP 진료관리 시스템 직접 예약을 지원해 접수 업무를 줄인다.",
+   "source": "Pulse+IT",
+   "url": "https://www.pulseit.news/australian-digital-health/healthengine-launches-ai-powered-recalls-and-bookings-for-gps/",
+   "collected_at": "2026-11-13T06:42:36+09:00",
+   "id": "AU-2026-11-11-3"
+  },
+  {
+   "country": "AU",
+   "category": "policy",
+   "importance": "medium",
+   "date": "2026-11-11",
+   "title_ko": "濠 NSW 보건, 2027 통합 전자환자기록 확대 일정 재조정",
+   "summary_ko": "NSW 보건부는 노던비치 병원 가동 경험을 2027년 단일 디지털 환자기록(SDPR) 확대 일정에 반영하겠다고 밝혔다. 8월 다음 단계 범위를 축소한 바 있다.",
+   "source": "Pulse+IT",
+   "url": "https://www.pulseit.news/australian-digital-health/northern-beaches-go-live-to-shape-2027-sdpr-rollout/",
+   "collected_at": "2026-11-13T06:42:36+09:00",
+   "id": "AU-2026-11-11-4"
+  },
+  {
+   "country": "KR",
+   "category": "policy",
+   "importance": "low",
+   "date": "2026-11-11",
+   "title_ko": "정부, 바이오 기술주권 위한 투자 확대 공언",
+   "summary_ko": "과기정통부 관계자가 바이오 퓨처 포럼에서 AI 신약, BCI, 유전자·세포치료 등 지원 확대와 산업 협력을 밝혔다.",
+   "source": "Korea Biomed",
+   "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33821",
+   "collected_at": "2026-11-13T06:42:36+09:00",
+   "id": "KR-2026-11-11-1"
   },
   {
    "country": "BR",
@@ -556,6 +666,18 @@
    "url": "https://saudedigitalnews.com.br/06/11/2026/sem-audiencia-publica-ministerio-da-saude-publica-politica-nacional-de-informacao-e-saude-digital-abrindo-brecha-para-a-exploracao-de-dados-do-sus/",
    "collected_at": "2026-11-11T06:42:27+09:00",
    "id": "BR-2026-11-06-2"
+  },
+  {
+   "country": "CH",
+   "category": "investment",
+   "importance": "low",
+   "date": "2026-11-06",
+   "title_ko": "이스라엘 무브먼트, 스위스 dacadoo 기술·IP 인수",
+   "summary_ko": "이스라엘 웰니스 그룹 movement가 청산 중인 스위스 디지털헬스 기업 dacadoo의 기술과 지식재산을 인수했다. 기존 고객은 플랫폼을 계속 사용할 수 있다. 금액은 공개되지 않았다.",
+   "source": "Startupticker.ch",
+   "url": "https://startupticker.ch/en/news/wellness-company-acquires-dacadoo-s-assets",
+   "collected_at": "2026-11-13T06:42:36+09:00",
+   "id": "CH-2026-11-06-1"
   },
   {
    "country": "CN",
@@ -876,64 +998,16 @@
    "id": "AU-2026-11-02-3"
   },
   {
-   "country": "DE",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-10-30",
-   "title_ko": "獨 샤리테, 사이버공격으로 연락처 14만 건 유출",
-   "summary_ko": "베를린 샤리테 병원이 웹서버 사이버공격으로 직원·학생·뉴스레터 구독자 등 약 14만 명의 연락처가 유출됐다고 밝혔다. 환자 진료에는 영향이 없고 민감 건강정보는 포함되지 않았으나, 예약 문의 자유서식란에 의료 정보가 있을 수 있어 개별 통지 중이다.",
-   "source": "Deutsches Ärzteblatt",
-   "url": "https://www.aerzteblatt.de/themen/digitalisierung/charite-knapp-140000-kontaktdaten-bei-cyberangriff-abgeflossen-2c5a0f50-38aa-43f2-8fd9-1163f6deef74",
-   "collected_at": "2026-11-02T06:42:46+09:00",
-   "id": "DE-2026-10-30-1"
-  },
-  {
-   "country": "KR",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-10-30",
-   "title_ko": "이대의료원, 세계병원총회서 디지털 의학교육 선보여",
-   "summary_ko": "이화여대의료원이 서울 코엑스 마곡에서 열린 제49회 국제병원연맹 세계병원총회에 부스를 차려 해부학 교육 등 디지털 의학교육 프로그램을 소개했다. 10개국 의료계 인사 39명이 서울병원을 방문해 국제 협력에 관심을 보였다.",
-   "source": "Korea Biomedical Review",
-   "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33670",
-   "collected_at": "2026-11-02T06:42:46+09:00",
-   "id": "KR-2026-10-30-1"
-  },
-  {
-   "country": "CA",
-   "category": "policy",
-   "importance": "medium",
-   "date": "2026-10-29",
-   "title_ko": "加 연방·주 개인정보 당국, 의료 AI 책임 활용 촉구",
-   "summary_ko": "캐나다 연방·주·준주 개인정보 감독기관이 의료·보건연구 분야 AI의 책임 있는 활용을 촉구하는 공동 결의를 채택했다. AI 거버넌스·책임성 체계 의무화, 공공 협의, 연구윤리 지침 강화를 요구했다.",
-   "source": "캐나다 연방 개인정보보호위원회(OPC)",
-   "url": "https://www.priv.gc.ca/en/opc-news/news-and-announcements/2026/nr-c_261029/",
-   "collected_at": "2026-10-30T06:43:26+09:00",
-   "id": "CA-2026-10-29-1"
-  },
-  {
-   "country": "KR",
-   "category": "policy",
-   "importance": "medium",
-   "date": "2026-10-29",
-   "title_ko": "복지부·중기부, 제약바이오 벤처 200곳 5년 지원",
-   "summary_ko": "보건복지부와 중소벤처기업부가 'K-제약바이오 프론티어기업 육성 방안'을 발표하고 2030년까지 유망 벤처 200곳을 선발해 R&D·임상·투자·해외진출을 최대 5년간 지원하기로 했다. 매년 50곳을 뽑아 3년간 직접투자 600억 원, 사업화 보증 900억 원 등 총 1500억 원을 공급하며 AI 신약개발도 함께 추진한다.",
-   "source": "데일리팜",
-   "url": "https://www.dailypharm.com/user/news/343953",
-   "collected_at": "2026-10-30T06:43:26+09:00",
-   "id": "KR-2026-10-29-1"
-  },
-  {
-   "country": "AU",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-10-29",
-   "title_ko": "豪 스마트 침구 기술, 미국 특허 취득",
-   "summary_ko": "멜버른 메드테크 기업 슬리프타이트와 RMIT 연구진이 요양시설 입소자의 움직임을 감지해 낙상 위험을 파악하는 스마트 침구 기술로 미국 특허를 받았다. 매트리스 커버에 유연 센서를 넣어 자세를 추적하므로 착용형 기기가 필요 없다.",
-   "source": "Pulse+IT",
-   "url": "https://www.pulseit.news/australian-digital-health/australian-smart-bedding-tech-secures-us-patent/",
-   "collected_at": "2026-10-30T06:43:26+09:00",
-   "id": "AU-2026-10-29-1"
+   "country": "IL",
+   "category": "investment",
+   "importance": "high",
+   "date": "2026-11-02",
+   "title_ko": "以 TailorMed, 美 GrowthCurve에 2.5억달러 인수",
+   "summary_ko": "미국 환자 약제비 지원 플랫폼 TailorMed가 사모펀드 GrowthCurve에 약 2억5천만 달러 규모로 인수된다. 950여 병원과 제약사 프로그램을 연결하며, 인수 후 AI 통합과 추가 M&A로 플랫폼을 확장할 계획이다.",
+   "source": "Calcalist",
+   "url": "https://www.calcalistech.com/ctechnews/article/sk4ycmiazg",
+   "collected_at": "2026-11-13T06:42:36+09:00",
+   "id": "IL-2026-11-02-1"
   }
  ]
 }
