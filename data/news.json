@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-12T21:42:36Z",
- "briefing_date": "2026-11-13",
- "briefing_ko": "이스라엘 TailorMed가 2.5억 달러 규모로 인수되고 스위스 Earkick·Laguna Health 등 중소형 헬스테크 M&A가 이어지며 AI 기반 헬스케어 인수 흐름이 계속되고 있다. 한국에서는 삼성·오픈AI의 커넥티드 헬스 확대와 루닛의 실적 개선이 눈에 띈다. 다가오는 행사: 디지털 헬스·케어 스코틀랜드 2027(2027-02-10, 에든버러).",
+ "updatedAt": "2026-11-15T21:42:06Z",
+ "briefing_date": "2026-11-16",
+ "briefing_ko": "GE헬스케어가 SOFIE 바이오사이언스를 9.45억 달러에 인수하고 Vumedi가 1.04억 달러 시리즈B를 유치하는 등 미국에서 대형 투자·M&A가 이어졌다. 스위스 vVARDIS의 뉴욕증시 상장, 캐나다 인포웨이 사업 방향 재검토 권고도 눈에 띈다. 다가오는 큰 행사: CES 2027 디지털헬스 서밋(2027-01-06, 라스베이거스).",
  "items": [
   {
    "country": "GB",
@@ -76,6 +76,20 @@
   {
    "country": "US",
    "category": "event",
+   "importance": "medium",
+   "date": "2027-01-11",
+   "date_end": "2027-01-13",
+   "city_ko": "샌프란시스코",
+   "title_ko": "美 디지미드 쇼케이스 2027, 샌프란시스코 개최",
+   "summary_ko": "바이오텍 쇼케이스 기간에 열리는 디지털헬스 혁신 콘퍼런스. 1월 11~13일 샌프란시스코에서 열리며, 1월 19~20일에는 별도의 디지털 파트너링 행사가 예정돼 있다.",
+   "source": "Informa Connect",
+   "url": "https://informaconnect.com/biotech-showcase/digimed-showcase",
+   "collected_at": "2026-11-16T06:42:06+09:00",
+   "id": "ev-US-2027-01-11-3"
+  },
+  {
+   "country": "US",
+   "category": "event",
    "importance": "high",
    "date": "2027-01-06",
    "date_end": "2027-01-09",
@@ -86,6 +100,20 @@
    "url": "https://www.ces.tech/",
    "collected_at": "2026-10-27T14:50:00+09:00",
    "id": "ev-US-2027-01-06-1"
+  },
+  {
+   "country": "US",
+   "category": "event",
+   "importance": "high",
+   "date": "2027-01-06",
+   "date_end": "2027-01-09",
+   "city_ko": "라스베이거스",
+   "title_ko": "美 CES 2027 디지털헬스 서밋, 라스베이거스 개최",
+   "summary_ko": "CES 2027 기간에 열리는 디지털헬스 서밋과 전시 구역. 원격환자모니터링, AI 임상의사결정 도구, 데이터 상호운용성 등을 다룬다. CES 2027은 1월 6~9일 개최된다.",
+   "source": "CES(CTA)",
+   "url": "https://www.ces.tech/exhibitor-sales/digital-health/",
+   "collected_at": "2026-11-16T06:42:06+09:00",
+   "id": "ev-US-2027-01-06-2"
   },
   {
    "country": "DE",
@@ -340,6 +368,54 @@
    "id": "ev-US-2026-11-15-1"
   },
   {
+   "country": "US",
+   "category": "investment",
+   "importance": "high",
+   "date": "2026-11-14",
+   "title_ko": "美 Vumedi, AI 의사 학습 플랫폼 1.04억달러 시리즈B",
+   "summary_ko": "의사 대상 AI 기반 동료 학습 커뮤니티 Vumedi가 Oak HC/FT 주도로 1억400만 달러 시리즈B를 유치했다. 10만 건 넘는 의사 영상에서 전문가 경험을 검색할 수 있으며 검증된 임상의 15만 명 이상이 이용한다.",
+   "source": "Healthtech Rounds",
+   "url": "https://healthtechrounds.substack.com/p/healthtech-rounds-05-vumedi-raises",
+   "collected_at": "2026-11-16T06:42:06+09:00",
+   "id": "US-2026-11-14-1"
+  },
+  {
+   "country": "US",
+   "category": "investment",
+   "importance": "high",
+   "date": "2026-11-13",
+   "title_ko": "美 GE헬스케어, SOFIE 바이오사이언스 9.45억달러 인수",
+   "summary_ko": "GE헬스케어가 사모펀드 트릴란틱 노스아메리카로부터 SOFIE 바이오사이언스를 9억4500만 달러에 인수하기로 확정했다. 정밀의료를 아우르는 엔드투엔드 역량 확보가 목적이며, 거래 종료는 2027년 상반기로 예상되고 규제 승인이 필요하다.",
+   "source": "Saúde Digital News",
+   "url": "https://saudedigitalnews.com.br/13/11/2026/ge-healthcare-adquire-sofie-biosciences-por-us-945-milhoes-para-viabilizar-medicina-de-precisao-de-ponta-a-ponta/",
+   "collected_at": "2026-11-16T06:42:06+09:00",
+   "id": "US-2026-11-13-1"
+  },
+  {
+   "country": "BR",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-11-13",
+   "title_ko": "브라질 Starbem, 사내 BI용 AI 에이전트로 AI 사례상 수상",
+   "summary_ko": "기업 건강관리 헬스테크 Starbem의 BI 에이전트 ABI가 Think Tank AI 2026 상위 4개 사례에 선정됐다. 분석 소요 시간을 7일에서 약 3.5분으로 줄였고 정확도 95.2%를 기록했다.",
+   "source": "Saúde Digital News",
+   "url": "https://saudedigitalnews.com.br/13/11/2026/de-7-dias-para-35-minutos-agente-de-ia-da-starbem-e-premiado-entre-os-melhores-cases-de-inteligencia-artificial-do-pais/",
+   "collected_at": "2026-11-16T06:42:06+09:00",
+   "id": "BR-2026-11-13-1"
+  },
+  {
+   "country": "CH",
+   "category": "investment",
+   "importance": "medium",
+   "date": "2026-11-13",
+   "title_ko": "瑞 vVARDIS, 뉴욕증시 상장… 기업가치 10억 달러",
+   "summary_ko": "스위스 추크 소재 치과 메드테크 기업 vVARDIS가 11월 13일 NYSE에 상장했다(티커 VVVV). 공모가는 주당 18달러로 목표 범위보다 3달러 낮았고, 기업가치는 약 10억 6천만 달러로 평가됐다.",
+   "source": "startupticker.ch",
+   "url": "https://www.startupticker.ch/en/news/two-swiss-ipos-in-one-day",
+   "collected_at": "2026-11-16T06:42:06+09:00",
+   "id": "CH-2026-11-13-1"
+  },
+  {
    "country": "JP",
    "category": "event",
    "importance": "low",
@@ -414,6 +490,30 @@
    "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33830",
    "collected_at": "2026-11-13T06:42:36+09:00",
    "id": "KR-2026-11-12-2"
+  },
+  {
+   "country": "BR",
+   "category": "investment",
+   "importance": "medium",
+   "date": "2026-11-12",
+   "title_ko": "브라질 Mendelics, 150억원대 투자해 암 잔존질환 검사 도입",
+   "summary_ko": "Mendelics가 1500만 헤알 이상을 투자해 Ultima Genomics의 UG 200 시퀀서를 브라질 독점 도입하고 전장유전체 기반 MRD 검사 Ultra MRD를 출시했다. 아직 ANS·SUS 의무 보장 대상은 아니다.",
+   "source": "Saúde Digital News",
+   "url": "https://saudedigitalnews.com.br/12/11/2026/mendelics-investe-mais-de-r-15-milhoes-e-traz-ao-brasil-tecnologia-inedita-da-ultima-genomics-para-revolucionar-o-monitoramento-do-cancer/",
+   "collected_at": "2026-11-16T06:42:06+09:00",
+   "id": "BR-2026-11-12-1"
+  },
+  {
+   "country": "DE",
+   "category": "policy",
+   "importance": "low",
+   "date": "2026-11-12",
+   "title_ko": "獨 샤리테 원장, 보건안보·디지털 대비 미흡 지적",
+   "summary_ko": "샤리테 하이오 크뢰머 원장은 독일이 디지털 상황 파악 체계와 보건안보법(GeSiG) 부재로 보건 비상 대응이 미흡하다고 지적했다. 사이버보안 투자 확대와 에이전틱 AI 역할, 에픽(Epic) 병원정보시스템 도입 논란도 언급했다.",
+   "source": "Deutsches Ärzteblatt",
+   "url": "https://www.aerzteblatt.de/themen/digitalisierung/charite-chef-gesundheitssicherheit-in-deutschland-immer-noch-am-anfang-3960846b-330e-4bab-b1cd-dadada023682",
+   "collected_at": "2026-11-16T06:42:06+09:00",
+   "id": "DE-2026-11-12-1"
   },
   {
    "country": "KR",
@@ -542,6 +642,30 @@
    "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33821",
    "collected_at": "2026-11-13T06:42:36+09:00",
    "id": "KR-2026-11-11-1"
+  },
+  {
+   "country": "CA",
+   "category": "policy",
+   "importance": "medium",
+   "date": "2026-11-11",
+   "title_ko": "加 인포웨이, 직접 서비스 중단·데이터 표준 집중 권고",
+   "summary_ko": "연방 지원 비영리기관 Canada Health Infoway의 내부 검토가 디지털 서비스 직접 제공을 중단하고 전자의무기록 표준에 집중하라고 권고했다. 야당 의원은 별도 제3자 검토 전에 내부 검토가 이뤄진 점을 이해충돌이라고 비판했다.",
+   "source": "Canadian Healthcare Technology",
+   "url": "https://www.canhealth.com/2026/11/11/change-of-direction-advised-for-infoway/",
+   "collected_at": "2026-11-16T06:42:06+09:00",
+   "id": "CA-2026-11-11-2"
+  },
+  {
+   "country": "CA",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-11-11",
+   "title_ko": "加 몬트리올심장연구소, Trinias Opera 캐나다 첫 도입",
+   "summary_ko": "몬트리올심장연구소(MHI)가 신규 혈역학실에 AI 영상처리 기반 Trinias Opera 플랫폼을 캐나다 최초로 설치했다. 시술 중 기구 가시성을 유지하면서 엑스레이 선량을 낮출 수 있다.",
+   "source": "Canadian Healthcare Technology",
+   "url": "https://www.canhealth.com/2026/11/11/mhi-first-in-canada-with-trinias-opera-platform/",
+   "collected_at": "2026-11-16T06:42:06+09:00",
+   "id": "CA-2026-11-11-3"
   },
   {
    "country": "BR",
@@ -936,78 +1060,6 @@
    "url": "https://21jingji.com/article/20261103/herald/ea22324a0cec64fe1f78b5dcf0fe7959.html",
    "collected_at": "2026-11-09T06:43:19+09:00",
    "id": "CN-2026-11-03-2"
-  },
-  {
-   "country": "AU",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-11-02",
-   "title_ko": "알라야케어, 노인요양 데이터 이전 플랫폼 출시",
-   "summary_ko": "알라야케어가 요양시설 사업자가 기존 소프트웨어에서 이전하도록 돕는 데이터 마이그레이션 플랫폼을 내놨다. 입소자 데이터를 추적 가능한 절차로 옮길 수 있다고 회사는 밝혔다. 새 보고 요건과 재정 압박에 대응한 출시다.",
-   "source": "Pulse+IT",
-   "url": "https://www.pulseit.news/australian-digital-health/alayacare-launches-data-migration-platform/",
-   "collected_at": "2026-11-02T06:42:46+09:00",
-   "id": "AU-2026-11-02-1"
-  },
-  {
-   "country": "US",
-   "category": "investment",
-   "importance": "medium",
-   "date": "2026-11-02",
-   "title_ko": "美 헬스테크, 10월 General Medicine 1.2억달러 등 투자 잇따라",
-   "summary_ko": "MedCity News가 10월 주요 헬스테크 투자를 정리했다. a16z 주도로 General Medicine이 시리즈B 1억2천만 달러, 앰비언트 AI 기업 Suki가 시리즈E 9천만 달러, AI 재택돌봄 Abby Care가 시리즈C 8천2백만 달러를 유치했다.",
-   "source": "MedCity News",
-   "url": "https://medcitynews.com/2026/11/4-notable-health-tech-funding-announcements-in-october-2/",
-   "collected_at": "2026-11-04T06:42:58+09:00",
-   "id": "US-2026-11-02-1"
-  },
-  {
-   "country": "CH",
-   "category": "investment",
-   "importance": "medium",
-   "date": "2026-11-02",
-   "title_ko": "스위스 MTIP, 유럽 헬스테크 상시형 펀드 출범",
-   "summary_ko": "스위스 MTIP가 룩셈부르크 ELTIF 구조의 반개방형 에버그린 펀드 'EverHealth'를 출시했다. 유럽 헬스케어 기술 기업에 직접투자, 기존 포트폴리오 후속투자, 세컨더리 투자를 병행한다. 펀드 규모는 공개되지 않았다.",
-   "source": "Startupticker.ch",
-   "url": "https://www.startupticker.ch/en/news/mtip-launches-evergreen-fund-for-european-healthcare-technology",
-   "collected_at": "2026-11-04T06:42:58+09:00",
-   "id": "CH-2026-11-02-1"
-  },
-  {
-   "country": "AU",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-11-02",
-   "title_ko": "豪 Bp Premier에 의료 AI 'MedLuma' 통합",
-   "summary_ko": "Best Practice Software와 Medcast가 호주 GP용 진료관리 플랫폼 Bp Premier에 MedLuma를 통합했다. 의사는 자연어로 질문해 RACGP 지침 등 검증된 현지 의학 자료 기반 답을 얻는다.",
-   "source": "Pulse+IT",
-   "url": "https://www.pulseit.news/australian-digital-health/medluma-ai-platform-integrated-with-bp-premier/",
-   "collected_at": "2026-11-04T06:42:58+09:00",
-   "id": "AU-2026-11-02-2"
-  },
-  {
-   "country": "AU",
-   "category": "investment",
-   "importance": "medium",
-   "date": "2026-11-02",
-   "title_ko": "네덜란드 Nicolab, 멜버른에 AI 뇌졸중 거점 확장",
-   "summary_ko": "네덜란드 메드테크 Nicolab이 호주·뉴질랜드 본부 및 R&D 센터를 멜버른에 열었다. 빅토리아주 1억5천만 호주달러 투자펀드 지원으로 일자리 20개가 생길 전망이다.",
-   "source": "Pulse+IT",
-   "url": "https://www.pulseit.news/australian-digital-health/nicolab-expands-melbourne-stroke-tech-hq/",
-   "collected_at": "2026-11-04T06:42:58+09:00",
-   "id": "AU-2026-11-02-3"
-  },
-  {
-   "country": "IL",
-   "category": "investment",
-   "importance": "high",
-   "date": "2026-11-02",
-   "title_ko": "以 TailorMed, 美 GrowthCurve에 2.5억달러 인수",
-   "summary_ko": "미국 환자 약제비 지원 플랫폼 TailorMed가 사모펀드 GrowthCurve에 약 2억5천만 달러 규모로 인수된다. 950여 병원과 제약사 프로그램을 연결하며, 인수 후 AI 통합과 추가 M&A로 플랫폼을 확장할 계획이다.",
-   "source": "Calcalist",
-   "url": "https://www.calcalistech.com/ctechnews/article/sk4ycmiazg",
-   "collected_at": "2026-11-13T06:42:36+09:00",
-   "id": "IL-2026-11-02-1"
   }
  ]
 }
