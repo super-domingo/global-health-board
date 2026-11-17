@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-15T21:42:06Z",
- "briefing_date": "2026-11-16",
- "briefing_ko": "GE헬스케어가 SOFIE 바이오사이언스를 9.45억 달러에 인수하고 Vumedi가 1.04억 달러 시리즈B를 유치하는 등 미국에서 대형 투자·M&A가 이어졌다. 스위스 vVARDIS의 뉴욕증시 상장, 캐나다 인포웨이 사업 방향 재검토 권고도 눈에 띈다. 다가오는 큰 행사: CES 2027 디지털헬스 서밋(2027-01-06, 라스베이거스).",
+ "updatedAt": "2026-11-17T21:42:30Z",
+ "briefing_date": "2026-11-18",
+ "briefing_ko": "미국 HHS가 HIPAA 개정 최종안을 발표했고, OpenAI가 의료 특화 서비스 'ChatGPT for Healthcare'를 내놓으며 의료 AI 경쟁이 이어졌다. 한국 식약처는 2027년 디지털의료제품 정책 방향을 업계와 논의했다. 다가오는 행사: 12월 11~12일 로스앤젤레스 Cedars-Sinai·UHN 의료 AI 심포지엄.",
  "items": [
   {
    "country": "GB",
@@ -16,6 +16,20 @@
    "url": "https://events.holyrood.com/event/digital-health-and-care-scotland-2027/",
    "collected_at": "2026-11-13T06:42:36+09:00",
    "id": "ev-GB-2027-02-10-1"
+  },
+  {
+   "country": "GB",
+   "category": "event",
+   "importance": "low",
+   "date": "2027-02-04",
+   "date_end": "2027-02-05",
+   "city_ko": "버밍엄",
+   "title_ko": "英 HSJ 디지털 트랜스포메이션 서밋 2027, 버밍엄 개최",
+   "summary_ko": "HSJ가 주최하는 NHS 기술 리더 대상 디지털 전환 서밋이 2027년 2월 4~5일 버밍엄 파크 리전트에서 열린다. NHS 디지털 전환의 다음 단계를 주제로 한다.",
+   "source": "HSJ",
+   "url": "https://digitaltransformation.hsj.co.uk/",
+   "collected_at": "2026-11-18T06:42:30+09:00",
+   "id": "ev-GB-2027-02-04-1"
   },
   {
    "country": "CH",
@@ -128,6 +142,20 @@
    "url": "https://www.tmf-ev.de/en/events/national-digital-health-symposium-2026",
    "collected_at": "2026-10-30T06:43:26+09:00",
    "id": "ev-DE-2026-12-15-1"
+  },
+  {
+   "country": "US",
+   "category": "event",
+   "importance": "medium",
+   "date": "2026-12-11",
+   "date_end": "2026-12-12",
+   "city_ko": "로스앤젤레스",
+   "title_ko": "美 시더스사이나이·UHN 제3회 의료 AI 심포지엄 개최",
+   "summary_ko": "시더스사이나이와 캐나다 UHN이 공동 주최하는 제3회 의료 AI 심포지엄이 12월 11~12일 시더스사이나이 하비 모스 콘퍼런스센터에서 열린다. 주제는 '예측에서 처방으로: 의료 AI의 다음 시대'다.",
+   "source": "Cedars-Sinai CME",
+   "url": "https://cedars.cloud-cme.com/aimed",
+   "collected_at": "2026-11-18T06:42:30+09:00",
+   "id": "ev-US-2026-12-11-1"
   },
   {
    "country": "US",
@@ -284,6 +312,42 @@
    "id": "ev-JP-2026-11-18-1"
   },
   {
+   "country": "BR",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-11-17",
+   "title_ko": "브라질 AI Pathology, 피부과 AI 플랫폼 '네보 비전' 출시",
+   "summary_ko": "AI Pathology가 컴퓨터 비전과 3D 신체 지도, 임상 리포트를 결합한 웹 기반 피부과 플랫폼 네보 비전을 출시했다. 기존 피부경 이미지로 병변을 추적하고 조직검사 결과와 연동한다. 12월 31일까지 가입한 피부과 의사에게 12개월 무료 이용권을 준다.",
+   "source": "Saúde Digital News",
+   "url": "https://saudedigitalnews.com.br/17/11/2026/nevo-vision-integra-inteligencia-artificial-e-gestao-de-dados-clinicos-na-dermatologia/",
+   "collected_at": "2026-11-18T06:42:30+09:00",
+   "id": "BR-2026-11-17-1"
+  },
+  {
+   "country": "KR",
+   "category": "policy",
+   "importance": "medium",
+   "date": "2026-11-17",
+   "title_ko": "식약처, 디지털의료제품 2027 정책 업계 간담회",
+   "summary_ko": "식약처가 11월 17일 서울 양재에서 디지털의료기기·디지털융합의약품 업계 간담회를 열어 2027년 정책 방향에 대한 현장 의견을 수렴했다. 올해 제도 운영 성과를 공유하고 융합의약품 정책 설명과 질의응답을 진행했으며, 수렴한 의견은 내년 정책에 반영할 방침이다.",
+   "source": "약사공론",
+   "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=549188",
+   "collected_at": "2026-11-18T06:42:30+09:00",
+   "id": "KR-2026-11-17-1"
+  },
+  {
+   "country": "AU",
+   "category": "policy",
+   "importance": "low",
+   "date": "2026-11-17",
+   "title_ko": "豪 보건부, 국가 의약품 기록 2027년 말까지 단계 도입",
+   "summary_ko": "호주 보건·장애·고령부가 National Medicines Symposium 2026에서 환자의 의약품 정보를 의료 환경 전반에서 하나로 볼 수 있는 National Medicines Record 구축 현황을 설명했다. 이 기록은 2027년 말까지 단계적으로 도입될 예정이다.",
+   "source": "Pulse+IT",
+   "url": "https://www.pulseit.news/australian-digital-health/national-medicines-record-update-ai-risks-explored-at-symposium/",
+   "collected_at": "2026-11-18T06:42:30+09:00",
+   "id": "AU-2026-11-17-1"
+  },
+  {
    "country": "DE",
    "category": "event",
    "importance": "high",
@@ -352,6 +416,54 @@
    "url": "https://www.infoway-inforoute.ca/en/featured-initiatives/partnership-conference/become-a-sponsor",
    "collected_at": "2026-10-28T06:43:20+09:00",
    "id": "ev-CA-2026-11-16-1"
+  },
+  {
+   "country": "US",
+   "category": "policy",
+   "importance": "high",
+   "date": "2026-11-16",
+   "title_ko": "美 HHS, HIPAA 개인정보 규칙 최종안 발표",
+   "summary_ko": "HHS 민권국이 HIPAA 개인정보 규칙 개정 최종안을 발표했다. 환자 접근 요청 응답 기한을 30일에서 15일로 단축하고, 개인 건강앱으로 전달되는 전자기록 일부를 무료로 하며, 돌봄 조정을 위한 사회서비스 기관과의 정보 공유를 허용한다. 연방관보에는 11월 19일 게재될 예정이다.",
+   "source": "HIT Consultant",
+   "url": "https://hitconsultant.net/2026/11/16/hhs-ocr-issues-2026-hipaa-privacy-rule-final-rule-15-day-access-coordinated-care/",
+   "collected_at": "2026-11-18T06:42:30+09:00",
+   "id": "US-2026-11-16-1"
+  },
+  {
+   "country": "US",
+   "category": "company",
+   "importance": "medium",
+   "date": "2026-11-16",
+   "title_ko": "美 OpenAI, 헬스케어용 ChatGPT에 컴퓨터 사용 에이전트 탑재",
+   "summary_ko": "OpenAI가 ChatGPT for Healthcare를 확장해 EHR과 보험사 포털을 화면 조작으로 다루는 컴퓨터 사용 에이전트와 고도화된 임상 검색, 20여 개 플러그인을 내놨다. 회사는 EHR 수신함 업무 325건 중 99%가 임상적으로 안전하다고 평가됐다고 밝혔으며 CVS Health와 Cigna가 이미 운영 환경에서 쓰고 있다.",
+   "source": "HIT Consultant",
+   "url": "https://hitconsultant.net/2026/11/16/openai-launches-healthcare-computer-use-agents-clinical-search-20-plugins/",
+   "collected_at": "2026-11-18T06:42:30+09:00",
+   "id": "US-2026-11-16-2"
+  },
+  {
+   "country": "US",
+   "category": "investment",
+   "importance": "medium",
+   "date": "2026-11-16",
+   "title_ko": "美 레메디 로보틱스, 시리즈B 6200만달러 유치",
+   "summary_ko": "뇌졸중 등 혈관내 시술용 AI 로봇 N1을 개발하는 레메디 로보틱스가 DCVC 주도로 6200만 달러 시리즈B를 유치했다. 자금은 캘리포니아대 네트워크와의 뇌졸중 핵심 임상시험과 자율 소프트웨어 개발에 쓰인다.",
+   "source": "HIT Consultant",
+   "url": "https://hitconsultant.net/2026/11/16/remedy-robotics-raises-62-million-series-b-dcvc-endovascular-stroke-robotics/",
+   "collected_at": "2026-11-18T06:42:30+09:00",
+   "id": "US-2026-11-16-3"
+  },
+  {
+   "country": "US",
+   "category": "investment",
+   "importance": "low",
+   "date": "2026-11-16",
+   "title_ko": "美 닛 헬스, NEA 주도 시리즈A 3500만달러",
+   "summary_ko": "UC버클리 출신 과학자들이 세운 의료 AI 기업 닛 헬스가 NEA 주도로 3500만 달러 시리즈A를 유치해 누적 4660만 달러를 확보했다. 오더·진단·결과 시퀀스로 학습하는 의료 모델 Med-BEAM도 공개했다.",
+   "source": "HIT Consultant",
+   "url": "https://hitconsultant.net/2026/11/16/knit-health-raises-35m-series-a-nea-unveils-med-beam-world-model-healthcare/",
+   "collected_at": "2026-11-18T06:42:30+09:00",
+   "id": "US-2026-11-16-4"
   },
   {
    "country": "US",
@@ -892,174 +1004,6 @@
    "url": "https://www.digitalhealthsummit.de",
    "collected_at": "2026-11-02T06:42:46+09:00",
    "id": "ev-DE-2026-11-04-1"
-  },
-  {
-   "country": "CH",
-   "category": "investment",
-   "importance": "low",
-   "date": "2026-11-04",
-   "title_ko": "스위스 avaisor, 외과 지식 플랫폼 프리시드 48.8만 CHF 유치",
-   "summary_ko": "다보스 기반 의료교육 플랫폼 avaisor AG가 전 세계 외과의 15명 이상으로부터 프리시드 48만 8천 스위스프랑을 유치했다. 수술 판단의 임상적 근거를 '지식 아바타'로 구조화해 공유하는 플랫폼이며, 제품 개발과 해외 확장 준비에 자금을 쓴다.",
-   "source": "Startupticker.ch",
-   "url": "https://startupticker.ch/en/news/pre-seed-funding-for-avaisor-to-scale-surgical-expertise",
-   "collected_at": "2026-11-06T06:42:12+09:00",
-   "id": "CH-2026-11-04-1"
-  },
-  {
-   "country": "KR",
-   "category": "investment",
-   "importance": "medium",
-   "date": "2026-11-04",
-   "title_ko": "韓 루닛, 477억 원 전환사채로 볼파라 차입 재조달",
-   "summary_ko": "의료AI 기업 루닛이 2024년 볼파라헬스 인수 부채를 갈음하기 위해 477억 원 규모 전환사채를 발행한다. 새 사채는 쿠폰 0%, 만기수익률 4%로 기존(1%, 8%)보다 낮다.",
-   "source": "Korea Biomedical Review",
-   "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33736",
-   "collected_at": "2026-11-06T06:42:12+09:00",
-   "id": "KR-2026-11-04-1"
-  },
-  {
-   "country": "AU",
-   "category": "company",
-   "importance": "medium",
-   "date": "2026-11-04",
-   "title_ko": "濠 베스트프랙티스, 하이디 AI 에이전트 연동 금지",
-   "summary_ko": "호주 EMR 업체 Best Practice가 환자 기록 무감독 변경과 데이터 접근, TGA 디지털 스크라이브 검토 등을 이유로 Heidi Health의 AI 에이전트 Heidi II를 Bp Premier와 함께 쓰지 못하게 했다. Heidi 측은 임상의 감독 하에 작동한다며 반발하고 반경쟁 우려를 제기했다.",
-   "source": "Pulse+IT",
-   "url": "https://www.pulseit.news/australian-digital-health/best-practice-defends-its-concerns-over-heidi-ii/",
-   "collected_at": "2026-11-06T06:42:12+09:00",
-   "id": "AU-2026-11-04-1"
-  },
-  {
-   "country": "BR",
-   "category": "policy",
-   "importance": "medium",
-   "date": "2026-11-04",
-   "title_ko": "브라질, 국가 보건정보·디지털보건 정책 도입",
-   "summary_ko": "브라질 보건부가 진료기록 통합, CPF의 보건정보 주 식별자 지정, 원격보건 확대, 개인정보 보호 강화를 담은 국가 보건정보·디지털보건 정책(PNISD)을 마련했다. Meu SUS Digital 앱과 63개 원격보건센터가 이 정책에 포함되며, 실행계획은 정책 공포 후 180일 내 합의해야 한다.",
-   "source": "Brasil 61",
-   "url": "https://brasil61.com/n/sus-tera-historico-clinico-integrado-e-ampliacao-de-servicos-digitais-bras2617421.amp",
-   "collected_at": "2026-11-09T06:43:19+09:00",
-   "id": "BR-2026-11-04-1"
-  },
-  {
-   "country": "BO",
-   "category": "policy",
-   "importance": "low",
-   "date": "2026-11-04",
-   "title_ko": "볼리비아·브라질, 국제 원격보건망 구축 협력",
-   "summary_ko": "볼리비아 보건체육부와 브라질 보건부 디지털보건국이 PAHO/WHO 지원으로 국경도시 코비하와 브라실레이아에서 원격보건 기술 방문·교류를 시작했다. 양국 모델을 비교해 인프라·연결성·플랫폼 모범사례를 찾고 국제 원격보건망 구축 지침을 마련했다.",
-   "source": "볼리비아 보건체육부",
-   "url": "https://www.minsalud.gob.bo/9643-bolivia-y-brasil-avanzan-hacia-una-red-internacional-de-telesalud-y-salud-digital",
-   "collected_at": "2026-11-09T06:43:19+09:00",
-   "id": "BO-2026-11-04-1"
-  },
-  {
-   "country": "KR",
-   "category": "investment",
-   "importance": "low",
-   "date": "2026-11-04",
-   "title_ko": "루닛, 477억원 규모 전환사채 발행 결정",
-   "summary_ko": "루닛이 2024년 볼파라 인수 자금으로 발행한 기존 고금리 사채를 갈음하기 위해 477억원 규모 전환사채를 발행하기로 했다. 표면이자 0%, 만기보장수익률 4%이며 기존 원금의 약 81%를 상환·매입했다.",
-   "source": "메디게이트뉴스",
-   "url": "https://www.medigatenews.com/news/2772307008",
-   "collected_at": "2026-11-09T06:43:19+09:00",
-   "id": "KR-2026-11-04-2"
-  },
-  {
-   "country": "CA",
-   "category": "policy",
-   "importance": "low",
-   "date": "2026-11-04",
-   "title_ko": "加 매니토바 응급실 의사, 원격진료 모델 중단 요구",
-   "summary_ko": "위니펙 응급실 의사 60여 명이 타 주 의사가 원격으로 응급환자를 평가하는 가상진료 모델 협상을 멈춰 달라고 요청했다. 협의 부족과 환자 안전을 우려했고, 주 보건장관은 아직 결정된 바 없다고 밝혔다.",
-   "source": "CanHealth",
-   "url": "https://www.canhealth.com/2026/11/04/er-docs-urge-govt-to-reconsider-virtual-care/",
-   "collected_at": "2026-11-11T06:42:27+09:00",
-   "id": "CA-2026-11-04-1"
-  },
-  {
-   "country": "CA",
-   "category": "policy",
-   "importance": "low",
-   "date": "2026-11-04",
-   "title_ko": "加 UHN, 연구성과 기업화 국가 청사진 발표",
-   "summary_ko": "토론토 UHN이 연구를 캐나다 기업·일자리로 연결하는 국가 청사진을 공개했다. 정부의 초기 구매자 역할, 특허 보유형 인내자본, AI 주권과 신뢰 등을 제안한다.",
-   "source": "CanHealth",
-   "url": "https://www.canhealth.com/2026/11/04/uhn-releases-plan-for-turning-rd-into-businesses/",
-   "collected_at": "2026-11-11T06:42:27+09:00",
-   "id": "CA-2026-11-04-2"
-  },
-  {
-   "country": "CH",
-   "category": "investment",
-   "importance": "medium",
-   "date": "2026-11-04",
-   "title_ko": "獨 DocMorris, 스위스 원격의료 Medi24 인수",
-   "summary_ko": "DocMorris가 자회사 TeleClinic을 통해 알리안츠 파트너스로부터 스위스 원격의료업체 Medi24를 인수한다고 밝혔다. 인수가는 스위스프랑 두 자릿수 백만대로 12월 종결 예정이며, Medi24는 460만 명 가입자에 우선 원격진료 접근권을 제공한다. TeleClinic 플랫폼의 유럽 확장 첫걸음이다.",
-   "source": "Dealroom",
-   "url": "https://dealroom.co/news/169757-docmorris-buys-swiss-telemedicine-firm-medi24-returning-to-switzerland/",
-   "collected_at": "2026-11-11T06:42:27+09:00",
-   "id": "CH-2026-11-04-2"
-  },
-  {
-   "country": "DE",
-   "category": "policy",
-   "importance": "low",
-   "date": "2026-11-03",
-   "title_ko": "獨 AOK 노르트오스트, 의료 AI 전환 필요성 강조",
-   "summary_ko": "AOK 노르트오스트 대표 테이처트는 자문위원회 10주년 행사에서 행정·진단·치료 지원을 위해 AI 중심의 디지털 전환이 필요하다고 밝혔다. 위원회의 'Kompass KI'는 예방·맞춤의료 중심 시스템을 제시하며, 자금·데이터 인프라·인력 교육·법적 틀이 필요하다고 짚었다.",
-   "source": "Deutsches Ärzteblatt",
-   "url": "https://www.aerzteblatt.de/themen/digitalisierung/aok-chefin-teichert-halt-digitale-transformation-und-ki-nutzung-fur-notwendig-f90f247d-92a9-4890-b053-ee456c493cf0",
-   "collected_at": "2026-11-04T06:42:58+09:00",
-   "id": "DE-2026-11-03-1"
-  },
-  {
-   "country": "KR",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-11-03",
-   "title_ko": "보령·스카이랩스, 우주 환경 웨어러블 혈압계 검증 추진",
-   "summary_ko": "보령이 스카이랩스와 반지형 혈압 모니터 등 웨어러블을 모사 우주환경과 실제 우주시설에서 시험하기로 MOU를 맺었다. 우주인 건강의 연속 활력징후 모니터링과 지상 심혈관 연구 활용이 목표다.",
-   "source": "Korea Biomedical Review",
-   "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33714",
-   "collected_at": "2026-11-04T06:42:58+09:00",
-   "id": "KR-2026-11-03-1"
-  },
-  {
-   "country": "KR",
-   "category": "policy",
-   "importance": "low",
-   "date": "2026-11-03",
-   "title_ko": "씨지바이오 휴대형 상처치료기기 가정용 허가",
-   "summary_ko": "씨지바이오의 일회용 음압상처치료기기 CuraSYS ME가 9월 22일 국내 허가를 받아 병원과 가정에서 쓸 수 있게 됐다. 10일 후 자동 종료되며 수술 절개창·만성창상·화상 등에 적용된다.",
-   "source": "Korea Biomedical Review",
-   "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33709",
-   "collected_at": "2026-11-04T06:42:58+09:00",
-   "id": "KR-2026-11-03-2"
-  },
-  {
-   "country": "CN",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-11-03",
-   "title_ko": "中 상하이서 'AI 의료 임상응용' 교류대회 개최",
-   "summary_ko": "11월 1일 푸단대 장장캠퍼스에서 정부·산업·학계·의료·투자 관계자가 모여 AI 수술로봇, 장기의학, 기층의료 등을 논의했다. 상하이·우한·광저우 국가의료센터가 AI 성과를 공유했다.",
-   "source": "신화망",
-   "url": "https://www.news.cn/digital/20261103/f7d038b2253848db901809d88167a972/c.html",
-   "collected_at": "2026-11-09T06:43:19+09:00",
-   "id": "CN-2026-11-03-1"
-  },
-  {
-   "country": "CN",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-11-03",
-   "title_ko": "中 하이정제약, 하이난에 인터넷병원 개설",
-   "summary_ko": "하이정제약이 하이난 청마이에 인터넷병원을 열었다. 다수 인터넷병원이 저활성 상태인 가운데 R&D-소비자 선순환의 일환이라고 설명하나 의사 참여, 기층 데이터 공백, AI 분류(트리아지) 신뢰 등이 과제로 남는다.",
-   "source": "21세기경제보도",
-   "url": "https://21jingji.com/article/20261103/herald/ea22324a0cec64fe1f78b5dcf0fe7959.html",
-   "collected_at": "2026-11-09T06:43:19+09:00",
-   "id": "CN-2026-11-03-2"
   }
  ]
 }
