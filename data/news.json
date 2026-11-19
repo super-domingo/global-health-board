@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-17T21:42:30Z",
- "briefing_date": "2026-11-18",
- "briefing_ko": "미국 HHS가 HIPAA 개정 최종안을 발표했고, OpenAI가 의료 특화 서비스 'ChatGPT for Healthcare'를 내놓으며 의료 AI 경쟁이 이어졌다. 한국 식약처는 2027년 디지털의료제품 정책 방향을 업계와 논의했다. 다가오는 행사: 12월 11~12일 로스앤젤레스 Cedars-Sinai·UHN 의료 AI 심포지엄.",
+ "updatedAt": "2026-11-19T21:42:37Z",
+ "briefing_date": "2026-11-20",
+ "briefing_ko": "英 정부가 NHS 팔란티어 데이터플랫폼 계약을 2029년 3월 종료하기로 해 공공 의료데이터 플랫폼 전략 재편이 주목된다. 한국에서는 보건산업진흥원의 '2026 디지털헬스 계획' 공개와 통신 3사의 AI 헬스케어 경쟁이 이어졌고, 獨 내과학회는 생성형 AI 의료 활용 기준을 내놨다. 다가오는 행사: CES 2027(1/6~9)·JP모건 헬스케어 콘퍼런스(1/11~14).",
  "items": [
   {
    "country": "GB",
@@ -44,6 +44,20 @@
    "url": "https://natureconferences.streamgo.live/digital-biomarkers/register",
    "collected_at": "2026-11-09T06:43:19+09:00",
    "id": "ev-CH-2027-02-03-1"
+  },
+  {
+   "country": "FR",
+   "category": "event",
+   "importance": "medium",
+   "date": "2027-01-26",
+   "date_end": "2027-01-26",
+   "city_ko": "파리",
+   "title_ko": "佛 'e-헬스 대동향' 11회, 파리 스타시옹 F서 개최",
+   "summary_ko": "프랑스 디지털보건청(ANS)이 주관하는 연례 e-헬스 행사 제11회가 2027년 1월 26일 파리 Station F에서 열린다. 주제는 '증강된 의료 시스템'이며 하루 일정(09:00~23:00)으로 진행된다.",
+   "source": "Agence du Numérique en Santé",
+   "url": "https://esante.gouv.fr/agenda/les-grandes-tendances-de-la-e-sante-11eme-edition",
+   "collected_at": "2026-11-20T06:42:37+09:00",
+   "id": "ev-FR-2027-01-26-1"
   },
   {
    "country": "DE",
@@ -298,6 +312,30 @@
    "id": "ev-KR-2026-11-21-1"
   },
   {
+   "country": "KR",
+   "category": "policy",
+   "importance": "medium",
+   "date": "2026-11-19",
+   "title_ko": "보건산업진흥원, '2026 디지털헬스 계획' 공개",
+   "summary_ko": "한국보건산업진흥원이 18일 서울에서 '디지털 헬스 데이'를 열고 1년간의 디지털헬스·의료AI 사업 성과와 내년 계획을 공유했다. 의료AI를 실증 단계에서 실제 의료 현장 적용·효과 검증 단계로 확대하는 연구개발 투자와 지원 방향을 제시했다.",
+   "source": "뉴스핌",
+   "url": "https://m.news.nate.com/view/20261119n34124",
+   "collected_at": "2026-11-20T06:42:37+09:00",
+   "id": "KR-2026-11-19-1"
+  },
+  {
+   "country": "KR",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-11-19",
+   "title_ko": "통신 3사, AI 헬스케어 시장 공략 본격화",
+   "summary_ko": "SK텔레콤은 의료AI 플랫폼 기업과 AI 에이전트 서비스를 준비하고, KT는 서울대병원과 소아환자용 AI 로봇을 실증 중이다. LG유플러스는 병원에 AI 상담센터를 도입했다. 시니어 돌봄 확장에는 안전·개인정보 검증과 도입 비용이 과제로 지적됐다.",
+   "source": "미디어펜",
+   "url": "https://www.mediapen.com/news/view/1138600",
+   "collected_at": "2026-11-20T06:42:37+09:00",
+   "id": "KR-2026-11-19-2"
+  },
+  {
    "country": "JP",
    "category": "event",
    "importance": "medium",
@@ -310,6 +348,18 @@
    "url": "https://dime.jp/company_news/detail/?pr=2664338",
    "collected_at": "2026-10-27T14:50:00+09:00",
    "id": "ev-JP-2026-11-18-1"
+  },
+  {
+   "country": "DE",
+   "category": "policy",
+   "importance": "low",
+   "date": "2026-11-18",
+   "title_ko": "獨 내과학회, 생성형 AI 의료 활용 기준 입장문 발표",
+   "summary_ko": "독일내과학회(DGIM)가 의료 분야 생성형 AI 활용 틀을 담은 입장문을 냈다. 의료적으로 의미 있는 AI 산출물은 의사가 검토해야 하며, 진단·치료계획 등 고위험 용도는 검증·규제된 시스템에서만 허용해야 한다고 밝혔다. 의료기관의 거버넌스·교육·모니터링 체계와 임상 근거 생성도 요구했다.",
+   "source": "Deutsches Ärzteblatt",
+   "url": "https://www.aerzteblatt.de/news/generative-ki-in-der-medizin-dgim-pocht-auf-nutzen-und-sicherheitsnachweise-628b1653-1f13-438d-b118-8a070e159aea",
+   "collected_at": "2026-11-20T06:42:37+09:00",
+   "id": "DE-2026-11-18-1"
   },
   {
    "country": "BR",
@@ -346,6 +396,30 @@
    "url": "https://www.pulseit.news/australian-digital-health/national-medicines-record-update-ai-risks-explored-at-symposium/",
    "collected_at": "2026-11-18T06:42:30+09:00",
    "id": "AU-2026-11-17-1"
+  },
+  {
+   "country": "GB",
+   "category": "policy",
+   "importance": "medium",
+   "date": "2026-11-17",
+   "title_ko": "英 정부, NHS 팔란티어 데이터플랫폼 계약 2029년 3월 종료",
+   "summary_ko": "영국 정부가 NHS 잉글랜드의 팔란티어 연합데이터플랫폼(FDP) 계약을 2029년 3월에 종료하기로 했다. 해지 조항 시점보다 2년 늦춰 자국 기업이 대안을 입찰할 시간을 주려는 취지다. 제임스 프리스 보건부 차관은 내년 하반기 신규 조달을 시작한다고 밝혔으나 팔란티어의 입찰 가능 여부는 말하지 않았다.",
+   "source": "pharmaphorum",
+   "url": "https://pharmaphorum.com/news/uk-sets-2029-timeline-end-palantirs-nhs-contract",
+   "collected_at": "2026-11-20T06:42:37+09:00",
+   "id": "GB-2026-11-17-1"
+  },
+  {
+   "country": "SG",
+   "category": "policy",
+   "importance": "low",
+   "date": "2026-11-17",
+   "title_ko": "싱가포르 보건부, 연구 현장 적용·AI 지침 강조",
+   "summary_ko": "라하유 마흠 국무장관이 혁신 콘퍼런스 연설에서 가치 기반 의료와 연구의 현장 적용을 강조했다. 개정 의료 AI 지침(AIHGle 2.0)은 임상 감독과 AI 전 주기의 책임 분담을 강조하며, 45만 명 전장유전체 분석 사업도 언급했다.",
+   "source": "싱가포르 보건부(MOH)",
+   "url": "https://www.moh.gov.sg/newsroom/speech-by-mdm-rahayu-mahzam--minister-of-state--ministry-of-digital-development-and-information---ministry-of-health--at-the-global-innovation-conference-for-research--policy--and-practice--17-november-2026/",
+   "collected_at": "2026-11-20T06:42:37+09:00",
+   "id": "SG-2026-11-17-1"
   },
   {
    "country": "DE",
@@ -526,6 +600,18 @@
    "url": "https://www.startupticker.ch/en/news/two-swiss-ipos-in-one-day",
    "collected_at": "2026-11-16T06:42:06+09:00",
    "id": "CH-2026-11-13-1"
+  },
+  {
+   "country": "FR",
+   "category": "investment",
+   "importance": "medium",
+   "date": "2026-11-13",
+   "title_ko": "佛 오라클 온콜로지, AI 암 신약예측 시리즈A 3천만 유로",
+   "summary_ko": "귀스타브 루시 연구소에서 분사한 프랑스 테크바이오 기업 오라클 온콜로지가 노르스켄 VC와 싱귤러 주도로 3천만 유로(약 3,400만 달러) 시리즈A를 유치했다. 환자 유래 종양 조직과 임상·분자 데이터를 결합해 임상시험 전에 신약 반응을 예측하는 AI 플랫폼을 더 많은 암종으로 확대한다.",
+   "source": "Startup Rise",
+   "url": "https://startuprise.co.uk/orakl-oncology-raises-e30mn-to-transform-cancer-drug-research/",
+   "collected_at": "2026-11-20T06:42:37+09:00",
+   "id": "FR-2026-11-13-1"
   },
   {
    "country": "JP",
@@ -844,78 +930,6 @@
    "id": "ev-US-2026-11-07-1"
   },
   {
-   "country": "BR",
-   "category": "investment",
-   "importance": "medium",
-   "date": "2026-11-06",
-   "title_ko": "브라질 병원청구 AI 헬스테크 히비우, 시리즈A 확장",
-   "summary_ko": "병원 청구서를 보험사 제출 전에 AI로 감사하는 브라질 스타트업 Rivio가 Valor Capital 주도로 시리즈A 확장 투자를 유치했다. 보도마다 금액이 R$80M(Healthtech Rounds)과 R$180M(Brasil Inovador, 기업가치 R$10억 이상)으로 엇갈린다. 아인슈타인·시리오리바네스 등 13개 병원그룹이 고객이다.",
-   "source": "Healthtech Rounds",
-   "url": "https://healthtechrounds.substack.com/p/healthtech-rounds-04-rivio-raises",
-   "collected_at": "2026-11-09T06:43:19+09:00",
-   "id": "BR-2026-11-06-1"
-  },
-  {
-   "country": "KR",
-   "category": "company",
-   "importance": "medium",
-   "date": "2026-11-06",
-   "title_ko": "루닛, 의료특화 파운데이션 모델 '러닝유닛 2.0' 공개",
-   "summary_ko": "루닛이 병원 내 구동 가능한 경량 의료 파운데이션 모델 러닝유닛 2.0(총 300억·활성 50억 파라미터)을 허깅페이스에 오픈소스로 공개했다. 과기정통부 과제로 개발했으며 9개 병원 테스트에서 암 다학제 진료 추천의 86.2%가 임상적으로 타당하다고 평가됐다.",
-   "source": "메디게이트뉴스",
-   "url": "https://www.medigatenews.com/news/2040726640",
-   "collected_at": "2026-11-09T06:43:19+09:00",
-   "id": "KR-2026-11-06-1"
-  },
-  {
-   "country": "KR",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-11-06",
-   "title_ko": "씨어스, 3분기 영업손실 19억원…서버 수급 차질",
-   "summary_ko": "AI 병동 모니터링 플랫폼 씽크(thynC)의 서버 공급 지연으로 3분기 매출 98억원, 영업손실 19억원을 기록했다. 웨어러블 부정맥 진단 모비케어는 성장했으며 회사는 4분기 회복을 목표로 한다.",
-   "source": "메디게이트뉴스",
-   "url": "https://www.medigatenews.com/news/1626763592",
-   "collected_at": "2026-11-09T06:43:19+09:00",
-   "id": "KR-2026-11-06-2"
-  },
-  {
-   "country": "AU",
-   "category": "company",
-   "importance": "medium",
-   "date": "2026-11-06",
-   "title_ko": "豪 AI 스크라이브 하이디, 전 세계 인력 18% 감축",
-   "summary_ko": "호주 출신 의료 AI 기업 하이디가 구조조정을 통해 전 세계 직원 18%를 줄이고 제품 개발과 신규 시장에 재투자한다. CEO 토머스 켈리가 직원들에게 사과했다.",
-   "source": "Pulse+IT",
-   "url": "https://www.pulseit.news/australian-digital-health/heidi-cuts-18-per-cent-of-global-workforce-in-restructure/",
-   "collected_at": "2026-11-09T06:43:19+09:00",
-   "id": "AU-2026-11-06-1"
-  },
-  {
-   "country": "BR",
-   "category": "policy",
-   "importance": "medium",
-   "date": "2026-11-06",
-   "title_ko": "伯 보건부, 디지털보건정책 공청회 없이 공포",
-   "summary_ko": "브라질 보건부가 10월 말 국가 보건정보·디지털보건정책(PNISD)을 장관령 GM/MS 12.301/2026으로 공청회 없이 공포했다. 시민단체는 SUS 데이터의 상업 연구·AI 학습 활용 가능성과 동의·투명성 장치 부족을 비판했으며, 180일 이행계획 기간 중 공개 협의를 요구하고 있다.",
-   "source": "Saúde Digital News",
-   "url": "https://saudedigitalnews.com.br/06/11/2026/sem-audiencia-publica-ministerio-da-saude-publica-politica-nacional-de-informacao-e-saude-digital-abrindo-brecha-para-a-exploracao-de-dados-do-sus/",
-   "collected_at": "2026-11-11T06:42:27+09:00",
-   "id": "BR-2026-11-06-2"
-  },
-  {
-   "country": "CH",
-   "category": "investment",
-   "importance": "low",
-   "date": "2026-11-06",
-   "title_ko": "이스라엘 무브먼트, 스위스 dacadoo 기술·IP 인수",
-   "summary_ko": "이스라엘 웰니스 그룹 movement가 청산 중인 스위스 디지털헬스 기업 dacadoo의 기술과 지식재산을 인수했다. 기존 고객은 플랫폼을 계속 사용할 수 있다. 금액은 공개되지 않았다.",
-   "source": "Startupticker.ch",
-   "url": "https://startupticker.ch/en/news/wellness-company-acquires-dacadoo-s-assets",
-   "collected_at": "2026-11-13T06:42:36+09:00",
-   "id": "CH-2026-11-06-1"
-  },
-  {
    "country": "CN",
    "category": "event",
    "importance": "medium",
@@ -928,82 +942,6 @@
    "url": "https://www.ciie.org/",
    "collected_at": "2026-10-27T14:50:00+09:00",
    "id": "ev-CN-2026-11-05-1"
-  },
-  {
-   "country": "KR",
-   "category": "policy",
-   "importance": "medium",
-   "date": "2026-11-05",
-   "title_ko": "韓 비대면진료 제한안 반대 청원 5만 명 돌파",
-   "summary_ko": "복지부의 의료법 시행규칙 개정안(초진 처방 7일 제한, 초진은 거주 시·도 의원으로 제한)에 반대하는 국회 청원이 5만 명을 넘어 보건복지위로 회부된다. 비대면진료 제도는 12월 24일 시행되며, 업계협의회는 처방일수를 의사 판단에 맡겨야 한다고 주장했다.",
-   "source": "Korea Biomedical Review",
-   "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33752",
-   "collected_at": "2026-11-06T06:42:12+09:00",
-   "id": "KR-2026-11-05-1"
-  },
-  {
-   "country": "AU",
-   "category": "policy",
-   "importance": "low",
-   "date": "2026-11-05",
-   "title_ko": "濠 NSW 보건 서버 사이버 침해, 경찰 수사 착수",
-   "summary_ko": "NSW 경찰이 NSW Health의 격리된 서버에 대한 사이버 침해 사건 수사에 착수했다. 당국은 중대 사이버보안 사고로 규정했으나 환자 정보는 유출되지 않았다고 밝혔다.",
-   "source": "Pulse+IT",
-   "url": "https://www.pulseit.news/australian-digital-health/nsw-police-investigate-major-cyber-breach-at-nsw-health/",
-   "collected_at": "2026-11-06T06:42:12+09:00",
-   "id": "AU-2026-11-05-1"
-  },
-  {
-   "country": "AU",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-11-05",
-   "title_ko": "豪 패스웨이즈, AI 음성 수술 전 평가 플랫폼 검증",
-   "summary_ko": "스타트업 패스웨이즈가 환자가 음성 대화로 수술 전 평가를 마치게 하는 AI 플랫폼을 개발해 시드니 로열노스쇼어병원에서 임상 검증 중이다. 노던시드니 지역보건구 10만 호주달러 지원을 받았다.",
-   "source": "Pulse+IT",
-   "url": "https://www.pulseit.news/australian-digital-health/pathways-cuts-admin-with-ai-powered-pre-surgery-assessments/",
-   "collected_at": "2026-11-09T06:43:19+09:00",
-   "id": "AU-2026-11-05-2"
-  },
-  {
-   "country": "DE",
-   "category": "policy",
-   "importance": "low",
-   "date": "2026-11-05",
-   "title_ko": "獨 연방사회법원, 진료소 TI 정액보상 판결",
-   "summary_ko": "카셀 연방사회법원은 진료소의 텔레마틱스 인프라(TI) 설치 비용을 실비가 아닌 법정 정액으로 보상하는 것이 맞는다고 판결했다. 정액이 전액 보전은 아니지만 대부분의 예상 비용을 충당하도록 산정돼야 한다고 밝혔다.",
-   "source": "Deutsches Ärzteblatt",
-   "url": "https://www.aerzteblatt.de/themen/digitalisierung/urteil-arztpraxen-erhalten-pauschale-fur-ausstattung-mit-telematikinfrastruktur-63d517b0-4774-4a62-b7c3-c49a052981fd",
-   "collected_at": "2026-11-11T06:42:27+09:00",
-   "id": "DE-2026-11-05-1"
-  },
-  {
-   "country": "CA",
-   "category": "event",
-   "importance": "low",
-   "date": "2026-11-04",
-   "date_end": "2026-11-05",
-   "city_ko": "캘거리",
-   "title_ko": "캐나다 헬스테크 혁신 심포지엄 캘거리 개최",
-   "summary_ko": "제3회 캐나다 헬스테크 혁신 심포지엄(CHTIS 2026)이 캘거리 텔러스 컨벤션센터에서 열린다. 의료 AI와 임상 의사결정 지원, 디지털 치료제·원격 모니터링, 데이터 상호운용성, 사이버보안, 사업화·투자 등을 다룬다.",
-   "source": "Prolink Events",
-   "url": "https://luma.com/66dopw9k",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "ev-CA-2026-11-04-1"
-  },
-  {
-   "country": "DE",
-   "category": "event",
-   "importance": "medium",
-   "date": "2026-11-04",
-   "date_end": "2026-11-05",
-   "city_ko": "뮌헨",
-   "title_ko": "獨 디지털헬스 서밋 2026, 뮌헨서 이틀간 개최",
-   "summary_ko": "뮌헨 TUM 병원 TranslaTUM에서 'AI meets HI' 주제로 열리는 디지털헬스 서밋. 창업가·의료진·투자자가 참여해 의료 AI 혁신 사례를 논의한다.",
-   "source": "Digital Health Summit Munich",
-   "url": "https://www.digitalhealthsummit.de",
-   "collected_at": "2026-11-02T06:42:46+09:00",
-   "id": "ev-DE-2026-11-04-1"
   }
  ]
 }
