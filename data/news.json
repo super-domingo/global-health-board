@@ -1,8 +1,22 @@
 {
- "updatedAt": "2026-11-19T21:42:37Z",
- "briefing_date": "2026-11-20",
- "briefing_ko": "英 정부가 NHS 팔란티어 데이터플랫폼 계약을 2029년 3월 종료하기로 해 공공 의료데이터 플랫폼 전략 재편이 주목된다. 한국에서는 보건산업진흥원의 '2026 디지털헬스 계획' 공개와 통신 3사의 AI 헬스케어 경쟁이 이어졌고, 獨 내과학회는 생성형 AI 의료 활용 기준을 내놨다. 다가오는 행사: CES 2027(1/6~9)·JP모건 헬스케어 콘퍼런스(1/11~14).",
+ "updatedAt": "2026-11-22T21:43:14Z",
+ "briefing_date": "2026-11-23",
+ "briefing_ko": "미국에서는 헬스케어 장수 건강관리 업체 혼헬스가 2억2,800만 달러를 조달하고 CMS가 임상 AI 로드맵을 공개해 투자와 규제 양쪽에서 AI 중심 흐름이 이어졌다. 캐나다에서는 LGI의 EMR 업체 QHR 인수와 노바스코샤 EMR 확대, 한국에서는 복지부의 헬스케어 AI 투자 포럼이 눈에 띈다.\n다가오는 큰 행사: RSNA 2026(11월 29일, 시카고)에 이어 JP모건 헬스케어 콘퍼런스와 CES 2027(1월, 미국)이 열린다.",
  "items": [
+  {
+   "country": "CA",
+   "category": "event",
+   "importance": "low",
+   "date": "2027-02-19",
+   "date_end": "2027-02-19",
+   "city_ko": "토론토",
+   "title_ko": "토론토대 FHLIP 2027, 'AI와 인간 중심' 콘퍼런스",
+   "summary_ko": "토론토대 보건정책·관리·평가연구소(IHPME)가 보건 리더십·정보학·정책을 다루는 FHLIP 2027을 2월 19일 개최한다. 주제는 '알고리즘에서 옹호로: 인간 중심 세계를 위한 AI'이며 슈워츠 라이스먼 혁신캠퍼스에서 하루 일정으로 열린다.",
+   "source": "토론토대 IHPME",
+   "url": "https://ihpme.utoronto.ca/event/fhlip-2027-from-algorithms-to-advocacy-ai-for-a-human-centred-world/",
+   "collected_at": "2026-11-23T06:43:14+09:00",
+   "id": "ev-CA-2027-02-19-1"
+  },
   {
    "country": "GB",
    "category": "event",
@@ -58,6 +72,20 @@
    "url": "https://esante.gouv.fr/agenda/les-grandes-tendances-de-la-e-sante-11eme-edition",
    "collected_at": "2026-11-20T06:42:37+09:00",
    "id": "ev-FR-2027-01-26-1"
+  },
+  {
+   "country": "EU",
+   "category": "event",
+   "importance": "medium",
+   "date": "2027-01-26",
+   "date_end": "2027-01-27",
+   "city_ko": "브뤼셀",
+   "title_ko": "EHTEL 2027 심포지엄, EHDS 이행 논의 브뤼셀 개최",
+   "summary_ko": "유럽 디지털헬스 단체 EHTEL이 1월 26~27일 브뤼셀에서 '데이터 규정 준수에서 작동하는 데이터로'를 주제로 심포지엄을 연다. 26일 회원 모임과 신년 리셉션, 27일 본행사로 진행되며 EHDS 이행 동향을 다룬다.",
+   "source": "EHTEL",
+   "url": "https://www.ehtel.eu/ehtel-symposium/2027-symposium.html",
+   "collected_at": "2026-11-23T06:43:14+09:00",
+   "id": "ev-EU-2027-01-26-1"
   },
   {
    "country": "DE",
@@ -312,6 +340,30 @@
    "id": "ev-KR-2026-11-21-1"
   },
   {
+   "country": "US",
+   "category": "policy",
+   "importance": "high",
+   "date": "2026-11-20",
+   "title_ko": "美 CMS, 임상 AI '슈퍼인텔리전스' 로드맵 공개",
+   "summary_ko": "CMS가 임상 AI 활용 확대를 위한 로드맵을 11월 13일 발표했다. 저위험 웰니스·CDS 도구의 신속 시장 진입, 위험·역량 기반 사전평가, ACCESS 모델 확대 등 규제·지급 방안을 담았다. AMA 11월 20일자 주간 업데이트가 내용을 정리했다.",
+   "source": "AMA",
+   "url": "https://www.ama-assn.org/health-care-advocacy/advocacy-update/nov-20-2026-national-advocacy-update",
+   "collected_at": "2026-11-23T06:43:14+09:00",
+   "id": "US-2026-11-20-1"
+  },
+  {
+   "country": "GB",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-11-20",
+   "title_ko": "英 첼시·웨스트민스터병원, AI 아바타로 폐암 환자 안내",
+   "summary_ko": "첼시·웨스트민스터 병원이 폐암 의심 환자에게 검사와 진료 일정을 설명하는 AI 디지털 아바타 플랫폼을 도입했다. 10개 언어의 문서 자료와 AI 질의응답도 제공하며, 의심 암 경로 전반으로 확대 중이고 다른 암 경로로의 확장도 검토한다.",
+   "source": "HTN",
+   "url": "https://htn.co.uk/2026/11/20/ai-powered-digital-avatars-help-support-lung-cancer-patients-at-chelsea-and-westminster-hospital/",
+   "collected_at": "2026-11-23T06:43:14+09:00",
+   "id": "GB-2026-11-20-1"
+  },
+  {
    "country": "KR",
    "category": "policy",
    "importance": "medium",
@@ -334,6 +386,18 @@
    "url": "https://www.mediapen.com/news/view/1138600",
    "collected_at": "2026-11-20T06:42:37+09:00",
    "id": "KR-2026-11-19-2"
+  },
+  {
+   "country": "US",
+   "category": "investment",
+   "importance": "low",
+   "date": "2026-11-19",
+   "title_ko": "美 배너헬스, 레이어헬스 전략 투자·AI 레지스트리 제휴",
+   "summary_ko": "병원 33곳을 운영하는 배너헬스가 임상 AI 기업 레이어헬스에 전략 투자하고 다년간 레지스트리 업무 제휴를 맺었다. 외주 레지스트리 업무를 AI 기반 자체 프로그램으로 전환하며 투자액은 공개되지 않았다.",
+   "source": "HIT Consultant",
+   "url": "https://hitconsultant.net/2026/11/19/banner-health-strategic-investment-layer-health-enterprise-clinical-registries/",
+   "collected_at": "2026-11-23T06:43:14+09:00",
+   "id": "US-2026-11-19-1"
   },
   {
    "country": "JP",
@@ -360,6 +424,90 @@
    "url": "https://www.aerzteblatt.de/news/generative-ki-in-der-medizin-dgim-pocht-auf-nutzen-und-sicherheitsnachweise-628b1653-1f13-438d-b118-8a070e159aea",
    "collected_at": "2026-11-20T06:42:37+09:00",
    "id": "DE-2026-11-18-1"
+  },
+  {
+   "country": "US",
+   "category": "investment",
+   "importance": "high",
+   "date": "2026-11-18",
+   "title_ko": "美 혼헬스, 2억2,800만 달러 조달…장수 건강관리 확장",
+   "summary_ko": "의사 주도 장수·건강 최적화 플랫폼 혼헬스가 시리즈A 연장 2,800만 달러와 제너럴 캐털리스트의 성장금융 2억 달러 등 총 2억2,800만 달러를 확보했다. 대사·염증·면역 프로그램과 전신 MRI 등 정밀 진단, 임상시험 연구 인프라 구축에 쓸 계획이다.",
+   "source": "The SaaS News",
+   "url": "https://www.thesaasnews.com/news/hone-health-raises-228m-series-a-growth-round/",
+   "collected_at": "2026-11-23T06:43:14+09:00",
+   "id": "US-2026-11-18-1"
+  },
+  {
+   "country": "US",
+   "category": "investment",
+   "importance": "low",
+   "date": "2026-11-18",
+   "title_ko": "美 비보케어·온포인트 헬스케어, 합병 발표",
+   "summary_ko": "원격 환자 모니터링 업체 비보케어와 진료 후 문서·행정 AI 업체 온포인트가 합병했다. 대면 진료와 진료 사이 모니터링을 연결하는 플랫폼이며 재무 조건은 비공개다.",
+   "source": "HIT Consultant",
+   "url": "https://hitconsultant.net/2026/11/18/vivo-care-onpoint-healthcare-partners-combine-unify-office-visit-remote-care/",
+   "collected_at": "2026-11-23T06:43:14+09:00",
+   "id": "US-2026-11-18-2"
+  },
+  {
+   "country": "CA",
+   "category": "investment",
+   "importance": "medium",
+   "date": "2026-11-18",
+   "title_ko": "加 LGI, EMR 업체 QHR 테크놀로지스 인수",
+   "summary_ko": "LGI 헬스케어 솔루션즈가 아쿠로(Accuro) EMR 개발사 QHR을 인수해 1차 의료 시장으로 확장한다. 아쿠로는 캐나다 약 2만5천 명의 의료진이 쓰며 인수 금액은 공개되지 않았다.",
+   "source": "Canadian Healthcare Technology",
+   "url": "https://www.canhealth.com/2026/11/18/lgi-buys-emr-firm-qhr-technologies/",
+   "collected_at": "2026-11-23T06:43:14+09:00",
+   "id": "CA-2026-11-18-1"
+  },
+  {
+   "country": "CA",
+   "category": "policy",
+   "importance": "low",
+   "date": "2026-11-18",
+   "title_ko": "加 노바스코샤, EMR 3단계 가동…서부·동부·북부 확대",
+   "summary_ko": "노바스코샤주가 'One Person One Record' EMR의 마지막 단계로 서부·동부·북부 보건권역에서 가동을 시작했다. 전환 기간 일부 농촌 응급실 운영시간이 조정되며, 지역 의사 연결 미비 등 한계도 지적된다.",
+   "source": "Canadian Healthcare Technology",
+   "url": "https://www.canhealth.com/2026/11/18/ns-launches-third-phase-of-emr-rollout/",
+   "collected_at": "2026-11-23T06:43:14+09:00",
+   "id": "CA-2026-11-18-2"
+  },
+  {
+   "country": "BR",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-11-18",
+   "title_ko": "伯 원격진료 20% 증가, 결석률은 대면의 3배",
+   "summary_ko": "보아콘술타 플랫폼의 원격진료 예약이 2만5,500건에서 3만500건으로 20% 늘었으나 결석률은 26%로 대면(8%)의 3배 이상이었다. 픽세온 측은 알림·사전 확인 등 관리 지표 도입을 권고했다.",
+   "source": "Saúde Digital News",
+   "url": "https://saudedigitalnews.com.br/18/11/2026/teleconsultas-crescem-20-mas-taxa-de-faltas-e-mais-de-tres-vezes-maior-que-no-atendimento-presencial/",
+   "collected_at": "2026-11-23T06:43:14+09:00",
+   "id": "BR-2026-11-18-1"
+  },
+  {
+   "country": "GB",
+   "category": "policy",
+   "importance": "low",
+   "date": "2026-11-18",
+   "title_ko": "英 블랙컨트리 NHS, 300만 파운드 원격모니터링 입찰",
+   "summary_ko": "블랙컨트리 지역 NHS 트러스트들이 총 300만 파운드 규모의 원격모니터링·가상병동 플랫폼 공동 입찰을 냈다. 초기 4개 트러스트가 참여하고 계약은 2027년 4월부터 2030년 3월까지이며, 입찰 마감은 12월 14일이다.",
+   "source": "HTN",
+   "url": "https://htn.co.uk/2026/11/18/the-black-country-launches-multi-trust-3m-remote-monitoring-and-virtual-ward-procurement/",
+   "collected_at": "2026-11-23T06:43:14+09:00",
+   "id": "GB-2026-11-18-1"
+  },
+  {
+   "country": "KR",
+   "category": "investment",
+   "importance": "medium",
+   "date": "2026-11-18",
+   "title_ko": "복지부, 헬스케어 AI 투자 포럼…정책펀드 연계",
+   "summary_ko": "보건복지부가 18일 정책펀드 운용사 5곳과 의료AI 기업 등 150여 명이 참석한 헬스케어 AI 투자 포럼을 열었다. 서울대병원과 프리미어파트너스는 의료AI 기업 발굴·투자 업무협약을 맺었고, 복지부는 포럼 정례화와 공공의료 AI 고속도로의 2027년 35개·2029년 72개 병원 확대 계획을 밝혔다.",
+   "source": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202611181503076547",
+   "collected_at": "2026-11-23T06:43:14+09:00",
+   "id": "KR-2026-11-18-1"
   },
   {
    "country": "BR",
@@ -420,6 +568,18 @@
    "url": "https://www.moh.gov.sg/newsroom/speech-by-mdm-rahayu-mahzam--minister-of-state--ministry-of-digital-development-and-information---ministry-of-health--at-the-global-innovation-conference-for-research--policy--and-practice--17-november-2026/",
    "collected_at": "2026-11-20T06:42:37+09:00",
    "id": "SG-2026-11-17-1"
+  },
+  {
+   "country": "CH",
+   "category": "investment",
+   "importance": "low",
+   "date": "2026-11-17",
+   "title_ko": "瑞 인디비, 英 코지탯 인수로 뇌 AI 강화",
+   "summary_ko": "스위스 뉴로테크 기업 인디비가 임페리얼칼리지 스핀아웃인 영국 코지탯을 인수했다. EEG 신호로 인지 기능을 해독하는 딥러닝 모델을 확보해 알츠하이머 치료제 효과 측정을 강화한다. 인수가는 공개되지 않았다.",
+   "source": "Startupticker.ch",
+   "url": "https://startupticker.ch/en/news/indivi-strengthens-ai-capabilities-for-brain-analysis-with-cogitat-acquisition",
+   "collected_at": "2026-11-23T06:43:14+09:00",
+   "id": "CH-2026-11-17-1"
   },
   {
    "country": "DE",
@@ -715,6 +875,18 @@
   },
   {
    "country": "KR",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-11-12",
+   "title_ko": "한국서 검증한 의료AI, 글로벌 진출 가속",
+   "summary_ko": "DHP 2026에서 최윤섭 대표는 국내에서 검증한 의료AI 기업들이 해외 진출 성과를 내고 있다고 밝혔다. 코어라인소프트는 독일 보험 적용, 루닛은 볼파라 인수를 기반으로 해외 사업을 넓히고 있으며 정부의 AI 기본의료 전략이 이를 뒷받침할 것으로 평가됐다.",
+   "source": "데일리메디",
+   "url": "https://dailymedi.com/news/news_view.php?wr_id=942483",
+   "collected_at": "2026-11-23T06:43:14+09:00",
+   "id": "KR-2026-11-12-3"
+  },
+  {
+   "country": "KR",
    "category": "event",
    "importance": "medium",
    "date": "2026-11-11",
@@ -902,18 +1074,6 @@
    "url": "https://www.abhi.org.uk/events/abhi-events/the-abhi-uk-healthtech-conference-2026/",
    "collected_at": "2026-10-27T14:50:00+09:00",
    "id": "ev-GB-2026-11-09-1"
-  },
-  {
-   "country": "BR",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-11-09",
-   "title_ko": "伯 모이뉴스 병원, 폐암 의심환자 AI 선별 도입",
-   "summary_ko": "브라질 모이뉴스 지 벤투 병원이 약 100만 건 임상문서를 분석하는 데이터 인텔리전스 소프트웨어로 폐암 의심 소견을 빠르게 찾는다. 폐암을 시작으로 유방암·심장 등으로 확대할 수 있으며 의사가 임상 판단을 맡는다.",
-   "source": "Saúde Digital News",
-   "url": "https://saudedigitalnews.com.br/09/11/2026/hospital-moinhos-de-vento-adota-tecnologia-de-inteligencia-de-dados-para-identificar-mais-rapido-pacientes-com-suspeitas-de-cancer-de-pulmao/",
-   "collected_at": "2026-11-11T06:42:27+09:00",
-   "id": "BR-2026-11-09-1"
   },
   {
    "country": "US",
