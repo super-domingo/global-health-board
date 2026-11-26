@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-24T21:42:25Z",
- "briefing_date": "2026-11-25",
- "briefing_ko": "미국에서는 쿡카운티헬스의 에픽 EHR 전면 도입과 DocGo의 심장기기 원격모니터링 사업 매각이 눈에 띄고, 브라질에서는 엠브라피–아인슈타인 디지털헬스 혁신유닛이 출범했다. 한국은 복지부가 '공공의료 AI 고속도로'를 시범 개통했고, 호주는 가상 GP·전자 검사의뢰 등 현장 도입 소식이 이어졌다. 다가오는 행사: MD&M West 2027(2/9~11, 애너하임).",
+ "updatedAt": "2026-11-26T21:42:01Z",
+ "briefing_date": "2026-11-27",
+ "briefing_ko": "이번 소식은 의료 AI의 현장 도입과 관리 체계 정비가 중심이다. 브라질 CFM이 의료 AI 활용 시 전자의무기록 기재를 의무화했고, 영국은 사회복지 AI 지침 공개와 NHS AI 성능 감시 프로젝트를 내놓았으며 호주도 보건 AI 국가 지침 최종 의견수렴에 들어갔다. 미국에서는 웨이스타가 구글 제미나이 헬스케어와 수익주기 AI를 연동했다. 다가오는 큰 행사: 신규 확인된 행사는 없으며 기존 일정(CES, JPM 등) 유지.",
  "items": [
   {
    "country": "CA",
@@ -326,6 +326,102 @@
    "id": "ev-US-2026-11-29-1"
   },
   {
+   "country": "AU",
+   "category": "policy",
+   "importance": "medium",
+   "date": "2026-11-27",
+   "title_ko": "濠 상원, 고령자돌봄 평가 알고리즘 개편 촉구",
+   "summary_ko": "호주 상원 위원회가 Support at Home 프로그램 중간보고서에서 평가자가 자동 평가 결과를 뒤집을 수 있도록 즉각 입법 개정을 권고했다. 통합평가도구(IAT)의 근본적 재설계도 요구했다.",
+   "source": "Pulse+IT",
+   "url": "https://www.pulseit.news/australian-digital-health/senate-calls-for-aged-care-algorithm-overhaul/",
+   "collected_at": "2026-11-27T06:42:01+09:00",
+   "id": "AU-2026-11-27-1"
+  },
+  {
+   "country": "BR",
+   "category": "policy",
+   "importance": "medium",
+   "date": "2026-11-25",
+   "title_ko": "伯 CFM, 의료 AI 활용 시 전자의무기록 기재 의무화",
+   "summary_ko": "브라질 연방의학협회(CFM)의 의료 AI 규정에 따라 임상 의사결정에 AI를 쓰는 의사는 그 사실을 환자 의무기록에 남겨야 한다. 의료기관이 이미 운용 중인 AI 시스템도 지속적인 감사와 모니터링 대상이다. 이 규정은 2026년 8월 26일부터 시행 중이다.",
+   "source": "Saúde Digital News",
+   "url": "https://saudedigitalnews.com.br/25/11/2026/uso-de-inteligencia-artificial-na-decisao-medica-passa-a-constar-do-prontuario/",
+   "collected_at": "2026-11-27T06:42:01+09:00",
+   "id": "BR-2026-11-25-1"
+  },
+  {
+   "country": "BR",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-11-25",
+   "title_ko": "伯 하프비다, AI 에이전트 '유제니아'로 디지털 상담 확대",
+   "summary_ko": "브라질 헬스케어 기업 하프비다가 왓츠앱 판매 상담용 AI 에이전트 EugênIA를 도입해 6개월간 40만 명 넘게 응대했다. 출시 후 45일간 건강보험 3,000건 이상 판매를 지원했고 전환율이 2%p 올랐다. 중소·기업 고객으로 확대할 계획이다.",
+   "source": "Saúde Digital News",
+   "url": "https://saudedigitalnews.com.br/25/11/2026/hapvida-amplia-atendimento-digital-com-agente-de-inteligencia-artificial/",
+   "collected_at": "2026-11-27T06:42:01+09:00",
+   "id": "BR-2026-11-25-2"
+  },
+  {
+   "country": "US",
+   "category": "company",
+   "importance": "medium",
+   "date": "2026-11-25",
+   "title_ko": "美 웨이스타, 구글 클라우드 제미나이 헬스케어에 수익주기 AI 연동",
+   "summary_ko": "웨이스타가 자사 AltitudeAI 수익주기 분석과 보험 자격 확인 기능을 구글의 에이전틱 AI 제품 Gemini for healthcare에 MCP 커넥터로 제공한다. 의료기관은 자연어로 청구·지급 데이터를 질의하고 실시간 자격 확인을 할 수 있다.",
+   "source": "HIT Consultant",
+   "url": "https://hitconsultant.net/2026/11/25/waystar-brings-revenue-cycle-intelligence-google-cloud-gemini-for-healthcare/",
+   "collected_at": "2026-11-27T06:42:01+09:00",
+   "id": "US-2026-11-25-1"
+  },
+  {
+   "country": "CA",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-11-25",
+   "title_ko": "加 피터버러 병원, HIMSS EMRAM 6단계 인증",
+   "summary_ko": "피터버러 지역보건센터가 병원 IT 도입 수준을 평가하는 HIMSS EMRAM 6단계 인증을 받았다. 임상 문서화, 의사결정지원, 통합 디지털 워크플로 투자가 반영됐으며 최고 단계인 7단계를 목표로 한다.",
+   "source": "Canadian Healthcare Technology",
+   "url": "https://www.canhealth.com/2026/11/25/peterborough-awarded-himss-emram-level-6/",
+   "collected_at": "2026-11-27T06:42:01+09:00",
+   "id": "CA-2026-11-25-1"
+  },
+  {
+   "country": "GB",
+   "category": "policy",
+   "importance": "medium",
+   "date": "2026-11-25",
+   "title_ko": "英 정부, 사회복지 분야 AI 활용 지침 공개",
+   "summary_ko": "보건사회부와 교육부가 아동·성인 사회복지 현장의 AI 활용 공동 지침을 발표했다. AI 생성 문서는 직원이 검증해야 하며 개인 결정에 직접 쓰지 못하고 개방형 AI에 개인정보를 입력하면 안 된다. 킹스턴 지자체 사례에서는 기록 업무 시간이 50~60% 줄었다.",
+   "source": "HTN",
+   "url": "https://htn.co.uk/2026/11/25/cross-sector-guidance-published-on-ai-use-in-childrens-and-adult-social-care/",
+   "collected_at": "2026-11-27T06:42:01+09:00",
+   "id": "GB-2026-11-25-1"
+  },
+  {
+   "country": "GB",
+   "category": "policy",
+   "importance": "medium",
+   "date": "2026-11-25",
+   "title_ko": "英 웨스트미들랜즈, NHS AI 성능 감시 전국 프로젝트 주도",
+   "summary_ko": "웨스트미들랜즈 보안데이터환경이 NHS 전반의 AI 도구 성능을 추적하는 SENTINEL-AI를 이끈다. 환자 단위 데이터 공유 없이 성능 근거를 비교하는 체계로, 흉부 X선 판독·폐암 검출 도구부터 시작하며 결과는 2027년 나온다.",
+   "source": "HTN",
+   "url": "https://htn.co.uk/2026/11/25/west-midlands-sde-to-lead-national-project-monitoring-ai-performance-across-the-nhs/",
+   "collected_at": "2026-11-27T06:42:01+09:00",
+   "id": "GB-2026-11-25-2"
+  },
+  {
+   "country": "AU",
+   "category": "policy",
+   "importance": "low",
+   "date": "2026-11-25",
+   "title_ko": "濠 의료안전위, 보건 AI 국가 지침 최종 의견수렴",
+   "summary_ko": "호주 보건의료안전질위원회(ACSQHC)가 의료서비스 내 AI 국가 지침 초안에 대한 최종 의견을 받고 있다. 조직 책임, 조달, 지속 모니터링 권고를 담았으며 11월 30일 마감한다.",
+   "source": "Pulse+IT",
+   "url": "https://www.pulseit.news/australian-digital-health/final-call-for-feedback-on-national-ai-guidance/",
+   "collected_at": "2026-11-27T06:42:01+09:00",
+   "id": "AU-2026-11-25-1"
+  },
+  {
    "country": "DE",
    "category": "event",
    "importance": "low",
@@ -400,6 +496,18 @@
    "id": "AU-2026-11-24-3"
   },
   {
+   "country": "US",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-11-24",
+   "title_ko": "美 WebMD 이그나이트, 의료기관용 챗GPT 광고 상품 출시",
+   "summary_ko": "인터넷브랜즈 산하 WebMD Ignite가 오픈AI와 협력해 미국 의료기관이 AI 챗 플랫폼에서 광고를 집행하도록 돕는 상품을 내놨다. 광고 승인과 노출은 오픈AI가 통제하며 광고는 답변과 분리 표시된다. 일부 캠페인은 이미 가동 중이다.",
+   "source": "HIT Consultant",
+   "url": "https://hitconsultant.net/2026/11/24/webmd-ignite-introduces-chatgpt-advertising/",
+   "collected_at": "2026-11-27T06:42:01+09:00",
+   "id": "US-2026-11-24-1"
+  },
+  {
    "country": "GB",
    "category": "event",
    "importance": "low",
@@ -462,6 +570,18 @@
    "url": "https://hitconsultant.net/2026/11/23/innovaccer-expands-gravity-voice-ai-grok-voice-autonomous-patient-engagement/",
    "collected_at": "2026-11-25T06:42:25+09:00",
    "id": "US-2026-11-23-3"
+  },
+  {
+   "country": "GB",
+   "category": "company",
+   "importance": "low",
+   "date": "2026-11-23",
+   "title_ko": "英 이스트랭커셔 NHS, 앰비언트 음성기술 도입",
+   "summary_ko": "이스트랭커셔병원 NHS 트러스트가 진료기록·환자 서한 초안을 작성하는 앰비언트 음성기술(AVT)을 지역 서비스부터 도입하고 2027년 초 급성기 서비스로 확대한다. 환자 동의를 받고 임상의가 정확성을 확인한다.",
+   "source": "HTN",
+   "url": "https://htn.co.uk/2026/11/23/avt-to-be-rolled-out-across-east-lancashire-hospitals-nhs/",
+   "collected_at": "2026-11-27T06:42:01+09:00",
+   "id": "GB-2026-11-23-1"
   },
   {
    "country": "KR",
@@ -744,6 +864,18 @@
    "id": "CH-2026-11-17-1"
   },
   {
+   "country": "KR",
+   "category": "investment",
+   "importance": "medium",
+   "date": "2026-11-17",
+   "title_ko": "숨빗AI, 시리즈A 120억 원 유치…생성형 AI 영상판독",
+   "summary_ko": "생성형 AI 의료영상 판독 기업 숨빗AI가 SV인베스트먼트 주도로 120억 원 시리즈A를 유치했다. 스케일업 TIPS 선정을 포함해 총 150억 원을 확보했으며, 흉부 X-ray에서 CT·MRI로 제품을 확장해 2027년 CT 제품 출시와 RSNA 2026 데뷔를 목표로 한다.",
+   "source": "디지털투데이",
+   "url": "https://www.digitaltoday.co.kr/en/view/126670/soombit-ai-raises-12-billion-won-in-series-a-to-expand-generative-ai-medical-imaging-reads",
+   "collected_at": "2026-11-27T06:42:01+09:00",
+   "id": "KR-2026-11-17-2"
+  },
+  {
    "country": "DE",
    "category": "event",
    "importance": "high",
@@ -888,54 +1020,6 @@
    "id": "US-2026-11-14-1"
   },
   {
-   "country": "US",
-   "category": "investment",
-   "importance": "high",
-   "date": "2026-11-13",
-   "title_ko": "美 GE헬스케어, SOFIE 바이오사이언스 9.45억달러 인수",
-   "summary_ko": "GE헬스케어가 사모펀드 트릴란틱 노스아메리카로부터 SOFIE 바이오사이언스를 9억4500만 달러에 인수하기로 확정했다. 정밀의료를 아우르는 엔드투엔드 역량 확보가 목적이며, 거래 종료는 2027년 상반기로 예상되고 규제 승인이 필요하다.",
-   "source": "Saúde Digital News",
-   "url": "https://saudedigitalnews.com.br/13/11/2026/ge-healthcare-adquire-sofie-biosciences-por-us-945-milhoes-para-viabilizar-medicina-de-precisao-de-ponta-a-ponta/",
-   "collected_at": "2026-11-16T06:42:06+09:00",
-   "id": "US-2026-11-13-1"
-  },
-  {
-   "country": "BR",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-11-13",
-   "title_ko": "브라질 Starbem, 사내 BI용 AI 에이전트로 AI 사례상 수상",
-   "summary_ko": "기업 건강관리 헬스테크 Starbem의 BI 에이전트 ABI가 Think Tank AI 2026 상위 4개 사례에 선정됐다. 분석 소요 시간을 7일에서 약 3.5분으로 줄였고 정확도 95.2%를 기록했다.",
-   "source": "Saúde Digital News",
-   "url": "https://saudedigitalnews.com.br/13/11/2026/de-7-dias-para-35-minutos-agente-de-ia-da-starbem-e-premiado-entre-os-melhores-cases-de-inteligencia-artificial-do-pais/",
-   "collected_at": "2026-11-16T06:42:06+09:00",
-   "id": "BR-2026-11-13-1"
-  },
-  {
-   "country": "CH",
-   "category": "investment",
-   "importance": "medium",
-   "date": "2026-11-13",
-   "title_ko": "瑞 vVARDIS, 뉴욕증시 상장… 기업가치 10억 달러",
-   "summary_ko": "스위스 추크 소재 치과 메드테크 기업 vVARDIS가 11월 13일 NYSE에 상장했다(티커 VVVV). 공모가는 주당 18달러로 목표 범위보다 3달러 낮았고, 기업가치는 약 10억 6천만 달러로 평가됐다.",
-   "source": "startupticker.ch",
-   "url": "https://www.startupticker.ch/en/news/two-swiss-ipos-in-one-day",
-   "collected_at": "2026-11-16T06:42:06+09:00",
-   "id": "CH-2026-11-13-1"
-  },
-  {
-   "country": "FR",
-   "category": "investment",
-   "importance": "medium",
-   "date": "2026-11-13",
-   "title_ko": "佛 오라클 온콜로지, AI 암 신약예측 시리즈A 3천만 유로",
-   "summary_ko": "귀스타브 루시 연구소에서 분사한 프랑스 테크바이오 기업 오라클 온콜로지가 노르스켄 VC와 싱귤러 주도로 3천만 유로(약 3,400만 달러) 시리즈A를 유치했다. 환자 유래 종양 조직과 임상·분자 데이터를 결합해 임상시험 전에 신약 반응을 예측하는 AI 플랫폼을 더 많은 암종으로 확대한다.",
-   "source": "Startup Rise",
-   "url": "https://startuprise.co.uk/orakl-oncology-raises-e30mn-to-transform-cancer-drug-research/",
-   "collected_at": "2026-11-20T06:42:37+09:00",
-   "id": "FR-2026-11-13-1"
-  },
-  {
    "country": "JP",
    "category": "event",
    "importance": "low",
@@ -962,156 +1046,6 @@
    "url": "https://prtimes.jp/main/html/rd/p/000001481.000013943.html",
    "collected_at": "2026-11-09T06:43:19+09:00",
    "id": "ev-JP-2026-11-12-2"
-  },
-  {
-   "country": "CH",
-   "category": "investment",
-   "importance": "low",
-   "date": "2026-11-12",
-   "title_ko": "美 엘로미아, 스위스 AI 정신건강앱 Earkick 인수",
-   "summary_ko": "미국 엘로미아 헬스가 스위스 AI 정서지원 앱 Earkick을 인수했다. Earkick의 AI 모델과 메모리 엔진 Mia21 조기 접근권을 확보해 기업·의료기관용 API를 강화한다. 인수 금액은 비공개다.",
-   "source": "Startupticker.ch",
-   "url": "https://startupticker.ch/en/news/earkick-s-ai-emotional-support-chatbot-finds-new-owner",
-   "collected_at": "2026-11-13T06:42:36+09:00",
-   "id": "CH-2026-11-12-1"
-  },
-  {
-   "country": "IL",
-   "category": "investment",
-   "importance": "low",
-   "date": "2026-11-12",
-   "title_ko": "以 Elligint, AI 케어관리 Laguna Health 인수",
-   "summary_ko": "Elligint가 AI 개발 조직 강화를 위해 이스라엘 Laguna를 인수한다. 인력 약 20명을 이스라엘에 유지하며 두 배로 늘릴 계획이다.",
-   "source": "RuntimeWire (CTech 인용)",
-   "url": "https://runtimewire.com/article/elligint-health-acquires-laguna-health-ai-care-management",
-   "collected_at": "2026-11-13T06:42:36+09:00",
-   "id": "IL-2026-11-12-1"
-  },
-  {
-   "country": "KR",
-   "category": "company",
-   "importance": "medium",
-   "date": "2026-11-12",
-   "title_ko": "삼성·오픈AI, 미국 커넥티드 헬스 확대…한국은 데이터 장벽",
-   "summary_ko": "삼성전자와 오픈AI가 웨어러블·AI 건강 데이터를 병원 시스템과 연계하는 미국 사업을 넓힌다. 삼성은 의료 마이데이터에 신청했으며 연내 승인을 기대한다.",
-   "source": "Korea Biomed",
-   "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33825",
-   "collected_at": "2026-11-13T06:42:36+09:00",
-   "id": "KR-2026-11-12-1"
-  },
-  {
-   "country": "KR",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-11-12",
-   "title_ko": "루닛, 3분기 EBITDA 적자 77% 축소…14분기 최저",
-   "summary_ko": "루닛의 3분기 EBITDA 적자는 35억 원으로 77% 줄었다. 매출은 13% 늘어 222억 원으로 최대였고 누적 매출은 680억 원이다.",
-   "source": "Korea Biomed",
-   "url": "https://www.koreabiomed.com/news/articleView.html?idxno=33830",
-   "collected_at": "2026-11-13T06:42:36+09:00",
-   "id": "KR-2026-11-12-2"
-  },
-  {
-   "country": "BR",
-   "category": "investment",
-   "importance": "medium",
-   "date": "2026-11-12",
-   "title_ko": "브라질 Mendelics, 150억원대 투자해 암 잔존질환 검사 도입",
-   "summary_ko": "Mendelics가 1500만 헤알 이상을 투자해 Ultima Genomics의 UG 200 시퀀서를 브라질 독점 도입하고 전장유전체 기반 MRD 검사 Ultra MRD를 출시했다. 아직 ANS·SUS 의무 보장 대상은 아니다.",
-   "source": "Saúde Digital News",
-   "url": "https://saudedigitalnews.com.br/12/11/2026/mendelics-investe-mais-de-r-15-milhoes-e-traz-ao-brasil-tecnologia-inedita-da-ultima-genomics-para-revolucionar-o-monitoramento-do-cancer/",
-   "collected_at": "2026-11-16T06:42:06+09:00",
-   "id": "BR-2026-11-12-1"
-  },
-  {
-   "country": "DE",
-   "category": "policy",
-   "importance": "low",
-   "date": "2026-11-12",
-   "title_ko": "獨 샤리테 원장, 보건안보·디지털 대비 미흡 지적",
-   "summary_ko": "샤리테 하이오 크뢰머 원장은 독일이 디지털 상황 파악 체계와 보건안보법(GeSiG) 부재로 보건 비상 대응이 미흡하다고 지적했다. 사이버보안 투자 확대와 에이전틱 AI 역할, 에픽(Epic) 병원정보시스템 도입 논란도 언급했다.",
-   "source": "Deutsches Ärzteblatt",
-   "url": "https://www.aerzteblatt.de/themen/digitalisierung/charite-chef-gesundheitssicherheit-in-deutschland-immer-noch-am-anfang-3960846b-330e-4bab-b1cd-dadada023682",
-   "collected_at": "2026-11-16T06:42:06+09:00",
-   "id": "DE-2026-11-12-1"
-  },
-  {
-   "country": "KR",
-   "category": "company",
-   "importance": "low",
-   "date": "2026-11-12",
-   "title_ko": "한국서 검증한 의료AI, 글로벌 진출 가속",
-   "summary_ko": "DHP 2026에서 최윤섭 대표는 국내에서 검증한 의료AI 기업들이 해외 진출 성과를 내고 있다고 밝혔다. 코어라인소프트는 독일 보험 적용, 루닛은 볼파라 인수를 기반으로 해외 사업을 넓히고 있으며 정부의 AI 기본의료 전략이 이를 뒷받침할 것으로 평가됐다.",
-   "source": "데일리메디",
-   "url": "https://dailymedi.com/news/news_view.php?wr_id=942483",
-   "collected_at": "2026-11-23T06:43:14+09:00",
-   "id": "KR-2026-11-12-3"
-  },
-  {
-   "country": "CH",
-   "category": "policy",
-   "importance": "low",
-   "date": "2026-11-12",
-   "title_ko": "瑞 스위스메딕, 의무 의약품 정보 게시 기한 연장",
-   "summary_ko": "스위스메딕은 당국 지시 의약품 정보자료가 전자게시 플랫폼에 일부 미게시된 점을 확인하고 기한을 2026년 12월 31일까지 연장했다. 의료인용 자료는 swissmedicinfo-pro.ch, 환자용 자료는 swissmedicinfo.ch에도 게시해야 한다.",
-   "source": "Swissmedic",
-   "url": "https://www.swissmedic.ch/swissmedic/en/home/news/mitteilungen/nachfrist-zur-publikation-behoerdlich-angeordneter-informationsmaterialien-auf-der-elektronischen-publikationsplattform.html",
-   "collected_at": "2026-11-25T06:42:25+09:00",
-   "id": "CH-2026-11-12-2"
-  },
-  {
-   "country": "FR",
-   "category": "policy",
-   "importance": "low",
-   "date": "2026-11-12",
-   "title_ko": "佛 전문가 \"AI 보건개혁이 차기 대개혁 돼야\"",
-   "summary_ko": "다비드 스마자 교수가 기고문에서 AI를 사회보장제도·대학병원 설립에 이은 제3의 보건 대전환으로 규정했다. 상호운용성·데이터 보안·의료진 감독형 AI를 축으로 한 디지털 보건 마셜 플랜과 실질 효용 기반 보상체계 전환을 촉구했다.",
-   "source": "Santé sur le Net",
-   "url": "https://www.sante-sur-le-net.com/innovation/la-prochaine-grande-reforme-de-la-sante-devra-etre-celle-de-lintelligence-artificielle/",
-   "collected_at": "2026-11-25T06:42:25+09:00",
-   "id": "FR-2026-11-12-1"
-  },
-  {
-   "country": "KR",
-   "category": "event",
-   "importance": "medium",
-   "date": "2026-11-11",
-   "date_end": "2026-11-12",
-   "city_ko": "서울",
-   "title_ko": "DHP 2026, K-디지털헬스 글로벌 진출 모색",
-   "summary_ko": "디지털헬스케어파트너스(DHP)가 주최하는 국내 대표 디지털헬스 연례 콘퍼런스 겸 데모데이가 가톨릭대 성의교정 옴니버스파크 플렌티컨벤션에서 열린다. 'Breakout to the Globe'를 주제로 빅테크·병원의 글로벌 전략과 스타트업 16곳의 해외 진출 경험을 다루며, OpenAI 한국 대표 기조연설과 AI 기본의료 전략 세션이 마련된다.",
-   "source": "디지털헬스케어파트너스(DHP)",
-   "url": "https://dhp2026.com/",
-   "collected_at": "2026-10-27T14:50:00+09:00",
-   "id": "ev-KR-2026-11-11-1"
-  },
-  {
-   "country": "DE",
-   "category": "event",
-   "importance": "low",
-   "date": "2026-11-11",
-   "date_end": "2026-11-13",
-   "city_ko": "파르카르헨",
-   "title_ko": "獨 DigiHealthDayS 2026 글로벌 디지털헬스 포럼",
-   "summary_ko": "ISfTeH 제29회 연례 콘퍼런스를 겸한 글로벌 디지털헬스 포럼이 독일 파르카르헨과 온라인에서 열린다. AI 의료와 EHDS 등이 주제다.",
-   "source": "Medical Valley EMN",
-   "url": "https://www.medical-valley-emn.de/veranstaltungen/digihealthdays-2026-the-29th-isfteh-annual-conference/",
-   "collected_at": "2026-10-28T06:43:20+09:00",
-   "id": "ev-DE-2026-11-11-1"
-  },
-  {
-   "country": "US",
-   "category": "event",
-   "importance": "medium",
-   "date": "2026-11-11",
-   "date_end": "2026-11-13",
-   "city_ko": "올랜도",
-   "title_ko": "AIMed26 의료 AI 콘퍼런스, 올랜도서 개최",
-   "summary_ko": "의료 AI를 다루는 AIMed26이 11월 11~13일 플로리다 올랜도 르네상스 올랜도 앳 씨월드에서 열린다. 임상 현장의 AI 도입 사례를 공유한다.",
-   "source": "AIMed",
-   "url": "https://www.aimed26.com",
-   "collected_at": "2026-11-06T06:42:12+09:00",
-   "id": "ev-US-2026-11-11-1"
   },
   {
    "country": "US",
